@@ -7,6 +7,7 @@ Week 1, lecture 1, Sept 1 (W)
 
 - Introduction: example problems and datasets, meet and greet.
 - Reference: Murphy Ch1 
+- [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
 
 Week 1, Lecture 2, Sept 3 (F)
 
