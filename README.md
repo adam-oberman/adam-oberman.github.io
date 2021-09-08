@@ -2,7 +2,7 @@
 
 A mathematically rigorous approach to machine learning. 
 
-## Audience: 
+## Audience
 Math and Stats Majors/Honours students, CS students.
 
 ## Prerequisites 
@@ -24,7 +24,7 @@ Math and Stats Majors/Honours students, CS students.
 - Math 308 Fundamentals of Statistical Learning 
   - not offered this year.
 
-## Textbook/References:
+## Textbook/References
 
 -   Mathematics for Machine Learning by Diesenroth, <https://mml-book.github.io/> This book is elementary, but can be used as a reference or review of topics from the prerequisites 
 -   Probabilistic Machine Learning: An Introduction by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/)  https://probml.github.io/pml-book/book1.html This book is encyclopedic, covers many topics, good reference, but not presented as digestible lectures
@@ -33,24 +33,16 @@ Math and Stats Majors/Honours students, CS students.
 -   High dimensional statistics, a non-asymptotic viewpoint, Martin J Wainwright <https://people.eecs.berkeley.edu/~wainwrig/> This book is very good for Kernel theory, and concentration of measure.  
 
 ## Grading 
-
 - 5 HW assignments : 25%
-
 - Group Project and Presentation: 15% 
-
 - Attendance 5%, Participation 5%. 
-
 - 2 Midterm Exams : 20%
-
 - Final exam : 30% 
-
 - *Soft grading policy:* you are encouraged to make your best effort to complete all the work.  However, if you need to miss anything (assignment or exam), I will institute a soft grading policy which will allow one missed assignment and one missed midterm exam, with a small penalty.    Your final grade will be given by your average on the other work, with a penalty of: 
-
   -   1% (for each assignment missed), 
   -   2% (for a missed midterm).   
-  -   3% (for a missed final exam)
-
-  E.g. if you missed one assignment and one midterm, with an average of 87% on the rest, then the penalty would be 87-(1+2) = 84%.  
+  -   3% (for a missed final exam) 
+E.g. if you missed one assignment and one midterm, with an average of 87% on the rest, then the penalty would be 87-(1+2) = 84%.  
 
 ## Key Dates
 
