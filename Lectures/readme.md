@@ -1,7 +1,7 @@
 # Lecture Notes :  MATH 462, Fall 2021
 
-* all handwritten notes are availabe in PDF for download (in the directory above) organized according to date*
-* typed notes are available for download *
+* all handwritten notes are availabe in PDF for download*
+* [typed notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes.pdf)  are available for download *
 
 Week 1, lecture 1, Sept 1 (W)
 
