@@ -13,7 +13,7 @@ Week 1, Lecture 2, Sept 3 (F)
 
 - Set up the supervised learning problem. Regression
 - Reference: course notes.
-
+- [Lecture 2](<a href=”product”>)
 
 Week 2, Lecture 3, Sept 8 (W)
 
