@@ -13,7 +13,7 @@ Week 1, Lecture 2, Sept 3 (F)
 
 - Set up the supervised learning problem. Regression
 - Reference: course notes.
-- [Lecture 2](<a href=”product”>)
+- [Lecture 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2003%20Lecture%202.pdf)
 
 Week 2, Lecture 3, Sept 8 (W)
 
