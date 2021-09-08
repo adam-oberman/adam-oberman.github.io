@@ -1,8 +1,4 @@
----
-layout: default
-title: Math 462
----
-#### First day handout 
+#### Course Outline
 
 A mathematically rigorous approach to machine learning. 
 
