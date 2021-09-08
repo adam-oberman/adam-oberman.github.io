@@ -1,12 +1,10 @@
 #   MATH 462, Fall 2021 Mathematics for Machine Learning
-
 A mathematically rigorous approach to machine learning. 
 
 ## Audience
 Math and Stats Majors/Honours students, CS students.
 
 ## Prerequisites 
-
 - Math 223/Math 248 or equivalent (linear algebra majors/honours)
 - Math 222 (Calculus 3)
 - Math 324/Math 357 (Statistics) 
@@ -29,8 +27,8 @@ Math and Stats Majors/Honours students, CS students.
 -   [Mathematics for Machine Learning by Diesenroth](https://mml-book.github.io/) This book is elementary, but can be used as a reference or review of topics from the prerequisites 
 -   [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html) This book is encyclopedic, covers many topics, good reference, but not presented as digestible lectures
 -   [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shavev-Shwartz and Ben David  This book is very good for presenting machine learning problem, but less detailed on the proofs and part 3. 
--   [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. This book contains rigorous proofs of generalization bounds, but assumes the reader is already familiar with the problems
--   [High dimensional statistics, a non-asymptotic viewpoint](https://people.eecs.berkeley.edu/~wainwrig/) by Martin J Wainwright This book is very good for Kernel theory, and concentration of measure.  
+-   [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. This book contains rigorous proofs of generalization bounds, but assumes the reader is already familiar with the problems.
+-   [High dimensional statistics, a non-asymptotic viewpoint](https://people.eecs.berkeley.edu/~wainwrig/) by Martin J Wainwright. 
 
 ## Grading 
 - 5 HW assignments : 25%
