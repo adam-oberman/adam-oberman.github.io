@@ -1,1 +1,1 @@
-# adam-oberman.github.io
+# Course web page for Math 462
