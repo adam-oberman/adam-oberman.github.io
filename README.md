@@ -26,11 +26,11 @@ Math and Stats Majors/Honours students, CS students.
 
 ## Textbook/References
 
--   Mathematics for Machine Learning by Diesenroth, <https://mml-book.github.io/> This book is elementary, but can be used as a reference or review of topics from the prerequisites 
--   Probabilistic Machine Learning: An Introduction by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/)  https://probml.github.io/pml-book/book1.html This book is encyclopedic, covers many topics, good reference, but not presented as digestible lectures
--   Understanding Machine Learning: From Theory to Algorithms by [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais) and [Shai Ben-David](https://cs.uwaterloo.ca/~shai) https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/   This book is very good for presenting machine learning problem, but less detailed on the proofs and part 3. 
--   Foundations of Machine Learning, Mohri, Rostamizadeh, Talwalkar <https://cs.nyu.edu/~mohri/mlbook/> This book contains rigorous proofs of generalization bounds, but assumes the reader is already familiar with the problems
--   High dimensional statistics, a non-asymptotic viewpoint, Martin J Wainwright <https://people.eecs.berkeley.edu/~wainwrig/> This book is very good for Kernel theory, and concentration of measure.  
+-   [Mathematics for Machine Learning by Diesenroth](https://mml-book.github.io/) This book is elementary, but can be used as a reference or review of topics from the prerequisites 
+-   [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html) This book is encyclopedic, covers many topics, good reference, but not presented as digestible lectures
+-   [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shavev-Shwartz and Ben David  This book is very good for presenting machine learning problem, but less detailed on the proofs and part 3. 
+-   [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. This book contains rigorous proofs of generalization bounds, but assumes the reader is already familiar with the problems
+-   [High dimensional statistics, a non-asymptotic viewpoint](https://people.eecs.berkeley.edu/~wainwrig/) by Martin J Wainwright This book is very good for Kernel theory, and concentration of measure.  
 
 ## Grading 
 - 5 HW assignments : 25%
@@ -45,9 +45,7 @@ Math and Stats Majors/Honours students, CS students.
 E.g. if you missed one assignment and one midterm, with an average of 87% on the rest, then the penalty would be 87-(1+2) = 84%.  
 
 ## Key Dates
-
-Refer to https://www.mcgill.ca/importantdates/key-dates#Fall_2021
-
+Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Fall_2021)
 - Classes begin Weds Sept 1. 
 - Fall reading break: Tues-Weds Oct 12-13 
 - Makeup day Oct 15, no class.  
