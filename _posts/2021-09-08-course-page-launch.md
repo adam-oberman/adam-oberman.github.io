@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2021-09-08
+title: "MATH 462, Fall 2021 Mathematics for Machine Learning"
 ---
+
 ##   MATH 462, Fall 2021 Mathematics for Machine Learning
 
 #### First day handout 
