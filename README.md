@@ -1,22 +1,19 @@
 #   MATH 462, Fall 2021 Mathematics for Machine Learning
 
-#### First day handout 
-
 A mathematically rigorous approach to machine learning. 
 
-#### Audience: 
-
+## Audience: 
 Math and Stats Majors/Honours students, CS students.
 
-#### Prerequisites 
+## Prerequisites 
 
 - Math 223/Math 248 or equivalent (linear algebra majors/honours)
 - Math 222 (Calculus 3)
 - Math 324/Math 357 (Statistics) 
 - Probability course (implied, since it is a prequisite for 324/357)
-- Math 358 Honours Vector Calculus/Math 314 Advanced Calculus
+- Math 358 Honours Vector Calculus/Math 314 Advanced Calculus 
 
-**Related Courses**
+## Related Course
 
 - Math 562, Winter 2022
   - This is a sequel to Math 462.  There will be a small amount of repetition of topics, since some students will not have taken 462.  However, to avoid repeated material, students from 462 will work on their project, and be excused from HW problems which overlap. 
@@ -27,7 +24,7 @@ Math and Stats Majors/Honours students, CS students.
 - Math 308 Fundamentals of Statistical Learning 
   - not offered this year.
 
-#### Textbook/References:
+## Textbook/References:
 
 -   Mathematics for Machine Learning by Diesenroth, <https://mml-book.github.io/> This book is elementary, but can be used as a reference or review of topics from the prerequisites 
 -   Probabilistic Machine Learning: An Introduction by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/)  https://probml.github.io/pml-book/book1.html This book is encyclopedic, covers many topics, good reference, but not presented as digestible lectures
@@ -35,7 +32,7 @@ Math and Stats Majors/Honours students, CS students.
 -   Foundations of Machine Learning, Mohri, Rostamizadeh, Talwalkar <https://cs.nyu.edu/~mohri/mlbook/> This book contains rigorous proofs of generalization bounds, but assumes the reader is already familiar with the problems
 -   High dimensional statistics, a non-asymptotic viewpoint, Martin J Wainwright <https://people.eecs.berkeley.edu/~wainwrig/> This book is very good for Kernel theory, and concentration of measure.  
 
-### Grading 
+## Grading 
 
 - 5 HW assignments : 25%
 
@@ -55,7 +52,7 @@ Math and Stats Majors/Honours students, CS students.
 
   E.g. if you missed one assignment and one midterm, with an average of 87% on the rest, then the penalty would be 87-(1+2) = 84%.  
 
-### Key Dates
+## Key Dates
 
 Refer to https://www.mcgill.ca/importantdates/key-dates#Fall_2021
 
