@@ -1,4 +1,4 @@
-##   MATH 462, Fall 2021 Mathematics for Machine Learning
+#   MATH 462, Fall 2021 Mathematics for Machine Learning
 
 #### First day handout 
 
