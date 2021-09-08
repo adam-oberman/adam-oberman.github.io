@@ -1,4 +1,4 @@
-## Lecture Plan :  MATH 462, Fall 2021
+# Lecture Notes :  MATH 462, Fall 2021
 
 * all handwritten notes are availabe in PDF for download (in the directory above) organized according to date*
 * typed notes are available for download *
