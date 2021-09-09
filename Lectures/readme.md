@@ -1,29 +1,26 @@
 # Lecture Notes :  MATH 462, Fall 2021
-
-### Course Notes 
-#### Handwritten notes from class  
+## Handwritten notes from class  
 - [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
 - [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
 - [Lecture 3](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2008%20Lecture%203.pdf)
-#### Typed Notes (same material, order may differ)
+## Typed Notes (same material, order may differ)
 - [typed notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes.pdf) 
 - These notes will be revised during the courese, so the material may change
-#### Zoom recordings 
+## Zoom recordings 
 - (No recording for lectures 1 and 2) 
 - [Lecture 3](https://mcgill.zoom.us/rec/share/VKdYKjgxXbdlP9_8l3xcSKz7E2A7Z_gwyOpYjbO1n9XQ-gSIO51ITa9Ug83cjejV.ZFHqMEOCdcJpXMx0?startTime=1631109875000)
 
-Week 1, lecture 1, Sept 1 (W)
+## By lecture
+### Week 1, lecture 1, Sept 1 (W)
 - Introduction: example problems and datasets, meet and greet.
 - Reference: Murphy Ch1 
 - [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
-
-Week 1, Lecture 2, Sept 3 (F)
+### Week 1, Lecture 2, Sept 3 (F)
 - Set up the supervised learning problem. Regression
 - [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
-
-Week 2, Lecture 3, Sept 8 (W)
+### Week 2, Lecture 3, Sept 8 (W)
 - Regression, other losses, compare losses.
 - Calculus to find the minimizer of the (ELM) problem. 
-- Reference: Course notes. [Lecture 3](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2008%20Lecture%203.pdf)
+- Reference: Course notes. [Lecture 3](../Lectures/09%2008%20Lecture%203.pdf)
 
 
