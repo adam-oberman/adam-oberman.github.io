@@ -6,8 +6,7 @@
 - [Lecture 3](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2008%20Lecture%203.pdf)
 
 ## Typed Notes (same material, order may differ)
-- [typed notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes.pdf) 
-- These notes will be revised during the courese, so the material may change
+- [Course Notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes.pdf). These notes will be revised during the courese, so the material may change
 
 ## Zoom recordings 
 - (No recording for lectures 1 and 2) 
