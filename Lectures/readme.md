@@ -17,16 +17,16 @@
 ## By lecture
 ### Week 1, lecture 1, Sept 1 (W)
 - Introduction: example problems and datasets, meet and greet.
-- Reference: Murphy Ch1, [Lecture 1](09%2001%20Lecture%201.pdf)
+- Reference: Murphy Ch1,
 ### Week 1, Lecture 2, Sept 3 (F)
-- Set up the supervised learning problem for regression, [Lecture 2](09%2001%20Lecture%202.pdf)
+- Set up the supervised learning problem for regression, 
 ### Week 2, Lecture 3, Sept 8 (W)
 - Regression, other losses, compare losses.
 - Calculus to find the minimizer of the (ELM) problem. 
-- Reference: Course notes. [Lecture 3](09%2008%20Lecture%203.pdf)
+- Reference: Course notes. 
 ### Week 2, Lecture 4, Sept 10 (F)
 - Review of calculus and vector calculus, chain rule, gradient
 - Compute gradient of the (EL) expected loss function
 - Quadratic regression case 
-- References: [Lecture 4](09%2008%20Lecture%203.pdf), Course Notes, Chapter "Gradients and Minimizers"
+- References: Course Notes, Section "Gradients and Minimizers"
 
