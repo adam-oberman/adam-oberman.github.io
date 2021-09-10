@@ -6,7 +6,7 @@
 
 ## Handwritten notes from class  
 - [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
-- [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
+- [Lecture 2](09%2001%20Lecture%202.pdf)
 - [Lecture 3](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2008%20Lecture%203.pdf)
 - [Lecture 4](09%2008%20Lecture%203.pdf)
 
@@ -22,7 +22,7 @@
 - [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
 ### Week 1, Lecture 2, Sept 3 (F)
 - Set up the supervised learning problem. Regression
-- [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
+- [Lecture 2](09%2001%20Lecture%202.pdf)
 ### Week 2, Lecture 3, Sept 8 (W)
 - Regression, other losses, compare losses.
 - Calculus to find the minimizer of the (ELM) problem. 
