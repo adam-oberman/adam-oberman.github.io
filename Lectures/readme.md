@@ -8,6 +8,7 @@
 - [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
 - [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
 - [Lecture 3](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2008%20Lecture%203.pdf)
+- [Lecture 4](/09%2008%20Lecture%203.pdf)
 
 
 ## Zoom recordings 
@@ -26,5 +27,9 @@
 - Regression, other losses, compare losses.
 - Calculus to find the minimizer of the (ELM) problem. 
 - Reference: Course notes. [Lecture 3](../Lectures/09%2008%20Lecture%203.pdf)
-
+### Week 2, Lecture 4, Sept 10 (F)
+- Review of calculus and vector calculus, chain rule, gradient
+- Compute gradient of the (EL) expected loss function
+- Quadratic regression case 
+- References: [Lecture 4](/09%2008%20Lecture%203.pdf), Chapter "Gradients and Minimizers"
 
