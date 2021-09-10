@@ -8,7 +8,7 @@
 - [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
 - [Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2001%20Lecture%201.pdf)
 - [Lecture 3](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/09%2008%20Lecture%203.pdf)
-- [Lecture 4](/09%2008%20Lecture%203.pdf)
+- [Lecture 4](09%2008%20Lecture%203.pdf)
 
 
 ## Zoom recordings 
