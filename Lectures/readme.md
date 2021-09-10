@@ -16,6 +16,7 @@
 - Lecture 4 is only available in mycourses.
 
 ## By lecture
+### Part 1
 ### Week 1, lecture 1, Sept 1 (W)
 - Introduction: example problems and datasets, meet and greet.
 - Reference: Murphy Ch1,
@@ -30,4 +31,7 @@
 - Compute gradient of the (EL) expected loss function
 - Quadratic regression case 
 - References: Course Notes, Section "Gradients and Minimizers"
-
+---
+### End of Part 1
+- [Homework 1](Math461_HW1.pdf)
+- 
