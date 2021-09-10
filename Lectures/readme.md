@@ -34,5 +34,5 @@
 
 ### End of Part 1
 - [Homework 1](Math462_HW1.pdf)
-- Final Version of Notes for this section [Screen Format] [Letter format]
+- Final Version of Notes for this section [Screen Format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf) [Letter format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1_Letter.pdf)
 ---
