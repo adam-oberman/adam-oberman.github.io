@@ -31,7 +31,8 @@
 - Compute gradient of the (EL) expected loss function
 - Quadratic regression case 
 - References: Course Notes, Section "Gradients and Minimizers"
----
+
 ### End of Part 1
 - [Homework 1](Math462_HW1.pdf)
-- 
+- Final Version of Notes for this section [Screen Format] [Letter format]
+---
