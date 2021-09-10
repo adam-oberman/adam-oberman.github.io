@@ -31,5 +31,5 @@
 - Review of calculus and vector calculus, chain rule, gradient
 - Compute gradient of the (EL) expected loss function
 - Quadratic regression case 
-- References: [Lecture 4](/09%2008%20Lecture%203.pdf), Chapter "Gradients and Minimizers"
+- References: [Lecture 4](09%2008%20Lecture%203.pdf), Chapter "Gradients and Minimizers"
 
