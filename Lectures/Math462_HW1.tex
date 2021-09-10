@@ -1,0 +1,84 @@
+\documentclass[12pt]{amsart}
+\usepackage{geometry}
+
+\geometry{paperwidth=10in, paperheight=7in, margin = 2.5cm}
+\input{paper-commands}
+\usepackage{comment}
+
+
+%\includecomment{TODO}
+\excludecomment{TODO}
+
+\usepackage{hyperref}
+%\usepackage[utf8]{inputenc}
+\renewcommand*\rmdefault{cmss}
+%\documentclass[16  pt]{amsart}
+%
+%\usepackage{geometry}
+%\geometry{letterpaper, margin=1.25in}
+
+% Better equation numbering: (during editing)
+\usepackage{mathtools}
+\mathtoolsset{showonlyrefs}
+%\usepackage{enumerate}
+
+% \graphicspath{{/path/to/some/folder}} 
+
+\begin{document} 
+\title{Math 462 Assignment 1}
+\author{Adam M. Oberman}
+\date{\today}
+\maketitle
+
+\section{Exercises}
+\begin{equation}\tag{EL}\label{EL}
+	\widehat L(w) = \frac{1}{m} \sum_{i=1}^m \ell(h_w(x_i), y_i)
+\end{equation}
+
+\begin{equation}
+	\label{EL1d}\tag{EL1d}
+		\wL(w) = \frac 1 m \sum_{i=1}^m q(wx_i -y_i).
+\end{equation}
+\begin{equation}\label{linReg}
+	X^TX w = X^T y
+\end{equation}
+
+\begin{equation}\label{CVIL}\tag{CVIL}
+\min_w \frac 1 m \sum_{i=1}^m \ell(w,y_i)	
+\end{equation}
+
+\subsection{Example calculations}
+\begin{enumerate}
+	\item (One variable quadratic regression) Consider \eqref{EL} with $X = [ 1, 2, 3 ]^2$,   $y = [ 2, 4, 5 ]^T$,  linear model $h_w(x) = w*x$, and quadratic loss, \eqref{EL1d}. Solve the problem by finding a critical point, $\hat L'(w) = 0$.
+	\item (One variable $\ell_1$ regression) Same setup as in the previous problem: consider \eqref{EL} with $X = \{ 1, 2 \}$  $Y = \{ 1, 3 \}$.  Use linear model $h = w*x$.  Solve the problem with the $\ell_1$ loss.  Hint: plot the function $\hat L(w)$, which is piecewise linear, and find the minimum value (by finding the intersection of  two lines).  
+	\item ($\ell_1$ central value)  Plot (by hand, or otherwise), $\wL(w) = \frac 1 m \sum_i |w - y_i|$ in the case $y = [ 2, 4, 5 ]^T$, and in the case $y = [3, 6]$.  Find all the minimizers in both cases. 
+	\item (Polynomial regression, coding).  Suppose our data points are $x = [0, .1, \dots, .9, 1$].  Let $f(x) = (1, x)$ (affine linear regression).  Set Choose $y = \sin(2\pi x) + .1 y_e$, where $y_e$ is uniformly random data on $[0,1]$.  (i) Set up the data matrix, $F$. What are the sizes of $F$,  $F^TF$, and $w$?  Plot the error and solution.  Is the fit good?   (ii) Redo the problem with 	$f(x) = (1, x, x^2, x^3)$. 
+	\item (Two variable quadratic regression) Set $X = \{ (3,0), (0,2), (1,1) \}$ $Y = \{ 6, 2, 5 \}$ Setup the quadratic regression problem (i) by minimizing \eqref{EL} directly (i.e. take derivatives with respect to $w_1$ and $w_2$ and solve.   (ii) by setting up the matrix equation \eqref{linReg} and solving it. 
+ 	\item Consider \url{https://en.wikipedia.org/wiki/Winsorized_mean}  Give an example with 10 numbers where the 10\% Winsorided mean is the same as the minimizer of the Huber loss (with, say $\delta = 1$).  Explain the main difference between the Winsorized mean and the minimizer of the Huber loss? (Hint: the Huber loss has a scale $\delta$ which determines the outliers, but the Winsorized mean has a fraction of values). 
+ 	\item (Compare the regression loss functions) Consider $y_1, \dots y_{10}$ consisting of nine 0 and one value $y$.  What is the solution (as a function of $y$) of \eqref{CVIL} for each of the three main regression losses (take $\delta = 1$ in the Huber). 
+\end{enumerate}
+
+\subsection{Theory exercises}
+
+\begin{enumerate}
+	\item Consider \eqref{linReg} when $d=1$.  Solve the equation, for $w$, and give the solution using vector notation. 
+%\item Prove for the quadratic loss \eqref{EL.crit.q} follows from \eqref{EL.crit}.  Show that \eqref{EL.crit.q} is equivalent to \eqref{linReg}
+	\item Give a different derivation of \eqref{linReg} by citing the matrix theory fact that $\min_w \|Xw-y\|^2$ is given by \eqref{linReg}. 
+	\item (Huber loss)  Show that the Huber loss is continuous, and differentiable.  Find the second derivative of the function.
+	\item  Characterize in more detail, the minimizers of the Huber loss, as in theorem from Section Characterizing the Losses.  
+	\item Verify that the three main regression losses are all convex. 
+
+\end{enumerate}
+
+\subsection{Loss design exercises}
+\begin{enumerate}
+		\item (Loss designs for grading scheme) Consider a grading scheme where there are five assignments.   Suppose we want a grading scheme that is less sensitive to outliers, e.g. with a score of $.9, .9, .9 .9, 0$ (one missed assigmnent) we don't want the hard penalty given by the average.  At the same time, we want every grade to have a small effect (to encourage performance when possible).  (i) propose a simple scheme to do this.  (ii) Suppose we want a missed assigment to have an effect of no more than $\delta = .2$ on the average.  Show that the Huber loss with $\delta = .2$ accomplished this (at least in the example above). 
+	\item (Loss design: flipped huber) Design a `flipped' Huber loss function, which is quadratic for $|t| \geq \delta$ and equals $|t|$ for otherwise.  Set up the quadratic so that the loss is continuously differentiable. 	
+	\item (Loss-design Smooth-Huber). In this problem we find a smooth version of the Huber loss. Consider the function  $h(t) = \log(\cosh(t))$.     Prove that the function is even, and find the first nonzero term in the Taylor expansion.  Conclude that it is nearly quadratic near $t=0$.  Show that the function asymptotes to $|x|$ as $|x| \to \infty$.   Can you introduce a scale parameter $\delta$ as in the Huber function?  Do it so that the function becomes nearly quadratic (or linear) for extreme values of $\delta$. 
+
+\end{enumerate}
+
+%\input{Solution1}
+
+\end{document}
+
