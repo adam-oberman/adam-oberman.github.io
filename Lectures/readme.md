@@ -8,9 +8,8 @@
 - [Lecture 1](09%2001%20Lecture%201.pdf)
 - [Lecture 2](09%2001%20Lecture%202.pdf)
 - [Lecture 3](09%2008%20Lecture%203.pdf)
-- [Lecture 4](09%2008%20Lecture%204.pdf)
-
-
+- [Lecture 4](09%2010%20Lecture%204.pdf)
+- 
 ## Zoom recordings 
 - (No recording for lectures 1 and 2) 
 - [Lecture 3](https://mcgill.zoom.us/rec/share/VKdYKjgxXbdlP9_8l3xcSKz7E2A7Z_gwyOpYjbO1n9XQ-gSIO51ITa9Ug83cjejV.ZFHqMEOCdcJpXMx0?startTime=1631109875000)
