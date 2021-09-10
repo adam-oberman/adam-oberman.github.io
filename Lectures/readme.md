@@ -13,6 +13,7 @@
 ## Zoom recordings 
 - (No recording for lectures 1 and 2) 
 - [Lecture 3](https://mcgill.zoom.us/rec/share/VKdYKjgxXbdlP9_8l3xcSKz7E2A7Z_gwyOpYjbO1n9XQ-gSIO51ITa9Ug83cjejV.ZFHqMEOCdcJpXMx0?startTime=1631109875000)
+- Lecture 4 is only available in mycourses.
 
 ## By lecture
 ### Week 1, lecture 1, Sept 1 (W)
