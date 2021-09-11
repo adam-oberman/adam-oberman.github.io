@@ -18,6 +18,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
+---
+---
+
+@import "{{ site.theme }}";
+
 body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
@@ -412,9 +417,10 @@ nav ul, footer ul {
     border-bottom: 1px solid #cccccc;
     font-weight: bold;
 }
+
+
 nav ul li, footer ul li {
     display: inline;
-    border-top: 1px solid #cccccc;
     margin-right: 20px;
 }
 
