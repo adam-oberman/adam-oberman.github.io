@@ -31,9 +31,13 @@
 - Compute gradient of the (EL) expected loss function
 - Quadratic regression case 
 - References: Course Notes, Section "Gradients and Minimizers"
+### Week 3, Lecture 5, Sept 15 (W)
+- Instead of a lecture we will have a problem session, to work on HW1.  
 ### End of Part 1
-- [Homework 1](Math462_HW1.pdf)
-- Final Version of Notes for this section
-  - [Screen Format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf) 
-  - [Letter format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1_Letter.pdf)
----
+- [Homework 1](Math462_HW1.pdf) due noon, Monday Sept 20th.  
+- Final Version of Notes for this section [Screen Format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf) [Letter format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1_Letter.pdf)
+
+### Part 2
+### Week 3, Lecture 6, Sept 17 (F)
+- Calculus and vector calculus for classification losses, hinge, LogSumExp
+
