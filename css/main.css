@@ -409,10 +409,12 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
+    border-bottom: 1px solid #cccccc;
     font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
+    border-top: 1px solid #cccccc;
     margin-right: 20px;
 }
 
