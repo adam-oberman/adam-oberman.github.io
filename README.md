@@ -1,4 +1,7 @@
-#   MATH 462, Fall 2021 Mathematics for Machine Learning
+# MATH 462: Mathematics for Machine Learning
+- Instructor: Adam Oberman
+- Fall 2021
+
 A mathematically rigorous approach to machine learning.
 
 ## Audience
@@ -14,7 +17,7 @@ Math and Stats Majors/Honours students, CS students.
 ## Related Courses
 
 - Math 562, Winter 2022
-  - This is a sequel to Math 462.  There will be a small amount of repetition of topics, since some students will not have taken 462.  However, to avoid repeated material, students from 462 will work on their project, and be excused from HW problems which overlap.
+  - This is a sequel to Math 462.  There will be a small amount of repetition of topics, since some students will not have taken 462.  However, to avoid repeated material, students from 462 will work on their project and be excused from HW problems which overlap.
 - COMP 551 Applied Machine Learning https://www.siamak.page/courses/COMP551F21/index.html
   - This course focuses on implementation, rather than theory.  This a complementary course.
 - COMP 451 Fundamentals of Machine Learning  https://cs.mcgill.ca/~wlh/comp451/
@@ -36,16 +39,17 @@ Math and Stats Majors/Honours students, CS students.
 - Attendance 5%, Participation 5%.
 - 2 Midterm Exams : 20%
 - Final exam : 30%
-- *Soft grading policy:* you are encouraged to make your best effort to complete all the work.  However, if you need to miss anything (assignment or exam), I will institute a soft grading policy which will allow one missed assignment and one missed midterm exam, with a small penalty.    Your final grade will be given by your average on the other work, with a penalty of:
+- *Soft grading policy:* you are encouraged to make your best effort to complete all the work.  However, if you need to miss anything (assignment or exam), I will institute a soft grading policy which will allow one missed assignment and one missed midterm exam, with a small penalty.  Your final grade will be given by your average on the other work, with a penalty of:
   -   1% (for each assignment missed),
   -   2% (for a missed midterm).   
   -   3% (for a missed final exam)
+
 E.g. if you missed one assignment and one midterm, with an average of 87% on the rest, then the penalty would be 87-(1+2) = 84%.  
 
 ## Key Dates
 Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Fall_2021)
-- Classes begin Weds Sept 1.
-- Fall reading break: Tues-Weds Oct 12-13
-- Makeup day Oct 15, no class.  
+- Classes begin: Weds Sept 1.
+- Fall reading break: Tues-Weds Oct. 12-13
+- Makeup day: Oct 15, no class.  
 - Last class: Friday Dec 3rd.
-- Midterm dates TBD.
+- Midterm dates: TBD
