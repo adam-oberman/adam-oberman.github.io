@@ -411,7 +411,7 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    border-bottom: 1px solid #cccccc;
+    border-bottom: 2px solid #000000;
     font-weight: bold;
 }
 
