@@ -10,6 +10,7 @@
 - [Lecture 2](09%2003%20Lecture%202.pdf)
 - [Lecture 3](09%2008%20Lecture%203.pdf)
 - [Lecture 4](09%2010%20Lecture%204.pdf)
+- [Tutorial 1](Tutorial%201_%20Linear%20Regression%20And%20Matrices.pdf)
 
 ## Zoom recordings
 - (No recording for lectures 1 and 2)
