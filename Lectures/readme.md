@@ -36,7 +36,6 @@
 - Instead of a lecture we will have a problem session, to work on HW1
 ### End of Part 1
 - [Homework 1](Math462_HW1.pdf) due noon, Monday Sept 20th
-- **Final version of course notes** for this section: [Screen Format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf) and [Letter format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1_Letter.pdf)
 
 ### Part 2
 ### Week 3, Lecture 6, Sept 17 (F)
