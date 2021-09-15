@@ -38,7 +38,7 @@
 - Instead of a lecture we will have a problem session, to work on HW1
 ### End of Part 1
 - Homework 1 due noon, Monday Sept 20th (please use the revised version)
-- [Homework 1 Revised](Math462_HW1_V2.pdf) (do note use: [Old version Homework 1](Math462_HW1.pdf) )
+- [Homework 1 Revised](Math462_HW1_V2.pdf) (do not use: [Old version Homework 1](Math462_HW1.pdf) )
 
 ### Part 2
 ### Week 3, Lecture 6, Sept 17 (F)
