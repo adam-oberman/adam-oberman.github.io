@@ -12,6 +12,7 @@
 - [Lecture 4](09%2010%20Lecture%204.pdf)
 - [Tutorial 1](Tutorial%201_%20Linear%20Regression%20And%20Matrices.pdf)
 - [Lecture 5](09%2015%20Math%20462%20Lecture%205.pdf)
+- [Lecture 6](09.17.Math462.Lecture6%20.pdf)
 
 ## Zoom recordings
 - (No recording for lectures 1 and 2)
