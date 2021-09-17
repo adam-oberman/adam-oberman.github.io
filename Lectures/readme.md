@@ -3,6 +3,7 @@
 ## Course Notes (same material, order may differ)
 - **Final version of course notes Part 1**  [Screen Format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf) and [Letter format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1_Letter.pdf)
 - [Course Notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes.pdf) working version, will be revised.
+- [Course Notes for Part 2](Math462_Lecture_Notes_Part2.pdf)
 
 ## Handwritten notes from class  
 - [Lecture 1](09%2001%20Lecture%201.pdf)
