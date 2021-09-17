@@ -43,4 +43,6 @@
 
 ### Part 2
 ### Week 3, Lecture 6, Sept 17 (F)
-- Calculus and vector calculus for classification losses, hinge, LogSumExp
+- Loss design for classification: zero-one loss and hinge loss.
+### Week 4, Lecture 7, Sept 23 (W)
+- Calculus and vector calculus for binary and multi-class classification losses, hinge, LogSumExp
