@@ -3,6 +3,7 @@
 ## Course Notes (same material, order may differ)
 **Final version of course notes Part 1**  
 - [Screen Format with Figures](Math462LectureNotes1.pdf)
+
 **Working version of course notes Part 2**
 - [Course Notes for Part 2](Math462_Lecture_Notes_Part2.pdf)
 
