@@ -1,11 +1,8 @@
 # Lecture Notes :  MATH 462, Fall 2021
 
-## Course Notes (same material, order may differ)
-**Final version of course notes Part 1**  
-- [Screen Format with Figures](Math462LectureNotes1.pdf)
-
-**Working version of course notes Part 2**
-- [Course Notes for Part 2](Math462_Lecture_Notes_Part2.pdf)
+## Course Notes 
+- [Final version of course notes Part 1 (Figures added)](Math462LectureNotes1.pdf)
+- [Working version of course notes Part 2](Math462_Lecture_Notes_Part2.pdf)
 
 ## Handwritten notes from class  
 - [Lecture 1](09%2001%20Lecture%201.pdf)
