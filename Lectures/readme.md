@@ -18,8 +18,7 @@
 - [Lecture 3](https://mcgill.zoom.us/rec/share/VKdYKjgxXbdlP9_8l3xcSKz7E2A7Z_gwyOpYjbO1n9XQ-gSIO51ITa9Ug83cjejV.ZFHqMEOCdcJpXMx0?startTime=1631109875000)
 - Lecture 4 and future lectures are only available in mycourses (due to McGill zoom recording policy). 
 
-## By lecture
-### Part 1
+## Lectures Part 1
 ### Week 1, lecture 1, Sept 1 (W)
 - Introduction: example problems and datasets, meet and greet
 - Reference: Murphy Ch1
@@ -36,15 +35,13 @@
 - References: Course Notes, Section "Gradients and Minimizers"
 ### Week 3, Lecture 5, Sept 15 (W)
 - Instead of a lecture we will have a problem session, to work on HW1
-### End of Part 1
+### 
+- [Old version of notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf) and [Old version of notes Letter format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1_Letter.pdf)
+### Homework
 - Homework 1 due noon, Monday Sept 20th (please use the revised version)
 - [Homework 1 Revised](Math462_HW1_V4.pdf) (do not use: [Old version Homework 1](Math462_HW1.pdf) )
-####
-- - [Old version of notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf) and [Old version of notes Letter format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1_Letter.pdf)
-- [Course Notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes.pdf) working version, will be revised.
 
-
-### Part 2
+## Lectures Part 2
 ### Week 3, Lecture 6, Sept 17 (F)
 - Loss design for classification: zero-one loss and hinge loss.
 ### Week 4, Lecture 7, Sept 23 (W)
