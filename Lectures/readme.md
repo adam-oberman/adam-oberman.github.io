@@ -13,6 +13,7 @@
 - [Lecture 5](09%2015%20Math%20462%20Lecture%205.pdf)
 - [Lecture 6](09.17.Math462.Lecture6%20.pdf)
 - [Lecture 7](09.17.Math462.Lecture6%20.pdf)
+- [Lecture 8](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462.09.24.F.L8.pdf)
 
 ## Zoom recordings
 - (No recording for lectures 1 and 2)
@@ -45,5 +46,5 @@
 ## Lectures Part 2
 ### Week 3, Lecture 6, Sept 17 (F)
 - Loss design for classification: zero-one loss and hinge loss.
-### Week 4, Lecture 7, Sept 23 (W)
-- Calculus and vector calculus for binary and multi-class classification losses, hinge, LogSumExp
+### Week 4, Lecture 7, Sept 22 (W) and  Week 4, Lecture 8, Sept 24 (F)
+- Read the notes [Working version of course notes Part 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part2.pdf) and discuss in class. 
