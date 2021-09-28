@@ -3,6 +3,11 @@
 ## Course Notes (typeset)
 - [Final version of course notes Part 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf)
 - [Final version of course notes Part 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part2.pdf)
+### Homework
+- Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf)
+- Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf)
+
+
 
 ## Handwritten course notes 
 - [Lecture 1](09%2001%20Lecture%201.pdf)
@@ -39,9 +44,7 @@
 - Instead of a lecture we will have a problem session, to work on HW1
 ### 
 - [Old version of notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf) and [Old version of notes Letter format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1_Letter.pdf)
-### Homework
-- Homework 1 due noon, Monday Sept 20th (please use the revised version)
-- [Homework 1 Revised](Math462_HW1_V4.pdf) (do not use: [Old version Homework 1](Math462_HW1.pdf) )
+
 
 ## Lectures Part 2
 ### Week 3, Lecture 6, Sept 17 (F)
