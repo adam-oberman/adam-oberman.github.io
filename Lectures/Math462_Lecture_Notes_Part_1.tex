@@ -1,0 +1,620 @@
+\documentclass[12pt]{amsart}
+\usepackage{geometry}
+
+%\geometry{paperwidth=10in, paperheight=7in, margin = 2.5cm}
+
+\geometry{paperwidth=8.5in, paperheight=11in, margin = 2.5cm}
+\input{paper-commands}
+\usepackage{comment}
+
+
+%\includecomment{TODO}
+\excludecomment{TODO}
+
+\usepackage{hyperref}
+%\usepackage[utf8]{inputenc}
+\renewcommand*\rmdefault{cmss}
+
+% Better equation numbering: (during editing)
+\usepackage{mathtools}
+\mathtoolsset{showonlyrefs}
+%\usepackage{enumerate}
+
+% \graphicspath{{/path/to/some/folder}} 
+
+\begin{document} 
+\title{Math 462 Lecture Notes\\ Part 1: Regression}
+\author{Adam M. Oberman}
+\date{\today}
+%
+%\begin{abstract}
+%DDD 
+%\end{abstract}
+
+\maketitle
+
+\tableofcontents
+
+
+
+\section{Week 1: Introduction}
+This note covers lectures 1 and 2. 
+Reference \cite[Chapter 9]{shalev-shwartz_ben-david_2014}, Linear Predictors.  Section 9.2.
+
+\subsection{Data and features}
+Data can be represented in many ways.  We will always work with a vector of features, write $x\in \R^d$ for a vector of features.  The $x$ notation emphasizes that it comes from the data.  
+
+In this section, regression, we are learning a real number,  $y \in \mathcal Y = \R$. 
+Write 
+\begin{equation}\label{dataset} \tag{$S_m$}
+	S_m = \{(x_1, y_1), \dots, (x_m, y_m) \}
+\end{equation}
+for the data set with $m$ pairs $(x,y)$ of data, and values, respectively. 
+
+\subsection{Linear models}
+Our first goal is to $\emph{fit}$ the dataset.  (Later we will study whether the model generalizes to unseen data). 
+
+We will try to learn a model $h : \R^d \to \mathcal Y = \R$.  
+
+For now, the models will linear functions of $w \in \R^d$.  Later we will consider more general models. 
+Write $w \in \R^d$ for the parameters (or weights).  We consider the linear model
+\begin{equation}
+	\label{linear.model}
+	h_{w}(x) = w\cdot x = \sum_{i=1}^d w_i x_i
+\end{equation}
+
+\subsection{Standard regression loss}
+Since we are studying a regression problem, we can talk about the error of a model.
+ The error of the model, on data  $(x, y)$, is defined to be 
+\begin{equation}\label{error_regression}
+e = h_w(x)-y	
+\end{equation}
+
+We want to make each component of the error small, so we introduce a non-negative loss function, which is a function of the error.   It should be increasing in the error. 
+\footnote{approach : makes sense to start with a working definition and let it evolve to be more refined}
+\[
+\ell: \R \to \R^+
+\]
+The most important regression loss is the quadratic loss 	
+\[
+\ell_2(y_1, y_2) = \frac 1 2 (y_1-y_2)^2 
+\]	
+
+
+\begin{definition}[Empirical Loss] Given 
+\begin{enumerate}
+	\item the dataset $S_m$, as in \eqref{dataset}, 
+	\item a model $h_w: \R^d \to \R$,
+\end{enumerate}
+and a loss, $\ell$, 
+the empirical loss of the model $h_w$, on the dataset $S_m$, is given by
+\begin{equation}\tag{EL}\label{EL}
+	\wL(w) = \frac{1}{m} \sum_{i=1}^m \ell(h_w(x_i), y_i)
+\end{equation}
+\end{definition}
+
+
+Next we can define the problem of \emph{fitting data using a parameterized model}.  This data fitting problem is called empirical loss minimization, in a context where we make statistical assumptions on the data. 
+
+Given a family of regression models 
+\[
+\mathcal H = \{ h_w(x) : \R^d \to R, w \in \R^d \}
+\]
+We find the best fit to the data, using the empirical loss.  We can write this two ways.  The first way emphaisizes that we are finding a function
+\[
+\min_{h \in \mathcal H} \wL(h) = \frac{1}{m} \sum_{i=1}^m \ell(h_w(x_i), y_i)
+\]
+The second way emphasizes that we are finding parameters 
+\[
+\min_{w} \wL(w) = \frac{1}{m} \sum_{i=1}^m \ell(h_w(x_i), y_i)
+\]
+
+
+\section{Discussion: solution concepts}
+
+
+[Refer to in class discussion]
+We discussed difference conceptual solution methods. 
+\begin{enumerate}
+	\item  Analytical: move the problem into a new category where solutions are known. 
+  - AE: Give an explicit formula for solution, e.g. $w = M^{-1}b$
+  - AR: Reduce the problem to a simpler class of problems, where more is know about the solution, 
+    - e.g.  For example, \autoref{thm.quadratic.regression} reduces the quadratic model fitting problem to a system of linear equations.  
+ (regression)
+    - e.g. Later we will see in the case of  (SVM classification)
+ than the problem is reduced to a linear programming problem (which is a well-understood family of optimization problems)     
+  \item  geometric
+  - Provide a geometrical notion of solution which can be implemented graphically.
+  - E.g. Draw the line for linear regression
+  - E.g. Illustrate the class boundaries for classification
+  - E.g. draw the clusters. 
+ \item algorithmic: Give an algorithmic solution method
+  - e.g. k-means algorithm
+  - AS a sketch of an algorithm (e.g. row reduction for linear systems)
+  - AI an optimal implementation of an algorithm (e.g. optimized code to solve Mx = b)
+ \item abstract: instead of a solution, prove that the problem has a solution. This will cover a wider class of problems.  Then in special cases, can offer a solution method.   Useful because it tells us that the problem is solvable.   Still need to find a solution method.  \end{enumerate}
+
+
+
+\section{Case Study: regression loss design for soft grading}
+
+\emph{We discussed loss design for building a soft grading scheme, which would allow a low (outlier) grade to have a mitigated effect on the average. [Half a lecture on this]}
+
+
+
+
+
+
+\section{(Lecture 3) Matrix notation}
+This note covers matrix-vector notation.  See the sections in \cite{deisenroth2020mathematics}. 
+
+\begin{remark}
+The matrix notation above emphasizes the fact that we have access to all the data.  This is consistent with may learning problems, and with modern code implementations (e.g. supervised learning datasets stored on computer, and PyTorch).  In other learning problems, called `online', data arrives in a stream, as a sequence, and don't have access to to the full dataset.  This can affect the way we look at the problem, but not the math at this stage. 
+\end{remark}
+
+
+\subsection{Matrix vector notation}
+We sometimes want to think of the feature data, which consists of $m$ feature vectors, $(x_1, \dots x_m)$ as a matrix
+\[
+X = 
+\left[
+\begin{matrix}
+  x_1 \\
+  x_2 \\
+  \vdots \\
+  x_m
+\end{matrix}
+\right ]
+= 
+\left[
+\begin{matrix}
+  x_{11} \dots x_{1d} \\
+  x_{21} \dots x_{2d} \\
+  \vdots \\
+  x_{m1} \dots x_{md}
+\end{matrix}
+\right ]
+\]
+Here $X$ has $m$ rows, and each row is a data (or feature) vector in $\R^d$. 
+
+We also write the $y$-values as a column vector (of size $m$), 
+\[
+y = 
+\left [
+\begin{matrix}
+  y_1 \\
+  y_2 \\
+  \vdots \\
+  y_m
+\end{matrix}
+\right ],
+\]
+or, to save space, $y = [y_1, \dots, y_m]^T$. 
+
+Likewise, we can write the model values as
+\[
+h_w(X) = [h_w(x_1), \dots, h_w(x_m)]^T
+\]
+The error vector, $e = [e_1, \dots, e_m]^T 
+$
+as
+\[
+e = h_w(X)-y
+\]
+The loss vector (overloading notation) as 
+\[
+\ell(e) = [\ell(e_1), \dots, \ell(e_m)]
+\]
+Finally, the empirical loss is given by
+\[
+\wL(w) = \frac 1 m \sum_{i=1}^m \ell_i
+\]
+which we could write as $\frac 1 m 1\cdot \ell(e)$. 
+
+\subsection{Linear model and quadratic loss}
+In the important case of the linear model and the quadratics loss, 
+write the model values as the matrix vector product
+\[
+h_w(X) = Xw
+\]
+The error vector as
+\[
+e = h_w(X)-y = Xw-y
+\]
+For the case of quadratic loss \eqref{EL} becomes $\wL(w) = \| e \|^2/2$, or 
+\begin{equation}\label{vector_regression_loss}
+	\wL(w) = \frac 1 m \|Xw-y\|^2
+\end{equation}
+
+
+
+
+\section{(Lecture 4): Gradients and minimizers}
+
+In this section we review material (which most students have forgotten) on conditions for a minimum.
+We focus on taking the gradient of a function of several variables (the function will be $\wL(w)$ and the variables are $w\in \R^d$.)
+
+\subsection{Calculus review}\label{sec:calc.review}
+
+\begin{itemize}
+	\item for a function of one variable $\wL(w)$, $w \in \R$, a critical point is when $\wL'(w)=0$
+	\item Every local minimum is a critical point.  A critical point can be a local minimum, local maximum, or saddle point.  	
+	\item If the second order condition holds $\wL''(w) > 0$, then the critical point is also a local minimum
+	\item If the function is convex (for example when $\wL''(w) \geq 0$ at all $w$, then every critical point is a \emph{global} minimum.
+\end{itemize}
+
+
+
+\subsection{Analytical solution methods for the minimizer in one variable}
+Consider minimizing	
+\[
+	\wL(w) = \frac 1 m \sum_{i=1}^m q(wx_i -y_i).
+	\]
+This problem corresponds to \eqref{EL} as in Definition~\ref{defn:regression_loss_0}, when $d=1$.  
+We want to find a critical point, $w$, which satisfies
+\[
+\wL'(w) = 0
+\]
+
+By the chain rule, we have 
+\begin{align}
+	\wL'(w) =   \frac 1 m \sum_{i=1}^m q'(wx_i -y_i) x_i
+\end{align}
+
+In the case of the quadratic loss, we have $q(e) = e^2/2$,  we obtain
+\begin{equation}
+	0 = \frac{1}{m} \sum_{i=1}^m (wx_i-y_i) x_i
+\end{equation}
+which simplifies to 
+\begin{equation}\label{quad.1d.minimizer}
+	 \sum_{i=1}^m wx_i^2 = 	 \sum_{i=1}^m y_i x_i
+\end{equation}
+
+
+\subsection{Vector calculus facts}
+Now consider a function of $d$ variables, $\wL : \R^d \to \R$.
+The gradient of the function is a vector defined at each $w$,
+\[
+g(w) = \nabla \wL(w) = [g_1(w), \dots g_d(w)]^T
+\]
+where each component is partial derivative
+\[
+g_j(w) = \frac{\partial}{\partial w_j}\wL(w)
+\]
+
+\begin{figure}[hbt]
+  \includegraphics[height=.35\paperheight]{figs/FigGradient}
+  \caption{Illustration of the gradient of the loss}
+  \label{fig:Huber}
+\end{figure}
+
+\begin{itemize}
+	\item The gradient vector $g(w) = \nabla \wL(w)$ points in the direction of greatest increase of the function $\wL$ at $w$.
+	\item A critical point $w$ is a point where $g(w) = 0$. 
+	\item As in the one variable case, every local minimum is a critical point.  A critical point can be a local minimum, local maximum, or saddle point.  	
+	\item As in the one variable case, there is a condition for a critical point to be a local minimum: the Hessian matrix $H(w)$ is positive-definite.  Here $H(w)_{ij} = \frac{\partial^2}{\partial_i \partial_j}\wL$.  (This condition can be difficult to check). 
+	\item As in the one variable case, if the function is convex, then every critical point \emph{global} minimum.
+\end{itemize}
+
+\begin{remark}
+In our case, we will be able to show directly that our function $\wL$ are convex, provided the loss function $\ell$ is convex and the model is linear.   We will get to that later.  This simplifies the problem of finding a minimum, since we only need to find a critical point. 	
+\end{remark}
+
+\subsection{Finding a critical point the loss.}
+Now for $d>1$, we can apply the vector chain rule to find a critical point of \eqref{EL}.
+\[
+\wL(w) = \frac 1 m \sum_{i=1}^m q(w\cdot x_i -y_i).
+\]
+where 
+\[
+w\cdot x_i =  \sum_{k=1}^d w_k x_{ik}
+\]
+We will be using the chain rule, but this time the vector case.
+Let's start the calculation as follows.  (We are reversing the steps to make it easier). 
+
+We have 
+\[
+e_i = w\cdot x_i - y_i = \sum_{k=1}^d w_k x_{ik} - y_i
+\]
+So
+\begin{equation}\label{t1}\tag{*}
+	\frac{\partial}{\partial w_j} e_i = x_{ij}
+\end{equation}
+Next, by the chain rule
+\begin{align}
+\frac{\partial}{\partial w_j} q(e_i) 
+&= q'(e_i) \frac{\partial}{\partial w_j} e_i \\
+& = q'(e_i) x_{ij} && \text{ by \eqref{t1} above} 
+\end{align}
+We have just computed one component, $g_j$, of the gradient.  Combining these, we obtain
+\[
+\nabla q(e_i) = q'(e_i)x_i
+\]
+Note, the last equation is the vector $x_i \in \R^d$, multiplied by the scalar $q'(e_i)$. 
+
+Next, if we consider 
+\[
+\wL(w) = \sum_{i=1}^m \ell(e_i)
+\]
+we obtain
+\begin{align}
+	\frac{\partial}{\partial w_j}  \wL(w)=  \sum_{i=1}^m  \frac{\partial}{\partial w_j} \ell(e_i)
+\end{align}
+so
+\begin{align}
+	\frac{\partial}{\partial w_j}  \wL(w)=  \sum_{i=1}^m  \ell'(e_i) x_{ij}
+\end{align}
+which again, is one component of the gradient.  Now we combine the components, to obtain
+\begin{equation}
+	\nabla \wL(w) =  \sum_{i=1}^m  \ell'(e_i) x_i
+\end{equation}
+This last equation means: for each data point $x_i \in \R^d$, we are multiplying it by $\ell'(e_i)$, and summming to obtain the gradient in $w$. 
+
+We have just proved the following result, which we record.
+\begin{theorem}
+	Consider \eqref{EL} with a linear model.  Then 
+\begin{equation}\label{EL.crit}\tag{EL'}
+	\nabla \wL(w) =  \sum_{i=1}^m  \ell'(e_i) x_i
+\end{equation}	
+ \end{theorem}
+
+
+As a special case, we have the following.  In the quadratic case, $\ell'(e_i) = e_i = (w\cdot x_i - y_i)$.  So 
+using \eqref{EL.crit} a critical point is characterized by 
+\begin{equation}\label{EL.crit.q}\tag{QEL'}
+  \sum_{i=1}^m  (w\cdot x_i) x_i =   \sum_{i=1}^m y_i x_i 
+\end{equation}
+
+
+\subsection{Linear equation for the minimizer}
+In the important case of the quadratic loss, we can characterize the best fitting linear hypothesis using a linear equation involving the data matrix.
+
+\begin{theorem}\label{thm.quadratic.regression}
+	Consider the problem \eqref{EL} with linear hypothesis. Then the loss minimizer is given by the solution of the linear equation
+\begin{equation}\label{linReg}\tag{MEL}
+	X^TX w = X^T y
+\end{equation}
+\end{theorem}
+
+\begin{proof}
+	See Exercises or refer to textbook Example 5.11 in \cite{deisenroth2020mathematics}.
+\end{proof}
+
+
+
+\subsection{Example calculations and HW}
+
+TODO: 
+
+
+In tutorial, we also did a two dimensional example $d=2$, an emphasize that the calculation can be performed two ways
+\begin{enumerate}
+	\item by computing  partial derivatives with respect to $w_1$ and $w_2$ and solve the resulting system
+	\item by considering the linear system  \eqref{linReg}.  The advantage of the latter formulation is that the matrix $X^TX$ can be compute once, and the linear system can be solved, for different values of $y$. 
+\end{enumerate}
+
+
+
+
+\section{(Lecture 3): Non-standard regression losses}
+
+In this section we try to understand the different behaviour of regression losses. 
+Each loss has a different behaviour with respect to averages, smoothness, and outliers.
+
+\begin{definition}[Other regression losses]
+The $\ell_1$ loss,
+	\[
+	\ell_1(y_1,y_2) = |y_1-y_2|.
+	\]  	
+The Huber loss, with scale $\delta$,  $\ell_H(y_1,y_2) = q_\delta(y_1-y_2)$, where
+		\[
+		q_\delta(e) = 
+		\begin{cases}
+			 e^2/2 &  |e| \leq \delta \\
+			 \delta(|e|-\delta/2)) &  |e| \geq \delta
+		\end{cases}	 
+		 \] 
+\end{definition}
+
+
+\begin{figure}
+  \includegraphics[height=.35\paperheight]{figs/FigHuber}
+  \caption{Illustration of the Huber Loss}
+  \label{fig:Huber}
+\end{figure}
+
+
+The Huber loss, \autoref{fig:Huber}, incorporates a scale, $\delta$ and it is designed to be less sensitive to \emph{outliers}, which lie more that $\delta$ away from the central value.  We will study it further in the sequel. 
+
+
+
+\begin{definition}\label{defn:regression_loss_0}
+[Regression loss basics]
+A regression loss takes the form 
+Assume $\ell(y_1, y_2) = q(y_1 - y_2)$ where $q(e)$ is 
+\\ (i) non-negative, with $q(e) = 0 \iff t = 0$ (so that  $\ell(y_1, y_2) = 0 \iff y_1 = y_2$ )
+\\ (ii) an increasing function of $|e|$.
+\end{definition}
+
+To illustrate this consider the following model problem.
+
+\begin{itemize}
+	\item Use dataset \eqref{dataset}.
+	\item Define $h_w(x) = w$.   Let the loss be $\ell(h_w(x),y) = q(e)$, where $e = h_w(x)-y$
+	\item Study \eqref{EL}. 
+\end{itemize}
+
+The problem we study is to minimize 
+\begin{equation}\label{EL.CV}\tag{EL.CV}
+\wL(w) =  \frac 1 m \sum_{i=1}^m q(e_i), \quad e_i = w-y_i	
+\end{equation}
+which is a problem which finds the stands for the Central Value induced by the loss, \eqref{EL.CV}.  (Refer to \url{https://en.wikipedia.org/wiki/Central_tendency} for more examples). 
+
+Here is an illustration of how the derivative of the loss affects the central values. 
+\begin{figure}
+  \includegraphics[height=.25\paperheight]{figs/FigLossQ}
+    \includegraphics[height=.25\paperheight]{figs/FigLoss1}\\
+      \includegraphics[height=.25\paperheight]{figs/FigLossH}
+  \caption{Derivative of the loss at $e_i =  w-x_i$, for $i=1,\dots, 4$. Comparison of the quadratic, absolute, and Huber losses.  The quadratic loss derivative is of size $e$.  The absolute loss derivative is $\pm 1$, the Huber loss is a combination of the two: $e$ when $|e|\leq \delta$, and $\pm \delta$ otherwise. }
+  \label{fig:Huber}
+\end{figure}
+
+
+
+\begin{lemma}
+	A critical point of \eqref{EL.CV} is given by 
+	\begin{equation}
+	\label{EL1d}
+	\wL'(w) = \sum_{i=1}^m q'(e_i) = 0
+\end{equation}
+\end{lemma}
+\begin{proof}
+Following the type of calculations in the section above, we differentiate to obtain \eqref{EL1d}.
+\end{proof}
+
+
+
+\begin{definition}
+	Define the median to be: the middle value (after sorting),  if there are an odd number of values, and the average of the middle values (when even).  
+	
+	For the Huber loss, given a $w$, define an outlier to be any $y_i$ with $|e_i| \geq \delta$, and otherwise $y_i$ is an inlier.   Define the Huber central values by: the $w^*$ chosen to that the average of: errors (for inliers) and $\delta$ times sign of the errors (for the outliers) is equal to zero. 
+	
+	Note: this doesn't cover every case, but it's a good working definition.  The true definition will be given by the theorem. 
+	
+\end{definition}
+
+
+\begin{theorem}\label{thm.char.loss}
+Consider the problem \eqref{EL.CV}, the solution $w^*$ is given as follows.
+\begin{enumerate}
+	\item Using the $\ell_2$ loss, $w^* = \frac 1 m \sum_{i=1}^m  y_i$, the average of $y$. 
+	\item For the $\ell_1$ loss, the median is a solution (e.g. (1, 2, 3, 4), 2.5 is a solution, but so are 2 and 3). 
+	\item For the Huber loss, we can characterize the solution as follows.  Define the central values to be those $y_i$ within $\delta$ of $w^*$.  Define the outliers to be the rest.  Then $w^*$ is a weighted average of the following: the mean of the central values, weighted by their number, and $-1, +1$ for each of the outliers (depending on if they are above or below).
+\end{enumerate}
+
+
+
+
+\end{theorem}
+Also, we can see how the Huber loss combines the other losses, since we can also characterize the median as finding a value so that there are equal above and below. 
+
+\begin{proof}[Sketch of proof]
+\emph{Case 1}. In the case of quadratic loss: this equation is:
+\[
+\sum_{i=1}^m e_i = 0
+\]
+which means the errors sum to zero.  This is equivalent to $w = \frac 1 m \sum y_i$, the average.
+So $w^*$ is the average. 
+
+\emph{Case 2}. In the case of the $\ell_1$ loss, it is differentiable if $w^*$ is not equal to one of the $y_i$, in which case we have $h'(e_i) = \sgn(e_i)$.   This leads to 
+\[
+\sum_{i=1}^m \sgn(e_i) = 0
+\]
+We claim that we can take the median as a solution.   
+\begin{TODO}
+define median, given example. 	
+\end{TODO}
+However, in the case of odd number of data points, when the median is the middle value, then we are not differentiable.  In this case, we can verify directly that the middle value is a minimizer. 
+\begin{TODO}
+Simple exercise, median	
+\end{TODO}
+
+
+\emph{Case 3}. In the case of Huber loss, we want to solve \eqref{EL1d}.   Geometrically 
+\begin{TODO}
+	TODO : add figure, 
+\end{TODO}
+Suppose we know the minimizer $w^*$.  Then define an outlier to be any $y_i$ with $|e_i| \geq \delta$. 
+For the inliers, $h'(e_i) = e_i$.  For the outliers, $h' =  \delta \sgn(w-y_i)$.   So the $w^*$ is characterized by:
+average of: errors (for inliers) and $\delta$ times sign of the errors (for the outliers). 
+\end{proof}
+
+\subsection{Discussion}
+
+\subsubsection{Optimization versus rules}
+Which is better, using a loss to define $w^*$, or giving a formula for a central value?
+There is no correct answer.  Giving a formula can be simpler, e.g. Windsorizing truncate the top 10 and bottom 10 percent of values, then take the average.  However, giving an optimization problem may better specify what we want.  
+
+For example, Huber allows us to specify the width of the central part, versus the fraction of points in there. 
+So that Huber can reduce to quadratic (when all points are inliers) or l1 (when all points are outliers).  But Windsorizing will always be different, it will always have outliers.
+
+
+
+
+
+
+\section{Linear regression, feature vectors}
+
+
+\subsection{Data versus features}
+
+\begin{TODO}
+In the future move this section up, before the non-standard losses.	
+\end{TODO}
+
+
+If we want to emphasize the distinction between the raw data, $x$, and the features, $f(x)$.
+Here we consider $f:\mathcal X \to \R^d$ to be a feature mapping. 
+
+
+Write  
+\[
+S_m = \{(f_1, y_1), \dots, (f_m, y_m) \}
+\]
+We will adopt the convention that  $d$ for the dimension of $w$, $x,f \in \R^d$. 
+
+When specify features, we write
+\begin{equation}
+	\label{linear.model.f}
+	h_{w}(x) = w\cdot f = \sum_{i=1}^d w_i f_i(x)
+\end{equation}
+
+\begin{example}
+\begin{TODO}
+make this example a HW problem (with a solution) 	
+\end{TODO}
+At first glance, this setting does not appear to allow for an affine model $h_w(x) = w\cdot x + b$.  However, we can use the idea of a feature map to include this. 
+For $x\in \R^{k}$ define $d = k+1$ and define the feature map to be
+\[
+f(x) = (x,1) \in \R^d
+\] 
+Then the linear model \eqref{linear.model.f} correponds to the affine function of $x$, 
+\[
+w\cdot f =\sum_{i=1}^d w_i f_i = \sum_{i=1}^{d-1} w_i x_i + w_d
+\]
+where setting $w_d = b$ recovers the affine model. 
+\end{example}
+
+\emph{we will discuss features in more detail later}
+
+\subsection{Polynomial regression}
+Consider one dimensional data, and let the features be polynomials. 
+For example, let $x\in \R$.  Consider the feature map,  $f(x) = (1,x,x^2,x^3)$, so that $f:\mathcal X = \R \to \R^3$. 
+This feature map corresponds to (second order) polynomial regression.  Note that the features are nonlinear.  However the model \eqref{linear.model} is linear in the weights, which is the important part for optimization: because the data (and the features) are fixed, we will be optimizing over the weights.
+
+The quality of the features is, of course, very important.  It will affect: (i) how well we can optimize (in other words, how much we can reduce the loss using a linear fit, and (ii) how well we can generalize (in other words, how well the model will work on new data). 
+
+
+%
+%\subsection{Neural network features}
+%We can consider the setting where have a trained neural network features $f(x)$.  Then we perform linear regression using these features. 
+%
+
+
+
+
+
+
+%
+%\include{subfiles/Exercises1}
+%
+%\include{subfiles/Solution1}
+%
+
+
+
+\bibliographystyle{alpha}
+\bibliography{BibSmall}
+
+\end{document}
+
