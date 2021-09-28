@@ -1,7 +1,7 @@
 # Lecture Notes :  MATH 462, Fall 2021
 
 ## Course Notes (typeset)
-- [Final version of course notes Part 1 (Figures added)](Math462LectureNotes1.pdf)
+- [Final version of course notes Part 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf)
 - [Final version of course notes Part 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part2.pdf)
 
 ## Handwritten course notes 
