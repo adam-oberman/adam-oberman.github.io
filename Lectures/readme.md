@@ -2,7 +2,7 @@
 
 ## Course Notes (typeset)
 - [Final version of course notes Part 1 (Figures added)](Math462LectureNotes1.pdf)
-- [Working version of course notes Part 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part2.pdf)
+- [Final version of course notes Part 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part2.pdf)
 
 ## Handwritten course notes 
 - [Lecture 1](09%2001%20Lecture%201.pdf)
