@@ -12,7 +12,7 @@
 ### Week 5, Lecture 9 and 10
 
 
-## Handwritten course notes 
+## Handwritten in class notes 
 - [Lecture 1](09%2001%20Lecture%201.pdf)
 - [Lecture 2](09%2003%20Lecture%202.pdf)
 - [Lecture 3](09%2008%20Lecture%203.pdf)
