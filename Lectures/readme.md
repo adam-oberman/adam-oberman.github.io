@@ -26,7 +26,7 @@
 - Reference: Boyd Convex Optimization, Chapters 2 and 3
 - For more information: Convex Separation Theorem, Chapter 1 of [Convex Analysis and Variational Problems, Ivar Ekeland](https://epubs.siam.org/doi/10.1137/1.9781611971088.ch1)
 - For more information: Convexity: [A short history of convexity, Roman J. Dwilewicz](http://www.mathem.pub.ro/dgds/v11/D11-DW.pdf)
-- Class notes: [Lecture 9](09.29.Math462.Lecture9.pdf), and [Lecture 10](10.01.Math462.Lecture10.pdf)
+- Class notes: [Lecture 9](09.29.Math462.L9.pdf)
 
 
 
