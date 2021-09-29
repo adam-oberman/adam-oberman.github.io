@@ -7,9 +7,6 @@
 - Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf)
 - Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf)
 
-## Lectures Part 3
-- Reference: Understanding Maching Learning, Shalev-Shwartz and Ben David, Chapters 12 and 14.
-### Week 5, Lecture 9 and 10
 
 
 ## Handwritten in class notes 
@@ -22,6 +19,15 @@
 - [Lecture 6](09.17.Math462.Lecture6%20.pdf)
 - [Lecture 7](09.17.Math462.Lecture6%20.pdf)
 - [Lecture 8](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462.09.24.F.L8.pdf)
+
+## Lectures Part 3
+### Week 5, Lecture 9 and 10
+- Reference: Understanding Maching Learning, Shalev-Shwartz and Ben David, Chapters 12 and 14.
+- Reference: Boyd Convex Optimization, Chapters 2 and 3
+- For more information: Convex Separation Theorem, Chapter 1 of [Convex Analysis and Variational Problems, Ivar Ekeland](https://epubs.siam.org/doi/10.1137/1.9781611971088.ch1)
+- For more information: Convexity: [A short history of convexity, Roman J. Dwilewicz](http://www.mathem.pub.ro/dgds/v11/D11-DW.pdf)
+- Class notes: [Lecture 9](  ), and [Lecture 10]()
+
 
 
 ## Lectures Part 2
