@@ -7,6 +7,9 @@
 - Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf)
 - Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf)
 
+## Lectures Part 3
+- Reference: Understanding Maching Learning, Shalev-Shwartz and Ben David, Chapters 12 and 14.
+### Week 5, Lecture 9 and 10
 
 
 ## Handwritten course notes 
@@ -20,10 +23,12 @@
 - [Lecture 7](09.17.Math462.Lecture6%20.pdf)
 - [Lecture 8](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462.09.24.F.L8.pdf)
 
-## Zoom recordings
-- (No recording for lectures 1 and 2)
-- [Lecture 3](https://mcgill.zoom.us/rec/share/VKdYKjgxXbdlP9_8l3xcSKz7E2A7Z_gwyOpYjbO1n9XQ-gSIO51ITa9Ug83cjejV.ZFHqMEOCdcJpXMx0?startTime=1631109875000)
-- Lecture 4 and future lectures are only available in mycourses (due to McGill zoom recording policy). 
+
+## Lectures Part 2
+### Week 3, Lecture 6, Sept 17 (F)
+- Loss design for classification: zero-one loss and hinge loss.
+### Week 4, Lecture 7, Sept 22 (W) and  Week 4, Lecture 8, Sept 24 (F)
+- Read the notes [Working version of course notes Part 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part2.pdf) and discuss in class. 
 
 ## Lectures Part 1
 ### Week 1, lecture 1, Sept 1 (W)
@@ -46,8 +51,8 @@
 - [Old version of notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf) and [Old version of notes Letter format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1_Letter.pdf)
 
 
-## Lectures Part 2
-### Week 3, Lecture 6, Sept 17 (F)
-- Loss design for classification: zero-one loss and hinge loss.
-### Week 4, Lecture 7, Sept 22 (W) and  Week 4, Lecture 8, Sept 24 (F)
-- Read the notes [Working version of course notes Part 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part2.pdf) and discuss in class. 
+## Zoom recordings
+- (No recording for lectures 1 and 2)
+- [Lecture 3](https://mcgill.zoom.us/rec/share/VKdYKjgxXbdlP9_8l3xcSKz7E2A7Z_gwyOpYjbO1n9XQ-gSIO51ITa9Ug83cjejV.ZFHqMEOCdcJpXMx0?startTime=1631109875000)
+- Lecture 4 and future lectures are only available in mycourses (due to McGill zoom recording policy). 
+
