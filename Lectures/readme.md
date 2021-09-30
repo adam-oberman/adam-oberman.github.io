@@ -1,8 +1,8 @@
 # Lecture Notes :  MATH 462, Fall 2021
 
 ## Course Notes (typeset)
-- [Final version of course notes Part 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf)
-- [Final version of course notes Part 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part2.pdf)
+- [Final version of course notes Part 1](Math462_Lecture_Notes_Part_1.pdf)
+- [Final version of course notes Part 2](Math462_Lecture_Notes_Part2_Final.pdf)
 ### Homework
 - Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf)
 - Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf)
