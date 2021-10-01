@@ -2,7 +2,7 @@
 
 ## Course Notes (typeset)
 - [Final version of course notes Part 1](Math462_Lecture_Notes_Part_1.pdf)
-- [Final version of course notes (For HW 2) Part 2](Math462_Lecture_Notes_Part2_Final.pdf)
+- [Final version of course notes (For HW 2) Part 2](https://www.overleaf.com/read/kwvkfdtnwtzp)
 - [Updated version of course note Part 2 (not for HW 2)](https://www.overleaf.com/read/yzqkgwpswjkd)
 ### Homework
 - Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf)
