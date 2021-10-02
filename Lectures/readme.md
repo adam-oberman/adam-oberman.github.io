@@ -6,6 +6,7 @@
 - [Updated version of course note Part 2 (not for HW 2)](https://www.overleaf.com/read/yzqkgwpswjkd)
 ### Homework
 - Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf)
+- [Homework 1 Solutions](MATH462%20HW1%20-%20Patrick%20C.pdf)
 - Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf)
 
 
