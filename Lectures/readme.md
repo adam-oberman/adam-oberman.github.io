@@ -4,6 +4,8 @@
 - [Final version of course notes Part 1](Math462_Lecture_Notes_Part_1.pdf)
 - [Final version of course notes (For HW 2) Part 2](https://www.overleaf.com/read/kwvkfdtnwtzp)
 - [Updated version of course note Part 2 (not for HW 2)](https://www.overleaf.com/read/yzqkgwpswjkd)
+- [Course notes part 3 (working version)](https://www.overleaf.com/read/syvzdvznfmby)
+
 ### Homework
 - Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf)
 - [Homework 1 Solutions](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/MATH462.HW1.Soln.pdf)
