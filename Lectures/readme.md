@@ -28,7 +28,7 @@
 ### Week 5, Lecture 9 and 10, Week 6, Lecture 11
 - Reference: Understanding Maching Learning, Shalev-Shwartz and Ben David, Chapters 12 and 14.
 - Reference: [Boyd Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/), Chapters 2 and 3 and 9
-- Class notes: [Lecture 9](09.29.Math462.L9.pdf)
+- Class notes: [Lecture 9](09.29.Math462.L9.pdf) [Lecture 11](10.06.Math462.Lecture11.pdf) [Lecture 12](10.08.Lecture12.pdf)
 
 ## Lectures Part 2
 ### Week 3, Lecture 6, Sept 17 (F)
