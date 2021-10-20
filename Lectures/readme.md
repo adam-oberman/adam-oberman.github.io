@@ -25,7 +25,9 @@
 - [Lecture 8](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462.09.24.F.L8.pdf)
 
 ## Lectures Part 3
-### Week 5, Lecture 9 and 10, Week 6, Lecture 11
+### Week 6, Lectures
+- [Lecture 13](20.10.2021.Lecture13.pdf)
+### Week 5, Lecture 9 and 10, Week 6, Lecture 11 and 12
 - Reference: Understanding Maching Learning, Shalev-Shwartz and Ben David, Chapters 12 and 14.
 - Reference: [Boyd Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/), Chapters 2 and 3 and 9
 - Class notes: [Lecture 9](09.29.Math462.L9.pdf) [Lecture 11](10.06.Math462.Lecture11.pdf) [Lecture 12](10.08.Lecture12.pdf)
