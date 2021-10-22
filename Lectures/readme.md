@@ -26,6 +26,7 @@
 
 ## Lectures Part 3
 ### Week 6, Lectures
+- Reference: Shalev-Shwartz Ch 17, Mohri Ch 9
 - [Lecture 13](20.10.2021.Lecture13.pdf)
 - [Lecture 14](22.10.2021.Lecture14.pdf)
 ### Week 5, Lecture 9 and 10, Week 6, Lecture 11 and 12
