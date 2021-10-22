@@ -27,6 +27,7 @@
 ## Lectures Part 3
 ### Week 6, Lectures
 - [Lecture 13](20.10.2021.Lecture13.pdf)
+- [Lecture 14](22.10.2021.Lecture14.pdf)
 ### Week 5, Lecture 9 and 10, Week 6, Lecture 11 and 12
 - Reference: Understanding Maching Learning, Shalev-Shwartz and Ben David, Chapters 12 and 14.
 - Reference: [Boyd Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/), Chapters 2 and 3 and 9
