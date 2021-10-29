@@ -12,6 +12,9 @@
 - Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf)
 - Homework 3, due 5pm, Tuesday Oct 19th, [Homework 3](https://www.overleaf.com/read/pmbgwhxztmxt)
 
+### Project
+- [Project description]
+- [Project Templates] 
 
 ## Handwritten in class notes 
 - [Lecture 1](09%2001%20Lecture%201.pdf)
