@@ -25,7 +25,10 @@
 - [Lecture 8](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462.09.24.F.L8.pdf)
 
 ## Lectures Part 3
-### Week 6, Lectures
+### Week 8, Oct 27 and 29th
+- Project Outline and Examples
+- Deep Neural networks: notes, reference: 
+### Week 7, Lectures
 - Reference: Shalev-Shwartz Ch 17, Mohri Ch 9
 - [Lecture 13](20.10.2021.Lecture13.pdf)
 - [Lecture 14](22.10.2021.Lecture14.pdf)
