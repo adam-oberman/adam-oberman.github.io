@@ -20,8 +20,8 @@
 
 ## Lectures Part 3
 ### Week 8, Oct 27 and 29th
-- Project Outline and Examples
-- [Lecture 15](29.10.2021.Lecture15.pdf) Deep Neural networks.
+- (Weds) Project Outline and Examples (see links above)
+- (Friday) [Lecture 15](29.10.2021.Lecture15.pdf) Deep Neural networks.
 - Additional reference for CNNs: https://www.deeplearningbook.org/ Chapter 6 and Chapter 9
 ### Week 7, Lectures
 - Reference: Shalev-Shwartz Ch 17, Mohri Ch 9
