@@ -13,8 +13,10 @@
 - Homework 3, due 5pm, Tuesday Oct 19th, [Homework 3](https://www.overleaf.com/read/pmbgwhxztmxt)
 
 ### Project
-- [Project description]
-- [Project Templates] 
+- [Project description](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20Example%201.pdf)
+- [Project Template 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20Example%201.pdf)  
+- [Project Template 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20template%20Image%20Segmentation.md) 
+- [Project Template 3](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20Template%203%20Contrastive%20losses.md) 
 
 ## Handwritten in class notes 
 - [Lecture 1](09%2001%20Lecture%201.pdf)
