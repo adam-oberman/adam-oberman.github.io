@@ -18,17 +18,6 @@
 - [Project Template 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20template%20Image%20Segmentation.md) 
 - [Project Template 3](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20Template%203%20Contrastive%20losses.md) 
 
-## Handwritten in class notes 
-- [Lecture 1](09%2001%20Lecture%201.pdf)
-- [Lecture 2](09%2003%20Lecture%202.pdf)
-- [Lecture 3](09%2008%20Lecture%203.pdf)
-- [Lecture 4](09%2010%20Lecture%204.pdf)
-- [Tutorial 1](Tutorial%201_%20Linear%20Regression%20And%20Matrices.pdf)
-- [Lecture 5](09%2015%20Math%20462%20Lecture%205.pdf)
-- [Lecture 6](09.17.Math462.Lecture6%20.pdf)
-- [Lecture 7](09.17.Math462.Lecture6%20.pdf)
-- [Lecture 8](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462.09.24.F.L8.pdf)
-
 ## Lectures Part 3
 ### Week 8, Oct 27 and 29th
 - Project Outline and Examples
@@ -69,6 +58,16 @@
 ### 
 - [Old version of notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1.pdf) and [Old version of notes Letter format](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462_Lecture_Notes_Part_1_Letter.pdf)
 
+## Earlier handwritten in class notes 
+- [Lecture 1](09%2001%20Lecture%201.pdf)
+- [Lecture 2](09%2003%20Lecture%202.pdf)
+- [Lecture 3](09%2008%20Lecture%203.pdf)
+- [Lecture 4](09%2010%20Lecture%204.pdf)
+- [Tutorial 1](Tutorial%201_%20Linear%20Regression%20And%20Matrices.pdf)
+- [Lecture 5](09%2015%20Math%20462%20Lecture%205.pdf)
+- [Lecture 6](09.17.Math462.Lecture6%20.pdf)
+- [Lecture 7](09.17.Math462.Lecture6%20.pdf)
+- [Lecture 8](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math462.09.24.F.L8.pdf)
 
 ## Zoom recordings
 - (No recording for lectures 1 and 2)
