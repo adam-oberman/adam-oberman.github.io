@@ -7,10 +7,9 @@
 - [Course notes part 3 (working version)](https://www.overleaf.com/read/syvzdvznfmby)
 
 ### Homework
-- Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf)
-- [Homework 1 Solutions](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/MATH462.HW1.Soln.pdf)
-- Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf), [Solution](HW2.Soln.pdf)
-- Homework 3, due 5pm, Tuesday Oct 19th, [Homework 3](https://www.overleaf.com/read/pmbgwhxztmxt) [Solution](HW3.Soln.pdf)
+- Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf) and [Homework 1 Solution](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/MATH462.HW1.Soln.pdf)
+- Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf), and [HW 2 Solution](HW2.Soln.pdf)
+- Homework 3, due 5pm, Tuesday Oct 19th, [Homework 3](https://www.overleaf.com/read/pmbgwhxztmxt) and [HW 3 Solution](HW3.Soln.pdf)
 
 ### Project
 - [Project description](Math462Project.Description.pdf)
