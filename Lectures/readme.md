@@ -9,8 +9,8 @@
 ### Homework
 - Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf)
 - [Homework 1 Solutions](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/MATH462.HW1.Soln.pdf)
-- Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf)
-- Homework 3, due 5pm, Tuesday Oct 19th, [Homework 3](https://www.overleaf.com/read/pmbgwhxztmxt)
+- Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf), [Solution](HW2.Soln.pdf)
+- Homework 3, due 5pm, Tuesday Oct 19th, [Homework 3](https://www.overleaf.com/read/pmbgwhxztmxt) [Solution](HW3.Soln.pdf)
 
 ### Project
 - [Project description](Math462Project.Description.pdf)
