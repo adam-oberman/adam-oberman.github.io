@@ -19,10 +19,12 @@
 - [Project Template 3](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20Template%203%20Contrastive%20losses.md) 
 
 ## Lectures Part 3
-### Week 8, Oct 27 and 29th
+### Weeks 8 and 9, Oct 27 and 29th, Nov 3rd and 5th
 - (Weds) Project Outline and Examples (see links above)
 - (Friday) [Lecture 15](29.10.2021.Lecture15.pdf) Deep Neural networks.
 - Additional reference for CNNs: https://www.deeplearningbook.org/ Chapter 6 and Chapter 9
+- (Weds) Face Verification Problem.  Generalization: in distribution and out of distribution [Lecture 16](03.11.2021.Lecture16.pdf) 
+- (Friday) Unsupervised: cluster energy.  Semi-supervised SVM and margin.  Reinformence learning warmup. [Lecture 17](05.11.2021.Lecture17.pdf) 
 ### Week 7, Lectures
 - Reference: Shalev-Shwartz Ch 17, Mohri Ch 9
 - [Lecture 13](20.10.2021.Lecture13.pdf)
