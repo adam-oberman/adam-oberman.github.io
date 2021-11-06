@@ -15,7 +15,7 @@
 
 
 ### Project
-- [Project description](Math462Project.Description.pdf)
+- [Project description](Lectures/Math 462 Project description.pdf)
 - [Project Template 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20Example%201.pdf)  
 - [Project Template 2](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20template%20Image%20Segmentation.md) 
 - [Project Template 3](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20Template%203%20Contrastive%20losses.md) 
