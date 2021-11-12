@@ -17,8 +17,8 @@
 
 ## Lectures Part 4 Reinforcement Learning
 - Reference [Sutton Barto texbook](http://incompleteideas.net/book/the-book-2nd.html).  Refer to Part I: tabular RL (selected).  Part II, 9.1 and Ch 13 policy gradient method.  Ch 16 Case studies. 
-- [Lecture][10.11.2021.Lecture18.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7530366/10.11.2021.Lecture18.pdf)
-- [Lecture][12.11.2021.Lecture19.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7530369/12.11.2021.Lecture19.pdf)
+- [Lecture 18](https://github.com/adam-oberman/adam-oberman.github.io/files/7530366/10.11.2021.Lecture18.pdf)
+- [Lecture 19](https://github.com/adam-oberman/adam-oberman.github.io/files/7530369/12.11.2021.Lecture19.pdf)
 
 
 ### Project
