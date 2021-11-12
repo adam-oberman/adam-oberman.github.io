@@ -5,7 +5,7 @@
 - [Final version of course notes (For HW 2) Part 2](https://www.overleaf.com/read/kwvkfdtnwtzp)
 - [Updated version of course note Part 2 (not for HW 2)](https://www.overleaf.com/read/yzqkgwpswjkd)
 - [Course notes part 3 (working version)](https://www.overleaf.com/read/syvzdvznfmby)
-- [Course notes part 4](https://www.overleaf.com/read/qxxdjcdzccjy)
+- [Course notes part 4 (multiclass)](https://www.overleaf.com/read/qxxdjcdzccjy)
 - [Course Notes RL](https://www.overleaf.com/read/fjcdwvynwgky)
 
 ### Homework
