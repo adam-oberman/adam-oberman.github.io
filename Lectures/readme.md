@@ -1,12 +1,11 @@
 # Lecture Notes :  MATH 462, Fall 2021
 
 ## Course Notes (typeset)
-- [Final version of course notes Part 1](Math462_Lecture_Notes_Part_1.pdf)
-- [Final version of course notes (For HW 2) Part 2](https://www.overleaf.com/read/kwvkfdtnwtzp)
-- [Updated version of course note Part 2 (not for HW 2)](https://www.overleaf.com/read/yzqkgwpswjkd)
-- [Course notes part 3 (working version)](https://www.overleaf.com/read/syvzdvznfmby)
+- [Course notes Part 1 (intro ML)](Math462_Lecture_Notes_Part_1.pdf)
+- [UCourse note Part 2 (regression and binary classification)](https://www.overleaf.com/read/yzqkgwpswjkd)
+- [Course notes part 3 (convex analysis and optimization)](https://www.overleaf.com/read/syvzdvznfmby)
 - [Course notes part 4 (multiclass)](https://www.overleaf.com/read/qxxdjcdzccjy)
-- [Course Notes RL](https://www.overleaf.com/read/fjcdwvynwgky)
+- [Course Notes (RL)](https://www.overleaf.com/read/fjcdwvynwgky)
 
 ### Homework
 - Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf) and [Homework 1 Solution](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/MATH462.HW1.Soln.pdf)
