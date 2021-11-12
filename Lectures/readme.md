@@ -6,6 +6,7 @@
 - [Updated version of course note Part 2 (not for HW 2)](https://www.overleaf.com/read/yzqkgwpswjkd)
 - [Course notes part 3 (working version)](https://www.overleaf.com/read/syvzdvznfmby)
 - [Course notes part 4](https://www.overleaf.com/read/qxxdjcdzccjy)
+- [Course Notes RL](https://www.overleaf.com/read/fjcdwvynwgky)
 
 ### Homework
 - Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf) and [Homework 1 Solution](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/MATH462.HW1.Soln.pdf)
@@ -16,6 +17,9 @@
 
 ## Lectures Part 4 Reinforcement Learning
 - Reference [Sutton Barto texbook](http://incompleteideas.net/book/the-book-2nd.html).  Refer to Part I: tabular RL (selected).  Part II, 9.1 and Ch 13 policy gradient method.  Ch 16 Case studies. 
+- [Lecture][10.11.2021.Lecture18.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7530366/10.11.2021.Lecture18.pdf)
+- [Lecture][12.11.2021.Lecture19.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7530369/12.11.2021.Lecture19.pdf)
+
 
 ### Project
 - [Project description](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math%20462%20Project%20description.pdf)
