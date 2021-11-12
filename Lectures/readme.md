@@ -14,6 +14,9 @@
 - Homework 4, due 5pm, Tuesday Nov 16th, [HW_4.pdf](HW_4.pdf)
 
 
+## Lectures Part 4 Reinforcement Learning
+- Reference [Sutton Barto texbook](http://incompleteideas.net/book/the-book-2nd.html).  Refer to Part I: tabular RL (selected).  Part II, 9.1 and Ch 13 policy gradient method.  Ch 16 Case studies. 
+
 ### Project
 - [Project description](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math%20462%20Project%20description.pdf)
 - [Project Template 1](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Project%20Example%201.pdf)  
