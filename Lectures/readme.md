@@ -5,20 +5,21 @@
 - [UCourse note Part 2 (regression and binary classification)](https://www.overleaf.com/read/yzqkgwpswjkd)
 - [Course notes part 3 (convex analysis and optimization)](https://www.overleaf.com/read/syvzdvznfmby)
 - [Course notes part 4 (multiclass)](https://www.overleaf.com/read/qxxdjcdzccjy)
-- [Course Notes (RL)](https://www.overleaf.com/read/fjcdwvynwgky)
+- [Course Notes (RL) HW version](https://www.overleaf.com/read/rtvnmmcjkgmn)
 
 ### Homework
 - Homework 1 due noon, Monday Sept 20th [Homework 1 Revised](Math462_HW1_V4.pdf) and [Homework 1 Solution](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/MATH462.HW1.Soln.pdf)
 - Homework 2, due 5pm, Tuesday Oct 5th, [Homework 2](Math462_HW2.pdf), and [HW 2 Solution](HW2.Soln.pdf)
 - Homework 3, due 5pm, Tuesday Oct 19th, [Homework 3](https://www.overleaf.com/read/pmbgwhxztmxt) and [HW 3 Solution](HW3.Soln.pdf)
 - Homework 4, due 5pm, Tuesday Nov 16th, [HW_4.pdf](HW_4.pdf)
-
+- Homework 5, due 5pm, Monday Dec 6th (It's short!) [HW_5](https://www.overleaf.com/read/frrtfqpscwpk)
 
 ## Lectures Part 4 Reinforcement Learning
 - Reference [Sutton Barto texbook](http://incompleteideas.net/book/the-book-2nd.html).  Refer to Part I: tabular RL (selected).  Part II, 9.1 and Ch 13 policy gradient method.  Ch 16 Case studies. 
 - [Lecture 18](https://github.com/adam-oberman/adam-oberman.github.io/files/7530366/10.11.2021.Lecture18.pdf)
 - [Lecture 19](https://github.com/adam-oberman/adam-oberman.github.io/files/7530369/12.11.2021.Lecture19.pdf)
-
+- Lecture 20 - no notes, group work on projects. 
+- Lecture 21 [19.11.2021.Lecture21.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7591169/19.11.2021.Lecture21.pdf)
 
 ### Project
 - [Project description](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Lectures/Math%20462%20Project%20description.pdf)
