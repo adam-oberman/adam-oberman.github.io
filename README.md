@@ -35,7 +35,7 @@ Prerequisites: MATH 462 or COMP 451 or (COMP 551, MATH 222, MATH 223 and MATH 32
 
 E.g. if you missed one assignment and one midterm, with an average of 87% on the rest, then the penalty would be 87-(1+2) = 84%.  
 
-## Key Dates
+## Key Dates (TBD)
 Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Fall_2021)
 - Classes begin: Weds Sept 1.
 - Fall reading break: Tues-Weds Oct. 12-13
