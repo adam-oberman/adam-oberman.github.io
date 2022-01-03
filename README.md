@@ -48,5 +48,7 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
 - Foundational Machine Learning: Classification, binary and multi-classes.  Classification losses, convex surrogate losses.  Scoring function and class probability interpretations.  Loss design.  Gradients
 - Traning models: Optimization, stochastic gradient descent. 
 - Generalization in (shallow) machine learning.  Concentration of measure, Rademacher complexity.
+- Introduction to deep learning. Introduction and math background for computer vision/generative models, NLP, RL.
+- More details will be forthcoming. 
 
 
