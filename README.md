@@ -1,6 +1,7 @@
 # MATH/COMP 562: Theory of Machine Learning
-- Winter 2021, Adam Oberman https://www.adamoberman.net/
-- Audience: Math and Stats Majors/Honours students, CS students.
+### Winter 2021, Adam Oberman https://www.adamoberman.net/
+### COVID
+McGill has announced online teaching for this course, at least until January 24th.  I hope we can return to in person teaching, which will be better for group work and presentations. 
 ### Prerequisites
 Prerequisites: MATH 462 or COMP 451 or (COMP 551, MATH 222, MATH 223 and MATH 324) or ECSE 551.
 ### Related Courses
@@ -9,36 +10,44 @@ Prerequisites: MATH 462 or COMP 451 or (COMP 551, MATH 222, MATH 223 and MATH 32
 - COMP 551 Applied Machine Learning https://www.siamak.page/courses/COMP551F21/index.html
   - This course focuses on implementation, rather than theory.  This a complementary course.
 - COMP 451 Fundamentals of Machine Learning  https://cs.mcgill.ca/~wlh/comp451/ (not recently offered)
-
-### Main Textbook/References
+### References
 - Notes from Math 462 (linked page)
 - NLP Book https://mitpress.mit.edu/books/introduction-natural-language-processing
 - Deep Learning book  https://www.deeplearningbook.org/
 - RL Book http://www.incompleteideas.net/book/the-book-2nd.html
-### Additional references
-- [Mathematics for Machine Learning by Diesenroth](https://mml-book.github.io/) This book is elementary, but can be used as a reference or review of topics from the prerequisites
-- [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html) This book is encyclopedic, covers many topics, good reference, but not presented as digestible lectures
-- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz and Ben David  This book is very good for presenting machine learning problems, but less detailed on the proofs and part 3.
-- [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. This book contains rigorous proofs of generalization bounds, but assumes the reader is already familiar with the problems.
-- [High dimensional statistics, a non-asymptotic viewpoint](https://people.eecs.berkeley.edu/~wainwrig/) by Martin J Wainwright.  Extra material on concetration of measure in the first chapters. 
+#### Additional general references
+- [Mathematics for Machine Learning by Diesenroth](https://mml-book.github.io/) Review of prerequisites, with a ML focus.
+- [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html) Good reference for many topics, but not presented as digestible lectures
+#### ML Theory references
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz and Ben David  This book is very good for presenting machine learning problems.
+- [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. Rigorous proofs of generalization bounds for classification problems.  VC dimension, Rademacher complexity. 
+- [High dimensional statistics, a non-asymptotic viewpoint](https://people.eecs.berkeley.edu/~wainwrig/) by Martin J Wainwright. (First couple chapters only),  good math reference for concentration of measure which is used in the generalization bounds.  
 
-## Grading (TBD)
-- 5 HW assignments : 25%
-- Group Project and Presentation: 15%
-- Attendance 5%, Participation 5%.
-- 2 Midterm Exams : 20%
-- Final exam : 30%
-- *Soft grading policy:* you are encouraged to make your best effort to complete all the work.  However, if you need to miss anything (assignment or exam), I will institute a soft grading policy which will allow one missed assignment and one missed midterm exam, with a small penalty.  Your final grade will be given by your average on the other work, with a penalty of:
-  -   1% (for each assignment missed),
-  -   2% (for a missed midterm).   
-  -   3% (for a missed final exam)
+### Grading (TBD)
+I'm hoping we will return to in person teaching. 
+Graded material will depend on if we return to in person classes.
+The grading scheme will be adjusted once we know if we can return to in person teaching.  
+- Attendance and Participation  (attend group presentations, ask questions. screen on for zoom when possible): 10%
+- Group Project.  Writeup / presentation (15/15): 30% 
+- Homework Quizzes / Homework assignments  (in person 10/20, online 0/30): 30%
+- Final exam / Final Report (in person 30/0, online 0/30): 30%
+*Soft grading policy:* you are encouraged to make your best effort to complete all the work.  However, if you need to miss anything (assignment or exam), I will institute a soft grading policy which will allow one missed assignment and one missed midterm exam, with a small penalty.  Your final grade will be given by your average on the other work, with a penalty of: 1% (for each assignment missed), 2% (for a missed quiz).  E.g. if you missed one assignment and one midterm, with an average of 87% on the rest, then the penalty would be 87-(1+2) = 84%.    However you are responsible for knowing the material which can appear on the final. 
+*Changes due to COVID* I reserve the right to make changes to the assignment structure/grading scheme in response to the COVID situation.  However, significant changes will be presented to the class for feedback, and will go forward only if there is strong agreement by the class. 
 
-E.g. if you missed one assignment and one midterm, with an average of 87% on the rest, then the penalty would be 87-(1+2) = 84%.  
-
-## Key Dates (TBD)
-Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Fall_2021)
-- Classes begin: Weds Sept 1.
-- Fall reading break: Tues-Weds Oct. 12-13
+### Key Times and Dates (TBD)
+Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winter_2022)
+- Classes are every Tuesday and Thursday 11:30-1pm.  
+ - First class: Thursday Jan 6th. (11:30am-1pm, course zoom, link on mycourses page).   
+ - Reading Break: Feb 28 - March 4th
+- Classes end Tuesday April 12th. 
 - Makeup day: Oct 15, no class.  
 - Last class: Friday Dec 3rd.
 - Midterm dates: TBD
+
+### Course Topics
+- Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.   
+- Foundational Machine Learning: Classification, binary and multi-classes.  Classification losses, convex surrogate losses.  Scoring function and class probability interpretations.  Loss design.  Gradients
+- Traning models: Optimization, stochastic gradient descent. 
+- Generalization in (shallow) machine learning.  Concentration of measure, Rademacher complexity.
+
+
