@@ -10,7 +10,7 @@ Prerequisites: MATH 462 or COMP 451 or (COMP 551, MATH 222, MATH 223 and MATH 32
 - [COMP 551 Applied Machine Learning](https://www.siamak.page/courses/COMP551F21/index.html)
   - This course focuses on implementation, rather than theory.  This a complementary course.
 ### References
-- Notes from Math 462 (linked page)
+- [Notes from Math 462](https://github.com/adam-oberman/adam-oberman.github.io/tree/main/Lectures)
 - NLP Book https://mitpress.mit.edu/books/introduction-natural-language-processing
 - Deep Learning book  https://www.deeplearningbook.org/
 - RL Book http://www.incompleteideas.net/book/the-book-2nd.html
