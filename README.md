@@ -7,9 +7,8 @@ Prerequisites: MATH 462 or COMP 451 or (COMP 551, MATH 222, MATH 223 and MATH 32
 ### Related Courses
 - [Math 462, Fall 2021](https://github.com/adam-oberman/adam-oberman.github.io/tree/main/Lectures)
   - To make sure that we all have the same background, there will be some overlap with this course in the first few weeks of term (of the 80+ students in 562, under 20 took 452).   Students from 462 can start their projet, and be excused from the small number of HW problems which overlap.
-- COMP 551 Applied Machine Learning https://www.siamak.page/courses/COMP551F21/index.html
+- [COMP 551 Applied Machine Learning](https://www.siamak.page/courses/COMP551F21/index.html)
   - This course focuses on implementation, rather than theory.  This a complementary course.
-- COMP 451 Fundamentals of Machine Learning  https://cs.mcgill.ca/~wlh/comp451/ (not recently offered)
 ### References
 - Notes from Math 462 (linked page)
 - NLP Book https://mitpress.mit.edu/books/introduction-natural-language-processing
