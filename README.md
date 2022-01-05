@@ -44,11 +44,12 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
 - Midterm dates: TBD
 
 ### Course Topics
-- Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.   
-- Foundational Machine Learning: Classification, binary and multi-classes.  Classification losses, convex surrogate losses.  Scoring function and class probability interpretations.  Loss design.  Gradients
-- Traning models: Optimization, stochastic gradient descent. 
-- Generalization in (shallow) machine learning.  Concentration of measure, Rademacher complexity.
-- Introduction to deep learning. Introduction and math background for computer vision/generative models, NLP, RL.
-- More details will be forthcoming. 
+- Prerequisite material (which will be covered in more detail later in the course) 
+  - Foundational Machine Learning: Classification, binary and multi-classes.  Classification losses, convex surrogate losses.  
+  - Scoring function and class probability interpretations.  
+  - Training models: Optimization, stochastic gradient descent. 
 
-
+- Week 1: Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.   
+- Weeks 2, 3, 4: Generalization in (shallow) machine learning.  References: Shalev-Shwartz (first part), Mohri (latter part). 
+  - PAC Learning bounds, VC dimension, Concentration of measure, Rademacher complexity.
+- Later in the course: Introduction to deep learning. Introduction and math background for computer vision/generative models, NLP, RL.
