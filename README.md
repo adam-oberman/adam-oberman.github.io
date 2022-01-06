@@ -39,8 +39,6 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
  - First class: Thursday Jan 6th. (11:30am-1pm, course zoom, link on mycourses page).   
  - Reading Break: Feb 28 - March 4th
 - Classes end Tuesday April 12th. 
-- Makeup day: Oct 15, no class.  
-- Last class: Friday Dec 3rd.
 - Midterm dates: TBD
 
 ### Course Topics
@@ -48,7 +46,7 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
   - Foundational Machine Learning: Classification, binary and multi-classes.  Classification losses, convex surrogate losses.  
   - Scoring function and class probability interpretations.  
   - Training models: Optimization, stochastic gradient descent. 
-
+### Schedule
 - Week 1: Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.   
 - Weeks 2, 3, 4: Generalization in (shallow) machine learning.  References: Shalev-Shwartz (first part), Mohri (latter part). 
   - PAC Learning bounds, VC dimension, Concentration of measure, Rademacher complexity.
