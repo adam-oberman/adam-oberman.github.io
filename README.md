@@ -26,17 +26,16 @@ Prerequisites: MATH 462 or COMP 451 or (COMP 551, MATH 222, MATH 223 and MATH 32
 I'm hoping we will return to in person teaching. 
 Graded material will depend on if we return to in person classes.
 The grading scheme will be adjusted once we know if we can return to in person teaching.  
-- Attendance and Participation  (attend group presentations, ask questions. screen on for zoom when possible): 10%
+- Attendance and Participation  (attend group presentations, ask questions, screen on for zoom when possible): 10%
 - Group Project.  Writeup / presentation (15/15): 30% 
 - Homework Quizzes / Homework assignments  (in person 10/20, online 0/30): 30%
 - Final exam / Final Report (in person 30/0, online 0/30): 30%
-*Soft grading policy:* you are encouraged to make your best effort to complete all the work.  However, if you need to miss anything (assignment or exam), I will institute a soft grading policy which will allow one missed assignment and one missed midterm exam, with a small penalty.  Your final grade will be given by your average on the other work, with a penalty of: 1% (for each assignment missed), 2% (for a missed quiz).  E.g. if you missed one assignment and one midterm, with an average of 87% on the rest, then the penalty would be 87-(1+2) = 84%.    However you are responsible for knowing the material which can appear on the final. 
 *Changes due to COVID* I reserve the right to make changes to the assignment structure/grading scheme in response to the COVID situation.  However, significant changes will be presented to the class for feedback, and will go forward only if there is strong agreement by the class. 
 
 ### Key Times and Dates (TBD)
 Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winter_2022)
 - Classes are every Tuesday and Thursday 11:30-1pm.  
- - First class: Thursday Jan 6th. (11:30am-1pm, course zoom, link on mycourses page).   
+ - First class: Thursday Jan 6th. (11:30am-1pm, zoom link on mycourses page).   
  - Reading Break: Feb 28 - March 4th
 - Classes end Tuesday April 12th. 
 - Midterm dates: TBD
