@@ -4,6 +4,9 @@
 McGill has announced online teaching for this course, at least until January 24th.  I hope we can return to in person teaching, which will be better for group work and presentations. 
 ### Prerequisites
 Prerequisites: MATH 462 or COMP 451 or (COMP 551, MATH 222, MATH 223 and MATH 324) or ECSE 551.
+### Teaching Assistants
+Viet Nguyen: baviet.nguyen@mail.mcgill.ca
+Gabriela Moisescu-Pareja: gabriela.moisescu-pareja@mail.mcgill.ca
 ### Related Courses
 - [Math 462, Fall 2021](https://github.com/adam-oberman/adam-oberman.github.io/tree/main/Lectures)
   - To make sure that we all have the same background, there will be some overlap with this course in the first few weeks of term (of the 80+ students in 562, under 20 took 452).   Students from 462 can start their projet, and be excused from the small number of HW problems which overlap.
