@@ -53,6 +53,7 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
 - Week 1: Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.   [Notes from Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/files/7824026/Lecture.1.2022.01.06.MC.562.pdf)  
 - Weeks 2, 3, 4: Generalization in (shallow) machine learning.  References: Shalev-Shwartz (first part), Mohri (latter part). 
   - PAC Learning bounds, VC dimension, Concentration of measure, Rademacher complexity.
-  - [Lecture 2](https://github.com/adam-oberman/adam-oberman.github.io/files/7849403/L1.2022.01.06.562.Lecture.2.pdf).  Reference Mohri Ch 2. 
+  - Reference Mohri Ch 2. [Lecture 2 (class notes)](https://github.com/adam-oberman/adam-oberman.github.io/files/7863498/L2.2022.01.11.Lecture.2.pdf)
+
 
 - Later in the course: Introduction to deep learning. Introduction and math background for computer vision/generative models, NLP, RL.
