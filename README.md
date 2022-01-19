@@ -50,13 +50,31 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
   - Scoring function and class probability interpretations.  
   - Training models: Optimization, stochastic gradient descent. 
   - Later in the course: Introduction to deep learning. Introduction and math background for computer vision/generative models, NLP, RL.
-### Schedule
-- Week 1: Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.  
-- Weeks 2, 3, 4: Generalization in (shallow) machine learning.  References: Shalev-Shwartz (first part), Mohri (latter part).  PAC Learning bounds, VC dimension, Concentration of measure, Rademacher complexity.
+### Outline
+- Part 1: Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.   Generalization in (shallow) machine learning.  References: Shalev-Shwartz (first part), Mohri (latter part).  PAC Learning bounds, VC dimension, Concentration of measure, Rademacher complexity.
+
+### Course Notes
 - [Notes from Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/files/7824026/Lecture.1.2022.01.06.MC.562.pdf)  
 -  [Lecture 2 (class notes)](https://github.com/adam-oberman/adam-oberman.github.io/files/7863498/L2.2022.01.11.Lecture.2.pdf) Reference Mohri Ch 2.
 - [Lecture 3.  2022.01.12 Math Comp 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7865071/Lecture.3.2022.01.12.Math.Comp.562.pdf)
 - [Lecture 4.  2022.01.17 (Tuesday) MATHCOMP 562 combined.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7897621/Lecture.4.2022.01.17.Tuesday.MATHCOMP.562.combined.pdf)
  
-
+### Chapter references
+References: [SS] "[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz and Ben David.  [M] "Foundations of Machine Learning" Mohri, Rostamizadeh, Talwalkar. 
+#### Lecture 1: 
+- Read [SS, Chapter 1] on your own.
+- Types of Learning, [SS Section 1.3] : 
+- Statistical Learning FrameworkEmpirical Risk Minimization
+- Overfitting, [SS Section 2.1, 2.2]
+#### Lecture 2: 
+- Read [M, Ch 1] on your own. 
+- Review linear predictors, linear classification, linear regression.  References: [SS Ch 9] or Math 462 course notes. 
+- PAC Learning Framework [M 2.1]
+- Learning Guarantees: Finite hypothesis sets, consistent case. [M 2.2]
+- Equivalent references: [SS 2.3 and SS 3.1]
+#### Lecture 3
+- [SS 4.2] Hoeffding's inequality
+- [SS 5.2] Bias complexity trade-off.
+#### Lectures 4, 5
+- Rademacher complexity.  [M 3.1]
 
