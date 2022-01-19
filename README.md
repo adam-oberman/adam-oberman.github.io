@@ -79,6 +79,7 @@ References: [SS] "[Understanding Machine Learning: From Theory to Algorithms](ht
 #### Lecture 3
 - [SS 4.2] Hoeffding's inequality
 - [SS 5.2] Bias complexity trade-off.
-#### Lectures 4, 5
+#### Lectures 4
 - Rademacher complexity.  [M 3.1]
-
+#### Lecture 5
+- Rademacher Complexity Proof [M 3.1],  application to classification with linear Hypothesis [M 5.4]
