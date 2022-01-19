@@ -53,11 +53,15 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
 ### Outline
 - Part 1: Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.   Generalization in (shallow) machine learning.  References: Shalev-Shwartz (first part), Mohri (latter part).  PAC Learning bounds, VC dimension, Concentration of measure, Rademacher complexity.
 
+### Homework
+- [Math562_HW1_V1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7898205/Math562_HW1_V1.pdf)
+
 ### Course Notes
 - [Notes from Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/files/7824026/Lecture.1.2022.01.06.MC.562.pdf)  
 -  [Lecture 2 (class notes)](https://github.com/adam-oberman/adam-oberman.github.io/files/7863498/L2.2022.01.11.Lecture.2.pdf) Reference Mohri Ch 2.
 - [Lecture 3.  2022.01.12 Math Comp 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7865071/Lecture.3.2022.01.12.Math.Comp.562.pdf)
 - [Lecture 4.  2022.01.17 (Tuesday) MATHCOMP 562 combined.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7897621/Lecture.4.2022.01.17.Tuesday.MATHCOMP.562.combined.pdf)
+ 
  
 ### Chapter references
 References: [SS] "[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz and Ben David.  [M] "Foundations of Machine Learning" Mohri, Rostamizadeh, Talwalkar. 
