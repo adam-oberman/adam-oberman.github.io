@@ -41,7 +41,6 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
  - First class: Thursday Jan 6th. (11:30am-1pm, zoom link on mycourses page).   
  - Reading Break: Feb 28 - March 4th
 - Classes end Tuesday April 12th. 
-- Midterm dates: TBD
 
 ### Course Topics
 - Prerequisite material (which will be covered in more detail later in the course) 
