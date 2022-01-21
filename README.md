@@ -26,14 +26,12 @@ Gabriela Moisescu-Pareja: gabriela.moisescu-pareja@mail.mcgill.ca
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. Rigorous proofs of generalization bounds for classification problems.  VC dimension, Rademacher complexity. 
 - [High dimensional statistics, a non-asymptotic viewpoint](https://people.eecs.berkeley.edu/~wainwrig/) by Martin J Wainwright. (First couple chapters only),  good math reference for concentration of measure which is used in the generalization bounds.  
 
-### Grading (TBD)
-I'm hoping we will return to in person teaching. 
-Graded material will depend on if we return to in person classes.
-The grading scheme will be adjusted once we know if we can return to in person teaching.  
+### Grading 
+Update (Jan 21). 
 - Attendance and Participation  (attend group presentations, ask questions, screen on for zoom when possible): 10%
-- Group Project.  Writeup / presentation (15/15): 30% 
-- Homework Quizzes / Homework assignments  (in person 10/20, online 0/30): 30%
-- Final exam / Final Report (in person 30/0, online 0/30): 30%
+- Group Project.  Writeup and presentation:30% 
+- Homework: 30%
+- Individual Project/Final Report: 30%
 *Changes due to COVID* I reserve the right to make changes to the assignment structure/grading scheme in response to the COVID situation.  However, significant changes will be presented to the class for feedback, and will go forward only if there is strong agreement by the class. 
 
 ### Key Times and Dates (TBD)
