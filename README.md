@@ -32,6 +32,7 @@ Update (Jan 21).
 - Group Project.  Writeup and presentation:30% 
 - Homework: 30%
 - Individual Project/Final Report: 30%
+
 *Changes due to COVID* I reserve the right to make changes to the assignment structure/grading scheme in response to the COVID situation.  However, significant changes will be presented to the class for feedback, and will go forward only if there is strong agreement by the class. 
 
 ### Key Times and Dates (TBD)
