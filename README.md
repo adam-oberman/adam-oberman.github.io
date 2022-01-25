@@ -59,6 +59,8 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
 -  [Lecture 2 (class notes)](https://github.com/adam-oberman/adam-oberman.github.io/files/7863498/L2.2022.01.11.Lecture.2.pdf) Reference Mohri Ch 2.
 - [Lecture 3.  2022.01.12 Math Comp 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7865071/Lecture.3.2022.01.12.Math.Comp.562.pdf)
 - [Lecture 4.  2022.01.17 (Tuesday) MATHCOMP 562 combined.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7897621/Lecture.4.2022.01.17.Tuesday.MATHCOMP.562.combined.pdf)
+- [Lecture 5 2022.01.19 (Thursday) MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7934527/Lecture.5.2022.01.19.Thursday.MATHCOMP.562.pdf)
+
  
  
 ### Chapter references
@@ -80,4 +82,6 @@ References: [SS] "[Understanding Machine Learning: From Theory to Algorithms](ht
 #### Lectures 4
 - Rademacher complexity.  [M 3.1]
 #### Lecture 5
-- Rademacher Complexity Proof [M 3.1],  application to classification with linear Hypothesis [M 5.4]
+- Rademacher Complexity Proof [M 3.1], 
+#### Lecture 6
+- Rademacher complexity application to classification with linear Hypothesis [M 5.4]
