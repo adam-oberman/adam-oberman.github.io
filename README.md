@@ -6,8 +6,8 @@ McGill has announced online teaching for this course, at least until January 24t
 Prerequisites: MATH 462 or COMP 451 or (COMP 551, MATH 222, MATH 223 and MATH 324) or ECSE 551.
 ### Teaching Assistants
 Viet Nguyen: baviet.nguyen@mail.mcgill.ca
-
 Gabriela Moisescu-Pareja: gabriela.moisescu-pareja@mail.mcgill.ca
+
 ### Related Courses
 - [Math 462, Fall 2021](https://github.com/adam-oberman/adam-oberman.github.io/tree/main/Lectures)
   - To make sure that we all have the same background, there will be some overlap with this course in the first few weeks of term (of the 80+ students in 562, under 20 took 452).   Students from 462 can start their projet, and be excused from the small number of HW problems which overlap.
@@ -57,35 +57,36 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
 ### Group and individual projects
 - Stage 1,Tues Feb 1st (choose topics and groups) Stage 2 (outline and plan) Thurs Feb 3rd.  Stage 3: see instructions. [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7943833/MathComp.562.Project.Description.pdf)
 
-
 ### Course Notes
-- [Notes from Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/files/7824026/Lecture.1.2022.01.06.MC.562.pdf)  
--  [Lecture 2 (class notes)](https://github.com/adam-oberman/adam-oberman.github.io/files/7863498/L2.2022.01.11.Lecture.2.pdf) Reference Mohri Ch 2.
-- [Lecture 3.  2022.01.12 Math Comp 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7865071/Lecture.3.2022.01.12.Math.Comp.562.pdf)
-- [Lecture 4.  2022.01.17 (Tuesday) MATHCOMP 562 combined.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7897621/Lecture.4.2022.01.17.Tuesday.MATHCOMP.562.combined.pdf)
-- [Lecture 5 2022.01.19 (Thursday) MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7934527/Lecture.5.2022.01.19.Thursday.MATHCOMP.562.pdf)
-
- 
- 
-### Chapter references
-References: [SS] "[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz and Ben David.  [M] "Foundations of Machine Learning" Mohri, Rostamizadeh, Talwalkar. 
+Chapter References: 
+- [SS] "[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz and Ben David.  
+- [M] "Foundations of Machine Learning" Mohri, Rostamizadeh, Talwalkar. 
 #### Lecture 1: 
 - Read [SS, Chapter 1] on your own.
 - Types of Learning, [SS Section 1.3] : 
 - Statistical Learning FrameworkEmpirical Risk Minimization
 - Overfitting, [SS Section 2.1, 2.2]
+- [Notes from Lecture 1](https://github.com/adam-oberman/adam-oberman.github.io/files/7824026/Lecture.1.2022.01.06.MC.562.pdf)  
 #### Lecture 2: 
 - Read [M, Ch 1] on your own. 
-- Review linear predictors, linear classification, linear regression.  References: [SS Ch 9] or Math 462 course notes. 
+- Review linear predictors, linear classification, linear regression.  References: [SS Ch 9] or Math 462 course notes.
+-  [Lecture 2 (class notes)](https://github.com/adam-oberman/adam-oberman.github.io/files/7863498/L2.2022.01.11.Lecture.2.pdf) Reference Mohri Ch 2. 
 - PAC Learning Framework [M 2.1]
 - Learning Guarantees: Finite hypothesis sets, consistent case. [M 2.2]
 - Equivalent references: [SS 2.3 and SS 3.1]
 #### Lecture 3
 - [SS 4.2] Hoeffding's inequality
 - [SS 5.2] Bias complexity trade-off.
+- [Lecture 3.  2022.01.12 Math Comp 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7865071/Lecture.3.2022.01.12.Math.Comp.562.pdf)
 #### Lectures 4
 - Rademacher complexity.  [M 3.1]
+- [Lecture 4.  2022.01.17 (Tuesday) MATHCOMP 562 combined.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7897621/Lecture.4.2022.01.17.Tuesday.MATHCOMP.562.combined.pdf)
 #### Lecture 5
 - Rademacher Complexity Proof [M 3.1], 
+- [Lecture 5 2022.01.19 (Thursday) MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7934527/Lecture.5.2022.01.19.Thursday.MATHCOMP.562.pdf)
 #### Lecture 6
+- Understanding Rademacher complexity
+- Talagrand's Lemma
+- [L6 2022.01.25 Lecture 6.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7945255/L6.2022.01.25.Lecture.6.pdf)
+#### Lecture 7
 - Rademacher complexity application to classification with linear Hypothesis [M 5.4]
