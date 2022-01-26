@@ -52,7 +52,8 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
 - Part 1: Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.   Generalization in (shallow) machine learning.  References: Shalev-Shwartz (first part), Mohri (latter part).  PAC Learning bounds, VC dimension, Concentration of measure, Rademacher complexity.
 
 ### Homework
-- [Math562_HW1_V1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7898205/Math562_HW1_V1.pdf)
+- [Math562_HW1_V2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7945227/Math562_HW1_V2.pdf)
+
 ### Group and individual projects
 - Stage 1,Tues Feb 1st (choose topics and groups) Stage 2 (outline and plan) Thurs Feb 3rd.  Stage 3: see instructions. [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7943833/MathComp.562.Project.Description.pdf)
 
