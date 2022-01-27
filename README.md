@@ -55,7 +55,9 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
 - [Math562_HW1_V2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7945227/Math562_HW1_V2.pdf)
 
 ### Group and individual projects
-- Stage 1,Tues Feb 1st (choose topics and groups) Stage 2 (outline and plan) Thurs Feb 3rd.  Stage 3: see instructions. [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7943833/MathComp.562.Project.Description.pdf)
+- Stage 1,Tues Feb 1st (choose topics and groups).  See suggestions [Suggested Paper Links.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7951096/Suggested.Paper.Links.pdf)
+- Stage 2 (outline and plan) Thurs Feb 3rd.  
+- Stage 3: see instructions [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7943833/MathComp.562.Project.Description.pdf)
 
 ### Course Notes
 Chapter References: 
