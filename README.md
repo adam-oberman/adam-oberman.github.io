@@ -91,4 +91,5 @@ Chapter References:
 - Talagrand's Lemma
 - [L6 2022.01.25 Lecture 6.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7945255/L6.2022.01.25.Lecture.6.pdf)
 #### Lecture 7
-- Rademacher complexity application to classification with linear Hypothesis [M 5.4]
+- Rademacher complexity application to classification with linear Hypothesis [M 5.4][L7 2022.01.27 Thursday Lecture 7.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7953145/L7.2022.01.27.Thursday.Lecture.7.pdf)
+
