@@ -94,7 +94,7 @@ Chapter References:
 - Rademacher complexity application to classification with linear Hypothesis [M 5.4][L7 2022.01.27 Thursday Lecture 7.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7953145/L7.2022.01.27.Thursday.Lecture.7.pdf)
 #### Lecture 8
 - Bayes classifier (Mohri 2.41, 2.4.2), 
-- No free lunch Theorem [SS Section 5.1], 1. [SS 5.2]   
+- No free lunch Theorem [SS Section 5.1], 1. [SS 5.2]   See [Illustrated proof](https://mlu.red/muse/52449366310.html)
 - Bias-variance error decomposition = [M 4.1]  
 - Estimation-Approximation error decomposition.  Structural Risk minimization [M 4.3] 
 - [Lecture 8.  2022.02.01 (Tuesday) MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7982236/Lecture.8.2022.02.01.Tuesday.MATHCOMP.562.pdf)
