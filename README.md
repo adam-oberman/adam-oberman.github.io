@@ -98,5 +98,9 @@ Chapter References:
 - Bias-variance error decomposition = [M 4.1]  
 - Estimation-Approximation error decomposition.  Structural Risk minimization [M 4.3] 
 - [Lecture 8.  2022.02.01 (Tuesday) MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7982236/Lecture.8.2022.02.01.Tuesday.MATHCOMP.562.pdf)
+#### Lecture 9
+- proof of No Free Lunch Theorem
+- VC dimension
+- [Lecture 9.  2022.02.03 (Thursday) MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7995200/Lecture.9.2022.02.03.Thursday.MATHCOMP.562.pdf)
 
 
