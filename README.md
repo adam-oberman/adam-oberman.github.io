@@ -103,9 +103,10 @@ Chapter References:
 - VC dimension
 - [Lecture 9.  2022.02.03 (Thursday) MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7995200/Lecture.9.2022.02.03.Thursday.MATHCOMP.562.pdf)
 #### Lecture 10 
-- RKHS, Ref: Wainwright Ch 12, RKHS
+- RKHS introduction.  Ref: Wainwright Ch 12 section 1 and 2, RKHS
+- [Lecture 10.  2022.02.08 (Tuesday) MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/8026550/Lecture.10.2022.02.08.Tuesday.MATHCOMP.562.pdf)
 #### Lecture 11
-- RKHS con't, Ref: Wainwright Ch 12, RKHS
+- RKHS theory, Ref: Wainwright Ch 12 section 2 and 3, RKHS
 - Guest lectures from former students on RL for ventilator and word embeddings.
 #### Lecture 12
-- RKHS and learning bounds
+- RKHS applications: function fitting and density estimation, section 12.5 and 12.6
