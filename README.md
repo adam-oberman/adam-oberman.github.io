@@ -102,5 +102,10 @@ Chapter References:
 - proof of No Free Lunch Theorem
 - VC dimension
 - [Lecture 9.  2022.02.03 (Thursday) MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7995200/Lecture.9.2022.02.03.Thursday.MATHCOMP.562.pdf)
-
-
+#### Lecture 10 
+- RKHS, Ref: Wainwright Ch 12, RKHS
+#### Lecture 11
+- RKHS con't, Ref: Wainwright Ch 12, RKHS
+- Guest lectures from former students on RL for ventilator and word embeddings.
+#### Lecture 12
+- RKHS and learning bounds
