@@ -130,5 +130,5 @@ Chapter References [Reinforcement Learning]:
 - Bisimulation, bisimulation metrics for MDPs
 - Metrics on the space of probability distributions, coupling, Kantorovich metric
 - Frontiers
-- [Notes](https://github.com/adam-oberman/adam-oberman.github.io/notes-prakash-bisims.pdf)
+- [Notes](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/notes-prakash-bisims.pdf)
 
