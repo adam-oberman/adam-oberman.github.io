@@ -60,9 +60,12 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
 - Stage 3: see instructions [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7943833/MathComp.562.Project.Description.pdf)
 
 ### Course Notes
-Chapter References: 
-- [SS] "[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz and Ben David.  
+Chapter References [Machine Learning]: 
+- [SS] "[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)" by Shalev-Shwartz and Ben David.  
 - [M] "Foundations of Machine Learning" Mohri, Rostamizadeh, Talwalkar. 
+Chapter References [Reinforcement Learning]:
+- "[Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io)" by Alekh Agarwal, Nan Jiang, Sham M. Kakade, and Wen Sun.
+- "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)" by Csaba Szepesvari
 #### Lecture 1: 
 - Read [SS, Chapter 1] on your own.
 - Types of Learning, [SS Section 1.3] : 
@@ -110,3 +113,21 @@ Chapter References:
 - Guest lectures from former students on RL for ventilator and word embeddings.
 #### Lecture 12
 - RKHS applications: function fitting and density estimation, section 12.5 and 12.6
+- Introduction to Reinforcement Learning: MDPs, Policy, Value function, the RL objective
+#### Lecture 13
+- Bellman expectation equations, Bellman optimality equations (and respective operators)
+- Optimal value function if and only if satisfies the optimality equations
+- Solving MDPs when dynamics are known: value iteration vs. policy iteration, sample efficiency
+#### Lecture 14
+- When dynamics and rewards are unknown: predicting the value function
+- TD learning, convergence "proof", off-policy learning
+- Q-learning algorithm: applying TD ideas to controlling the agent
+#### Lecture 15
+- Q-learning revisited
+- Deep Q-learning (DQN): experience replay and stable TD targets
+- Introduction to exploration in model-based learning for finite-horizon MDPs
+#### Lecture 16 (prof. Panangaden)
+- Bisimulation, bisimulation metrics for MDPs
+- Metrics on the space of probability distributions, coupling, Kantorovich metric
+- Frontiers
+
