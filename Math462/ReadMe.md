@@ -1,6 +1,5 @@
-# MATH 462, First day handout
-
-## Honours Mathematics for Machine Learning, Fall 2022
+# MATH 462, Fall 2022
+## Honours Mathematics for Machine Learning,
 
 #### Audience: 
 
