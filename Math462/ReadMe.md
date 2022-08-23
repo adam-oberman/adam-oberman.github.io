@@ -20,3 +20,56 @@ Note this course is mainly about *Machine Learning -* the term *Artificial Intel
 - Final exam : 40% 
 ## Course Materials
 [Math 462 Fall 2022 First Day Handout.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9409894/Math.462.Fall.2022.First.Day.Handout.pdf)
+## Lectures
+- 2022/08/31 (Weds) First Lecture
+- 2022/09/07 (Weds) Second Lecture 
+Ch 1 and Ch 2, Intelligent Agents.
+
+## Topic Schedule 
+Planned outline of the topics
+#### Main Course (16 Lectures)
+
+##### **Introduction**: Intelligent Agents (3 lectures)
+Ch 1 and Ch 2, Intelligent Agents
+
+##### Probabilistic Reasoning and Decision making  (3 lectures)
+
+Ch 12, Quantifying Uncertainty.  (1 lecture)
+
+Ch 15, Making Simple Decisions  (2 lectures)
+
+##### **Machine Learning** (4 lectures)
+
+Ch 19, Learning from Examples. (4 lectures)
+
+#####  Deep Learning and Computer Vision (4 lectures)
+
+Ch 22, Deep Learning (2 Lectures)
+
+Ch 27 Computer Vision (2 lectures)
+
+##### Conclusions  (2 lectures)
+
+Ch 28 Philosophy, Safety, Ethics of AI
+
+Ch 29 Future of AI
+
+**Midterm exam covers this material**
+
+#### Further Topics (12 Lectures)
+
+##### **Discriminative and generative models** (2 lectures)
+
+Ch 21 Learning Probabilistic Models (2 lectures) 
+
+##### Natural Language and Deep NLP (4 lectures)
+
+Ch 24, NLP (2 lectures)
+
+Ch 25 Deep Learning for NLP (2 lectures)
+
+##### Decision Making and RL (4 lectures)
+
+Ch 16, Making Complex Decisions. (2 lectures)
+
+Ch 23, RL (2 lectures)  
