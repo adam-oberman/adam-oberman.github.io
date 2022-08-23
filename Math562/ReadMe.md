@@ -27,33 +27,9 @@ Refer to [McGill key Dates](https://www.mcgill.ca/importantdates/key-dates#Winte
 
 ### Course Topics
 
-- Prerequisite material (which will be covered in more detail later in the course) 
   - Foundational Machine Learning: Classification, binary and multi-classes.  Classification losses, convex surrogate losses.  
   - Scoring function and class probability interpretations.  
   - Training models: Optimization, stochastic gradient descent. 
   - Later in the course: Introduction to deep learning. Introduction and math background for computer vision/generative models, NLP, RL.
-
-### Outline
-
-- Part 1: Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.   Generalization in (shallow) machine learning.  References: Shalev-Shwartz (first part), Mohri (latter part).  PAC Learning bounds, VC dimension, Concentration of measure, Rademacher complexity.
-
-### Homework
-
-- [Math562_HW1_V2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7945227/Math562_HW1_V2.pdf)
-
-### Group and individual projects
-
-- Stage 1,Tues Feb 1st (choose topics and groups).  See suggestions [Suggested Paper Links.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7951096/Suggested.Paper.Links.pdf)
-- Stage 2 (outline and plan) Thurs Feb 3rd.  
-- Stage 3: see instructions [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/7943833/MathComp.562.Project.Description.pdf)
-
-### Course Notes
-
-Chapter References [Machine Learning]: 
-
-- [SS] "[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)" by Shalev-Shwartz and Ben David.  
-- [M] "Foundations of Machine Learning" Mohri, Rostamizadeh, Talwalkar. 
-  Chapter References [Reinforcement Learning]:
-- "[Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io)" by Alekh Agarwal, Nan Jiang, Sham M. Kakade, and Wen Sun.
-- "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)" by Csaba Szepesvari
+  - Part 1: Introduction to Machine Learning, Deep Learning.  Topics in deep learning: Reinforcement Learning, Natural Language Processing, Computer Vision.   Generalization in (shallow) machine learning.  References: Shalev-Shwartz (first part), Mohri (latter part).  PAC Learning bounds, VC dimension, Concentration of measure, Rademacher complexity.
 
