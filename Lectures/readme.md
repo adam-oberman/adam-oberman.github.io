@@ -1,6 +1,5 @@
-# MATH 462: Mathematics for Machine Learning
+# MATH 462: Mathematics for Machine Learning Fall 2021
 - Instructor: Adam Oberman
-- Fall 2021
 
 A mathematically rigorous approach to machine learning.
 
