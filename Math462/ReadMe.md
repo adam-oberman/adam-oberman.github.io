@@ -23,6 +23,7 @@ Note this course is mainly about *Machine Learning -* the term *Artificial Intel
 ## Lectures
 - 2022/08/31 (Weds) First Lecture
 - 2022/09/07 (Weds) Second Lecture 
+
 Ch 1 and Ch 2, Intelligent Agents.
 
 ## Topic Schedule 
