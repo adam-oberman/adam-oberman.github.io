@@ -12,10 +12,10 @@ Artificial Intelligence: A Modern Approach, 4th ed. by Stuart Russell and Peter 
 - Textbook webpage  http://aima.cs.berkeley.edu/
 - Exercises: https://aimacode.github.io/aima-exercises/
 - e-textbook available from https://www.pearson.com/en-ca/subject-catalog/p/artificial-intelligence-a-modern-approach/P200000003500/9780137505135 for $50. 
-- We will not cover Sections II and III, (which are covered in COMP 424)
-Note this course is mainly about *Machine Learning -* the term *Artificial Intelligence* is overloaded, we will discuss this in the first lectures. Note: there is also an internation edition which has slightly different chapter numbers.  
+Note this course is mainly about *Machine Learning -* the term *Artificial Intelligence* is overloaded, we will discuss this in the first lectures.
 ### Grading 
 - 5-6 HW assignments : 20%
 - Attendance and participation 15%. 
 - Midterm Exam : 25%
 - Final exam : 40% 
+## Course Materials
