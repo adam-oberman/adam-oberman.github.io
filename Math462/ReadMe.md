@@ -1,1 +1,102 @@
-This is main course page for Math 462, Fall 2022
+# MATH 462, First day handout
+
+## Honours Mathematics for Machine Learning, Fall 2022
+
+#### Audience: 
+
+Math and Stats Majors/Honours students, CS students.
+
+#### Aim of the Course:
+
+A mathematically rigorous approach to Machine Learning (ML). 
+
+Deep Learning has become an important topic in the last 10 years, by combining mathematically well-founded machine learning methods with deep neural network architectures.   
+
+This course, Math 462, will cover the mathematical models which go into current machine learning models, as well as deep learning architectures, and application areas.  Math 462 will provide the necessary background for reading research papers, and understanding deep learning models. The sequel, Math 562, will go more deeply into statistical learning theory, and regularization.  
+
+#### Prerequisites 
+
+- Math 223/Math 248 or equivalent (linear algebra majors/honours)
+- Math 222 (Calculus 3)
+- Math 358 Honours Vector Calculus/Math 314 Advanced Calculus 
+
+*Math 324/Math 357 (Statistics) is not needed for this course, it will be replaced with a probability course in future years.* 
+
+#### Textbook
+
+Artificial Intelligence: A Modern Approach, 4th ed. by Stuart Russell and Peter Norvig (US edition). Be sure to use the **4th US edition!**  
+
+- Textbook webpage  http://aima.cs.berkeley.edu/
+- Exercises: https://aimacode.github.io/aima-exercises/
+- e-textbook available from https://www.pearson.com/en-ca/subject-catalog/p/artificial-intelligence-a-modern-approach/P200000003500/9780137505135 for $50. 
+- We will not cover Sections II and III, (which are covered in COMP 424)
+
+Note this course is mainly about *Machine Learning -* the term *Artificial Intelligence* is overloaded, we will discuss this in the first lectures. Note: there is also an internation edition which has slightly different chapter numbers.  
+
+### Grading 
+
+- 5-6 HW assignments : 20%
+- Attendance and participation 15%. 
+- Midterm Exam : 25%
+- Final exam : 40% 
+
+### Key Dates
+
+https://www.mcgill.ca/importantdates/key-dates#Fall_2022
+
+- Classes begin Weds August 31,
+- Fall reading break: 
+  - No class Monday, Tues, Weds Oct 10-12 
+  - Thursday Oct 13, we have a **makeup class** (replacing Monday)
+
+- Friday Dec 5th, last class. 
+
+## Topic Schedule 
+
+Tentative outline of the topics, leaving some room for flexibility.   The lecture topics will be posted with more detail on the course web page. 
+
+#### Main Course (16 Lectures)
+
+##### **Introduction**: Intelligent Agents (3 lectures)
+
+Ch 1 and Ch 2, Intelligent Agents.
+
+##### Probabilistic Reasoning and Decision making  (3 lectures)
+
+Ch 12, Quantifying Uncertainty.  (1 lecture)
+
+Ch 15, Making Simple Decisions  (2 lectures)
+
+##### **Machine Learning** (4 lectures)
+
+Ch 19, Learning from Examples. (4 lectures)
+
+#####  Deep Learning and Computer Vision (4 lectures)
+
+Ch 22, Deep Learning (2 Lectures)
+
+Ch 27 Computer Vision (2 lectures)
+
+##### Conclusions  (2 lectures)
+
+Ch 28 Philosophy, Safety, Ethics of AI
+
+Ch 29 Future of AI
+
+#### Selected Topics (12 Lectures)
+
+##### **Discriminative and generative models** (2 lectures)
+
+Ch 21 Learning Probabilistic Models (2 lectures) 
+
+##### Natural Language and Deep NLP (4 lectures)
+
+Ch 24, NLP (2 lectures)
+
+Ch 25 Deep Learning for NLP (2 lectures)
+
+##### Decision Making and RL (4 lectures)
+
+Ch 16, Making Complex Decisions. (2 lectures)
+
+Ch 23, RL (2 lectures)  
