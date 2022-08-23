@@ -19,3 +19,4 @@ Note this course is mainly about *Machine Learning -* the term *Artificial Intel
 - Midterm Exam : 25%
 - Final exam : 40% 
 ## Course Materials
+[Math 462 Fall 2022 First Day Handout.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9409894/Math.462.Fall.2022.First.Day.Handout.pdf)
