@@ -22,7 +22,7 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
 - [Math 462 Fall 2022 First Day Handout.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9455747/Math.462.Fall.2022.First.Day.Handout.pdf)
 
 #### Lectures
-09/31 (Weds): Discuss course, 
+09/31 (Weds): Discuss course, AI vs ML, Clustering intro
   - [Math 462 Fall 2022 First Day Handout.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9455747/Math.462.Fall.2022.First.Day.Handout.pdf)
   - [RN AI book Ch1 excerpt](https://github.com/adam-oberman/adam-oberman.github.io/files/9461998/RN.AI.book.Ch1.excerpt.pdf)
   - [SS Ch 22 Clustering](https://github.com/adam-oberman/adam-oberman.github.io/files/9462001/SS.Ch.22.pdf)
