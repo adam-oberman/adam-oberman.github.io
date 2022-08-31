@@ -20,3 +20,8 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
 - Course material:  https://adam-oberman.github.io/  
 - Assigment submission: https://mycourses2.mcgill.ca/ 
 - [Math 462 Fall 2022 First Day Handout.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9455747/Math.462.Fall.2022.First.Day.Handout.pdf)
+
+#### Lectures
+- 09/31 (Weds): Discuss course, 
+  - [RN AI book Ch1 excerpt](https://github.com/adam-oberman/adam-oberman.github.io/files/9461998/RN.AI.book.Ch1.excerpt.pdf)
+  - [SS Ch 22 Clustering](https://github.com/adam-oberman/adam-oberman.github.io/files/9462001/SS.Ch.22.pdf)
