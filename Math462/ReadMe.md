@@ -29,3 +29,5 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
  
 10/07 (Weds): k-means clustering, losses, hypothesis classes
 - [Math462_Lecture_Notes_Kmeans.DRAFT.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9530467/Math462_Lecture_Notes_Kmeans.DRAFT.pdf)
+10/12 (Monday): Vector Calculus Review, Vector Calc proof of k-means loss.  Generative and discriminative models.
+- Reference: chapter 5 [MML Diesenroth](https://mml-book.github.io/) [MML] 
