@@ -22,13 +22,14 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
 - [Math 462 Fall 2022 First Day Handout.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9455747/Math.462.Fall.2022.First.Day.Handout.pdf)
 
 #### Lectures
-09/31 (Weds): Discuss course, AI vs ML, Clustering intro
+08/31 (Weds): Discuss course, AI vs ML, Clustering intro
   - [Math 462 Fall 2022 First Day Handout.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9455747/Math.462.Fall.2022.First.Day.Handout.pdf)
   - [RN AI book Ch1 excerpt](https://github.com/adam-oberman/adam-oberman.github.io/files/9461998/RN.AI.book.Ch1.excerpt.pdf)
   - [SS Ch 22 Clustering](https://github.com/adam-oberman/adam-oberman.github.io/files/9462001/SS.Ch.22.pdf)
  
-10/07 (Weds): k-means clustering, losses, hypothesis classes
+09/07 (Weds): k-means clustering, losses, hypothesis classes
 - [Math462_Lecture_Notes_Kmeans.DRAFT.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9530467/Math462_Lecture_Notes_Kmeans.DRAFT.pdf)
 
-10/12 (Monday): Vector Calculus Review, Vector Calc proof of k-means loss.  Generative and discriminative models.
+09/12 (Monday): Vector Calculus Review, Vector Calc for ML: sigmoids.
+09/14 (Wednesday): Vector Calc for ML. Generative and discriminative models.
 - Reference: chapter 5 [MML Diesenroth](https://mml-book.github.io/) [MML] 
