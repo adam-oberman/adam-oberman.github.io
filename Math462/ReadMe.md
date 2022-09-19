@@ -40,4 +40,8 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
 Homework 1, posted Sept 13, due Sept 23 (in mycourses)
 - [Math462_HW1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9576338/Math462_HW1.pdf)
 
+09/16 (Monday): 
+- [Math462_Lecture_Note_SGD_DRAFT.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9598852/Math462_Lecture_Note_SGD_DRAFT.pdf)
+- MML Chapter 5
+- [SS Ch 23 PCA.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9598862/SS.Ch.23.pdf)
 
