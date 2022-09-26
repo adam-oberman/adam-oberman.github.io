@@ -29,7 +29,7 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
  
 09/07 (Weds): k-means clustering, losses, hypothesis classes
 
-- [Math462_Lecture_Notes_Kmeans.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9560274/Math462_Lecture_Notes_Kmeans.pdf)
+- [Math462_Lecture_Notes_Kmeans.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9648112/Math462_Lecture_Notes_Kmeans.pdf)  updated Sept 26
 
 
 09/12 (Monday): Vector Calculus Review, Vector Calc for ML: sigmoids.
@@ -37,14 +37,13 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
 - Reference: chapter 5 [MML Diesenroth](https://mml-book.github.io/) [MML] 
 - [Math462_Lecture_Note_2_Calculus.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9560277/Math462_Lecture_Note_2_Calculus.pdf)
 
-Homework 1, posted Sept 20, due Sept 27 (in mycourses)
-- [Math462_HW1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9607897/Math462_HW1.pdf)
+Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 26)
+- [Math462_HW1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9648108/Math462_HW1.pdf)
 
 09/16 (Monday): 
 - [Math462_Lecture_Note_SGD_DRAFT.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9598852/Math462_Lecture_Note_SGD_DRAFT.pdf)
 - MML Chapter 5
 - [SS Ch 23 PCA.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9598862/SS.Ch.23.pdf)
 
-Homework 2, part 1, posted Sept 20.
-- [Math462_HW2_Part1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9608353/Math462_HW2_Part1.pdf)
-
+Homework 2, part 1, posted Sept 26.
+- [Math462_HW2_Part1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9648102/Math462_HW2_Part1.pdf)
