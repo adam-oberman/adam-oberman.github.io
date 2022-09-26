@@ -55,7 +55,7 @@ Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 26)
 09/28 (Wednesday): We will cover programming languages for the class, using Python and Collab.
 - [Intro to Python](https://colab.research.google.com/drive/1i5JbthN7UX8N14IjYBMdBiPW5M44cQUt?usp=sharing)
 - [Intro to Numpy](https://colab.research.google.com/drive/17kradohn-30zmf_VvWHv2g0QguXeenIj?usp=sharing)
-- More to come
+- [PCA](https://colab.research.google.com/drive/1MjaWPqB9-sQSI9r_Egj9Cu1AhBX276eU?usp=sharing)
 
 Homework 2, part 1, posted Sept 26.
 - [Math462_HW2_Part1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9648102/Math462_HW2_Part1.pdf)
