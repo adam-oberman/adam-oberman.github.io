@@ -53,6 +53,7 @@ Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 26)
 - MML 10.1 Covariance Matrix 
 
 09/28 (Wednesday): We will cover programming languages for the class, using Python and Collab.
+- [Intro to Python](https://colab.research.google.com/drive/17kradohn-30zmf_VvWHv2g0QguXeenIj?usp=sharing)
 - [Intro to Python](https://github.com/adam-oberman/adam-oberman.github.io/blob/5fb32deb23172ba364c2b487f7885af3d293fb9a/Math_462_Intro_to_Python.ipynb)
 - [Intro to Numpy](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Math_462_Introduction_to_Numpy.ipynb)
 - More to come
