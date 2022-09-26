@@ -29,7 +29,7 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
  
 09/07 (Weds): k-means clustering, losses, hypothesis classes
 
-- [Math462_Lecture_Notes_Kmeans.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9648112/Math462_Lecture_Notes_Kmeans.pdf)  updated Sept 26
+- [Math462_Lecture_Notes_Kmeans.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9648112/Math462_Lecture_Notes_Kmeans.pdf)  (updated Sept 26)
 
 
 09/12 (Monday): Vector Calculus Review, Vector Calc for ML: sigmoids.
