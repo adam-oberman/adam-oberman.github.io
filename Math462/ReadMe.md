@@ -52,8 +52,10 @@ Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 26)
 - MML 3.1-3.6 Analytic Geometry (orthogonality)
 - MML 10.1 Covariance Matrix 
 
-09/28 (Wednesday)
-- We will cover programming languages for the class
+09/28 (Wednesday): We will cover programming languages for the class, using Python and Collab.
+- [Intro to Python](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Math_462_Intro_to_Python.ipynb)
+- [Intro to Numpy](https://github.com/adam-oberman/adam-oberman.github.io/blob/main/Math_462_Introduction_to_Numpy.ipynb)
+- More to come
 
 Homework 2, part 1, posted Sept 26.
 - [Math462_HW2_Part1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9648102/Math462_HW2_Part1.pdf)
