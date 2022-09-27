@@ -38,7 +38,8 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
 - [Math462_Lecture_Note_2_Calculus.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9560277/Math462_Lecture_Note_2_Calculus.pdf)
 
 Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 26)
-- [Math462_HW1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9648108/Math462_HW1.pdf)
+-[Math462_HW1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9656684/Math462_HW1.pdf)
+
 
 09/14 (Monday) and 09/21 (Weds)
 - no lecture, due to illness
