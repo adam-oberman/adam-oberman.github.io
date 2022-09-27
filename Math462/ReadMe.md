@@ -40,14 +40,8 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
 Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 27)
 - [Math462_HW1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9656684/Math462_HW1.pdf)
 
-
 09/14 (Monday) and 09/21 (Weds)
-- no lecture, due to illness
-
-
-- [Math462_Lecture_Note_SGD_DRAFT.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9598852/Math462_Lecture_Note_SGD_DRAFT.pdf)
-- MML Chapter 5
-- [SS Ch 23 PCA.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9598862/SS.Ch.23.pdf)
+- no lectures, due to illness
 
 09/26 (Monday)
 - MML 3.1-3.6 Analytic Geometry (orthogonality)
