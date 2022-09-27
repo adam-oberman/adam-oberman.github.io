@@ -37,8 +37,8 @@ A mathematically rigorous approach to Machine Learning (ML).  This course will c
 - Reference: chapter 5 [MML Diesenroth](https://mml-book.github.io/) [MML] 
 - [Math462_Lecture_Note_2_Calculus.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9560277/Math462_Lecture_Note_2_Calculus.pdf)
 
-Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 26)
--[Math462_HW1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9656684/Math462_HW1.pdf)
+Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 27)
+- [Math462_HW1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9656684/Math462_HW1.pdf)
 
 
 09/14 (Monday) and 09/21 (Weds)
