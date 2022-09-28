@@ -49,9 +49,10 @@ Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 27)
 - [Math462_Lect_InnerProd_PCA_1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9659691/Math462_Lect_InnerProd_PCA_1.pdf)
 
 09/28 (Wednesday): We will cover programming languages for the class, using Python and Collab.
-- [Intro to Python](https://colab.research.google.com/drive/1i5JbthN7UX8N14IjYBMdBiPW5M44cQUt?usp=sharing)
-- [Intro to Numpy](https://colab.research.google.com/drive/17kradohn-30zmf_VvWHv2g0QguXeenIj?usp=sharing)
-- [PCA](https://colab.research.google.com/drive/1MjaWPqB9-sQSI9r_Egj9Cu1AhBX276eU?usp=sharing)
+- [Intro to Python Collab](https://colab.research.google.com/drive/1i5JbthN7UX8N14IjYBMdBiPW5M44cQUt?usp=sharing)
+- [Intro to Numpy Collab](https://colab.research.google.com/drive/17kradohn-30zmf_VvWHv2g0QguXeenIj?usp=sharing)
+- [K-means Collab](https://colab.research.google.com/drive/1w_uBtxKdBcAIZN51qxtIh99mnUJ1SNiI)
+- [PCA Collab](https://colab.research.google.com/drive/1MjaWPqB9-sQSI9r_Egj9Cu1AhBX276eU?usp=sharing)
 
 Homework 2, posted Sept 27.
 - [Math462_HW2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9659688/Math462_HW2.pdf)
