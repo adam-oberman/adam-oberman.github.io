@@ -54,7 +54,6 @@ Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 27)
 - [K-means Colab](https://colab.research.google.com/drive/1w_uBtxKdBcAIZN51qxtIh99mnUJ1SNiI)
 - [PCA Colab](https://colab.research.google.com/drive/1MjaWPqB9-sQSI9r_Egj9Cu1AhBX276eU?usp=sharing)
 
-Homework 2, posted Sept 28.
-- [Math462_HW2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9667401/Math462_HW2.pdf)
-
+Homework 2, revised Sept 30 
+- [Math462_HW2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9688201/Math462_HW2.pdf)
 
