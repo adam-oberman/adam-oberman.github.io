@@ -48,7 +48,7 @@ Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 27)
 - MML 10.1 Covariance Matrix 
 - [Math462_Lect_InnerProd_PCA_1.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9659691/Math462_Lect_InnerProd_PCA_1.pdf)
 
-09/28 (Wednesday): We will cover programming languages for the class, using Python and Collab.
+09/28 (Wednesday): Programming languages for the class, using Python and Collab.  K-means code.
 - [Intro to Python Colab](https://colab.research.google.com/drive/1i5JbthN7UX8N14IjYBMdBiPW5M44cQUt?usp=sharing)
 - [Intro to Numpy Colab](https://colab.research.google.com/drive/17kradohn-30zmf_VvWHv2g0QguXeenIj?usp=sharing)
 - [K-means Colab](https://colab.research.google.com/drive/1w_uBtxKdBcAIZN51qxtIh99mnUJ1SNiI)
