@@ -57,3 +57,9 @@ Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 27)
 Homework 2, revised Oct 3
 - [Math462_HW2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9698348/Math462_HW2.pdf)
 
+10/03 (Monday) 
+- no lectures, due to provincial election
+
+10/05 (Wednesday)
+- Review 3.8 of MM
+- PCA, [Math462_Lect_InnerProd_PCA_2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9698885/Math462_Lect_InnerProd_PCA_2.pdf)
