@@ -53,8 +53,8 @@ Homework 1, posted Sept 20, due Sept 27 (in mycourses)  (updated Sept 27)
 - [Intro to Numpy Colab](https://colab.research.google.com/drive/17kradohn-30zmf_VvWHv2g0QguXeenIj?usp=sharing)
 - [K-means Colab](https://colab.research.google.com/drive/1w_uBtxKdBcAIZN51qxtIh99mnUJ1SNiI)
 
-Homework 2, revised Oct 3
-- [Math462_HW2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9698348/Math462_HW2.pdf)
+Homework 2, revised Oct 7
+- [Math462_HW2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9734186/Math462_HW2.pdf)
 
 10/03 (Monday) 
 - no lectures, due to provincial election
