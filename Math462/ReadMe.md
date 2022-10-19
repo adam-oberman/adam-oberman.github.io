@@ -69,5 +69,12 @@ Homework 2, revised Oct 7
 - bias variance trade-off, etc
 - toy example: Decision Trees [Decision Trees](https://github.com/adam-oberman/adam-oberman.github.io/files/9777140/RN_Decision_trees.pdf)
 
+10/17 (Monday)
+- Gain-loss equivalence (typed notes to be posted)
+
+10/19 (Wednesday)
+- Section 19.5 PAC Learning Theory.
+- Proof of Sample complexity bounds for finite hypotheses (19.1)
+
 Homework 3, draft posted Oct 14
 - [Math462_HW3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9787398/Math462_HW3.pdf)
