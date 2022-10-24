@@ -78,6 +78,7 @@ Homework 2, revised Oct 7
 
 Homework 3, final version posted Oct 17.
 - [PCA Colab](https://colab.research.google.com/drive/1MjaWPqB9-sQSI9r_Egj9Cu1AhBX276eU?usp=sharing)
-- [Math462_HW3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9822315/Math462_HW3.pdf)
+- [Math462_HW3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9853209/Math462_HW3.pdf)
+
 
 
