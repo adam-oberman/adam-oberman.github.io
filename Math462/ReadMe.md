@@ -76,7 +76,7 @@ Homework 2, revised Oct 7
 - Section 19.5 PAC Learning Theory.
 - Proof of Sample complexity bounds for finite hypotheses (19.1)
 
-Homework 3, final version posted Oct 17.
+Homework 3, final version posted.
 - [PCA Colab](https://colab.research.google.com/drive/1MjaWPqB9-sQSI9r_Egj9Cu1AhBX276eU?usp=sharing)
 - [Math462_HW3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9853209/Math462_HW3.pdf)
 
