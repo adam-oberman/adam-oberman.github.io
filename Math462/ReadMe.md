@@ -80,5 +80,10 @@ Homework 3, final version posted.
 - [PCA Colab](https://colab.research.google.com/drive/1MjaWPqB9-sQSI9r_Egj9Cu1AhBX276eU?usp=sharing)
 - [Math462_HW3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9853209/Math462_HW3.pdf)
 
+10/24 (Monday), 10/26 (no lecture), 10/31 (Monday)
+- Features
+- Binary Classification 
+- [Math462_Binary_Classification.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9901712/Math462_Binary_Classification.pdf)
+
 
 
