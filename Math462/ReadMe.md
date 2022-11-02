@@ -86,7 +86,8 @@ Homework 3, final version posted.
 - [Math462_Binary_Classification.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9920484/Math462_Binary_Classification.pdf)
 
 11/2 (Weds)
-- binary classification loss analysis [Math462_Binary_ClassificationII.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9920547/Math462_Binary_ClassificationII.pdf)
+- [Math462_Binary_ClassificationII.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9920782/Math462_Binary_ClassificationII.pdf)
+
 - gradient descent and SGD part 2. [Math462_Lecture_Note_SGD.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9920555/Math462_Lecture_Note_SGD.pdf)
 
 
