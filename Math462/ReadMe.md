@@ -83,7 +83,6 @@ Homework 3, final version posted.
 10/24 (Monday), 10/26 (no lecture), 10/31 (Monday)
 - Features
 - Binary Classification 
-- [Math462_Binary_Classification.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9901712/Math462_Binary_Classification.pdf)
-
+- [Math462_Binary_Classification.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9920484/Math462_Binary_Classification.pdf)
 
 
