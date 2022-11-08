@@ -61,7 +61,7 @@ Homework 2, revised Oct 7
 
 10/05 (Wednesday)
 - Review 3.8 of MM
-- PCA Summary, [Math462_Lect_InnerProd_PCA_2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9717551/Math462_Lect_InnerProd_PCA_2.pdf)
+- PCA Summary, [Math462_Lect_InnerProd_PCA_2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/9963446/Math462_Lect_InnerProd_PCA_2.pdf)
 - [PCA Colab](https://colab.research.google.com/drive/1MjaWPqB9-sQSI9r_Egj9Cu1AhBX276eU?usp=sharing)
 
 10/13 (Thursday) first lecture after reading break
