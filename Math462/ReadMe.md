@@ -88,6 +88,9 @@ Homework 3, final version posted.
 11/2 (Weds)
 - [Math462_Binary_ClassificationII.pdf](https://adam-oberman.github.io/pdfs/Math462/Math462_Binary_ClassificationII.pdf)
 
+11/14 (Monday)
 - gradient descent and SGD part 2. [Math462_Lecture_Note_SGD.pdf](https://adam-oberman.github.io/pdfs/Math462/Math462_Lecture_Note_SGD.pdf)
+11/16 (Weds) 
+- RKHS Ch 12 of M. J. Wainwright (2019) High-dimensional statistics: A non-asymptotic viewpoint. https://people.eecs.berkeley.edu/~wainwrig/BibPapers/Wai19.pdf
 
 
