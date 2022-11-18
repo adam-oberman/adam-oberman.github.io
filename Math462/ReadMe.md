@@ -88,7 +88,7 @@ Homework 3, final version posted.
 11/2 (Weds)
 - [Math462_Binary_ClassificationII.pdf](https://adam-oberman.github.io/pdfs/Math462/Math462_Binary_ClassificationII.pdf)
 
-11/7 (Monday): Features
+11/7 (Monday): Features (handwritten notes)
 
 11/9 (Weds): midterm
 
