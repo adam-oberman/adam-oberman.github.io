@@ -87,10 +87,14 @@ Homework 3, final version posted.
 
 11/2 (Weds)
 - [Math462_Binary_ClassificationII.pdf](https://adam-oberman.github.io/pdfs/Math462/Math462_Binary_ClassificationII.pdf)
+
 11/7 (Monday): Features
+
 11/9 (Weds): midterm
+
 11/14 (Monday)
 - gradient descent and SGD part 2. [Math462_Lecture_Note_SGD.pdf](https://adam-oberman.github.io/pdfs/Math462/Math462_Lecture_Note_SGD.pdf)
+
 11/16 (Weds) 
 - RKHS Ch 12 of M. J. Wainwright (2019) High-dimensional statistics: A non-asymptotic viewpoint. 
 - We covered 12.1 Hilbert Space Basics, and 12.2.1 PSD kernel functions
