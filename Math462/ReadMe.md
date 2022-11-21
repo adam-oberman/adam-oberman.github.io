@@ -96,7 +96,8 @@ Homework 3, final version posted.
 - gradient descent and SGD part 2. [Math462_Lecture_Note_SGD.pdf](https://adam-oberman.github.io/pdfs/Math462/Math462_Lecture_Note_SGD.pdf)
 
 11/16 (Weds) 
-- RKHS Ch 12 of M. J. Wainwright (2019) High-dimensional statistics: A non-asymptotic viewpoint. 
+- RKHS Ch 12 of M. J. Wainwright (2019) High-dimensional statistics: A non-asymptotic viewpoint. [RKHS Ch 12 of M. J. Wainwright (2019) High-dimensional statistics: A non-asymptotic viewpoint.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7592A2B68EBB6F57B0AD042F8E812BEB/9781108498029c12_383-415.pdf/reproducing_kernel_hilbert_spaces.pdf)
+
 - We covered 12.1 Hilbert Space Basics, and 12.2.1 PSD kernel functions
 
 
