@@ -101,4 +101,5 @@ Homework 3, final version posted.
 
 - We covered 12.1 Hilbert Space Basics, and 12.2.1 PSD kernel functions
 
-
+11/21 (Monday)
+- RKHS Wainwright, Section 12.2.1, 12.2.2, 12.2.3
