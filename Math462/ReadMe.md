@@ -70,7 +70,7 @@ Homework 2, revised Oct 7
 - toy example: Decision Trees [Decision Trees](https://adam-oberman.github.io/pdfs/Math462/RN_Decision_trees.pdf)
 
 10/17 (Monday)
-- Gain-loss equivalence (typed notes to be posted)
+- Gain-loss equivalence (see other notes and HW)
 
 10/19 (Wednesday)
 - Section 19.5 PAC Learning Theory.
@@ -93,7 +93,8 @@ Homework 3, final version posted.
 11/9 (Weds): midterm
 
 11/14 (Monday)
-- gradient descent and SGD part 2. [Math462_Lecture_Note_SGD.pdf](https://adam-oberman.github.io/pdfs/Math462/Math462_Lecture_Note_SGD.pdf)
+- gradient descent and SGD part 2. [Math462_Lecture_Note_SGD.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10058321/Math462_Lecture_Note_SGD.pdf)
+
 
 11/16 (Weds) 
 - RKHS Ch 12 of M. J. Wainwright (2019) High-dimensional statistics: A non-asymptotic viewpoint. [RKHS Ch 12 of M. J. Wainwright (2019) High-dimensional statistics: A non-asymptotic viewpoint.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7592A2B68EBB6F57B0AD042F8E812BEB/9781108498029c12_383-415.pdf/reproducing_kernel_hilbert_spaces.pdf)
