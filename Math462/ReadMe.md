@@ -105,7 +105,8 @@ Homework 3, final version posted.
 - RKHS Wainwright, Section 12.2.1, 12.2.2, 12.2.3
 
 HW 4 Posted
-[Classification Code](https://colab.research.google.com/drive/1i9ep4yBvjAZwFOcO337w7weKhTlhfBQ6?usp=sharing)
-[GD and SGD Code]
-[HW4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10079408/HW4.pdf)
+- [HW4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10079408/HW4.pdf)
+- [Classification Code](https://colab.research.google.com/drive/1i9ep4yBvjAZwFOcO337w7weKhTlhfBQ6?usp=sharing)
+- [GD and SGD Code](https://colab.research.google.com/drive/1-YoLDf3OyH3SxLJtC5W4qG3L1zYxkyMf?usp=sharing)
+
 
