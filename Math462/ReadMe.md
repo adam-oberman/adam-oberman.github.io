@@ -106,3 +106,6 @@ Homework 3, final version posted.
 
 HW 4 Posted
 [Classification Code](https://colab.research.google.com/drive/1i9ep4yBvjAZwFOcO337w7weKhTlhfBQ6?usp=sharing)
+[GD and SGD Code]
+[HW4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10079408/HW4.pdf)
+
