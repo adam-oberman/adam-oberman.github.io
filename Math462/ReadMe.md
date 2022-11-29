@@ -113,6 +113,6 @@ HW 4 Posted
 - [GD and SGD Code](https://colab.research.google.com/drive/1-YoLDf3OyH3SxLJtC5W4qG3L1zYxkyMf?usp=sharing)
 
 11/28 (Monday)
-- RKHS wainwright (continued)
+- RKHS: Cauchy-Schwatz inequality, proof that convergence in RKHS implies pointwise convergence.
 
 
