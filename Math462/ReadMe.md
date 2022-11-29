@@ -107,6 +107,10 @@ Homework 3, final version posted.
 11/23 (Wednesday)
 - RKHS.  Function norm in H 12.2.3.  Interpretation of K as similarity.  Kernel Ridge Regression (Section 12.5).
 
+11/28 (Monday)
+- RKHS wainwright (continued)
+
+
 HW 4 Posted
 - [HW4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10079575/HW4.pdf)
 - [Classification Code](https://colab.research.google.com/drive/1i9ep4yBvjAZwFOcO337w7weKhTlhfBQ6?usp=sharing)
