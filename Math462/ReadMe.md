@@ -115,4 +115,5 @@ HW 4 Posted
 11/28 (Monday)
 - RKHS: Cauchy-Schwatz inequality, proof that convergence in RKHS implies pointwise convergence.
 
+HW 5 [HW5.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10116658/HW5.pdf)
 
