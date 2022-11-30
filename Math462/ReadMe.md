@@ -108,7 +108,7 @@ Homework 3, final version posted.
 - RKHS.  Function norm in H 12.2.3.  Interpretation of K as similarity.  Kernel Ridge Regression (Section 12.5).
 
 HW 4 Posted
-- [HW4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10079575/HW4.pdf)
+- [HW4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10125526/HW4.pdf)
 - [Classification Code](https://colab.research.google.com/drive/1i9ep4yBvjAZwFOcO337w7weKhTlhfBQ6?usp=sharing)
 - [GD and SGD Code](https://colab.research.google.com/drive/1-YoLDf3OyH3SxLJtC5W4qG3L1zYxkyMf?usp=sharing)
 
