@@ -16,6 +16,11 @@ Lecture notes and assignments:  https://adam-oberman.github.io/
 
 Assigment submission: https://mycourses2.mcgill.ca/ 
 
+----
+
+[First Day Handout MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354884/2023.MATHCOMP.562.Theory.of.Machine.Learning.pdf)
+
+
 ##### Prerequisites 
 
 - [MATH 462](https://www.mcgill.ca/study/2022-2023/courses/math-462)   https://adam-oberman.github.io/  
