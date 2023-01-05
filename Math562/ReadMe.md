@@ -56,6 +56,7 @@ Use Shalev-Shwartz for introduction and definitions.  Use Mohri for the proofs, 
 ### Project
 
 Instructions [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354909/MathComp.562.Project.Description.pdf)
+Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354935/Suggested.Paper.Links.pdf)
 
 ### Lecture Plan
 
