@@ -1,7 +1,4 @@
 # MATH/COMP 562: Theory of Machine Learning, Winter 2023
-
-# MATH/COMP 562: Theory of Machine Learning
-
 ### Honours Mathematics for Machine Learning
 
 Professor: Adam Oberman https://www.adamoberman.net/
