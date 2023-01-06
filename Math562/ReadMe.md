@@ -71,4 +71,4 @@ Generalization bounds for learning algorithms
 
 ### Lectures
 
-01/05/2023 Zoom lecture, covered first day handout and projects.  Overview of Ch 2 of Bach: understanding "all you need is scale" vs. No Free Lunch Theorem.
+ - 01/05/2023 Zoom lecture, covered first day handout and projects.  Overview of Ch 2 of Bach: understanding "all you need is scale" vs. No Free Lunch Theorem.
