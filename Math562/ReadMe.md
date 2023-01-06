@@ -14,15 +14,12 @@ Lecture notes and assignments:  https://adam-oberman.github.io/
 Assigment submission: https://mycourses2.mcgill.ca/ 
 
 ----
+[First Day Handout 2023 MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10360709/First.Day.Handout.2023.MATHCOMP.562.pdf)
 
-[First Day Handout 2023 MATHCOMP 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354898/First.Day.Handout.2023.MATHCOMP.562.pdf)
 
 ##### Course Description
 
 A mathematically rigorous approach to Machine Learning (ML), with a focus on a rigourous presentation of ML models.  Proofs of in-distribution generalization bounds.  
-
-- This course assumes familiarity with the ML models discussed, and experience implementing the models.  It provides a deeper theoretical analysis,
-- There currently is no useful theory for deep learning methods, they are still primarily achieving success using engineering methods.  This course aims to cover theory topics from machine learning which experts believe will be relevent to the to-be-developed theory for deep learning.   
 
 ##### Audience 
 
@@ -30,14 +27,6 @@ A mathematically rigorous approach to Machine Learning (ML), with a focus on a r
 - Advanced undergraduate students who have prior background in implementing Machine Learning methods, and who plan to go on to graduate school. 
 
 Students will be expected to have seen and coded ML models before. Experience with mathematical proofs and with probability is expected. 
-
-### Grading 
-
-- Final exam: 50% 
-- HW assignments : 20% (5-7, approximately biweekly)
-- Project: 20%
-- Attendance 5%.  
-- Participation : 5%. 
 
 ### **Textbook**:
 
