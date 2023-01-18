@@ -54,7 +54,7 @@ Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/ad
  - 01/12/2023 Thursday.  Cheat Sheet for Measure Theory/Probability/ML Notation.  PAC Learning, reference: Mohri Ch2, SS 2.3.1 & Ch 3.  [Lecture 3 2022.01.12.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10438119/Lecture.3.2022.01.12.pdf)
 
 Future Lectures:  
- - Chapter 3 of Mohri textbook. 
+ - Rademacher Complexity. Reference: Chapter 3 of [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. 
  - High Dimensional Probability  Reference: Jeff Calder Notes: [Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451272/Calder.Probability.pdf)
  - Proof of concentration of measure results. Hoeffding Ineq.  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) notes: [Calder Concetration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451268/Calder.Concetration.of.measure.pdf)
 
