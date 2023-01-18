@@ -47,33 +47,15 @@ Use Shalev-Shwartz for introduction and definitions.  Use Mohri for the proofs, 
 Instructions [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354909/MathComp.562.Project.Description.pdf)
 Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354935/Suggested.Paper.Links.pdf)
 
-### Lecture Plan
-
-(Schedule may be adjusted according to the class needs.  Lecture plan will be updated on the course page)
-
-Introduction
-
-- Introduction to supervised learning, Bach Ch2,  (3 lectures)
-- Linear least-squares regression theory, Bach Ch 3, implementation,  (3 lectures) 
-
-Generalization bounds for learning algorithms 
-
-- Empirical Risk Minimization, 
-  - Bach Ch 4, (3 lectures) 
-  - Concentration of Measure, McDiarmid's inequality, Bach Ch1, (1 lecture)
-- Stability approach, Shalev-Shwartz Ch 13,  Mohri Ch 14 (1 lecture)
-  - See also Bach Ch 5 for definitions of convex, strongly convex, smooth functions
-- Optimization for Machine Learning, Bach Ch 5, 3 lectures
-- Local Averaging Methods, Bach Ch6, 2 lectures
-- Kernel Methods, Bach Ch 7, 4 lectures
-- Neural Networks, Bach Ch 9 and other references, 4 lectures
-- Additional topics and final exam review, remaining (2-3) lectures. 
-
 ### Lectures
 
  - 01/05/2023 Zoom lecture, covered first day handout and projects.  Overview of Ch 2 of Bach: understanding "all you need is scale" vs. No Free Lunch Theorem.
  - 01/10/2023 In class.  Ch 2 Bach [Lecture 1 2023.01.10 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10386101/Lecture.1.2023.01.10.562.pdf)
  - 01/12/2023 Thursday.  Cheat Sheet for Measure Theory/Probability/ML Notation.  PAC Learning, reference: Mohri Ch2, SS 2.3.1 & Ch 3.  [Lecture 3 2022.01.12.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10438119/Lecture.3.2022.01.12.pdf)
+Future Lectures:  
+ - Chapter 3 of Mohri textbook. 
+ - High Dimensional Probability  Reference: Jeff Calder Notes: [Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451272/Calder.Probability.pdf)
+ - Proof of concentration of measure results. Hoeffding Ineq.  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) notes: [Calder Concetration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451268/Calder.Concetration.of.measure.pdf)
 
 
  
