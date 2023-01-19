@@ -53,9 +53,9 @@ Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/ad
  - 01/10/2023 In class.  Ch 2 Bach [Lecture 1 2023.01.10 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10386101/Lecture.1.2023.01.10.562.pdf)
  - 01/12/2023 Thursday.  Cheat Sheet for Measure Theory/Probability/ML Notation.  PAC Learning, reference: Mohri Ch2, SS 2.3.1 & Ch 3.  [Lecture 3 2022.01.12.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10438119/Lecture.3.2022.01.12.pdf)
  - 01/17/2023 Tuesday. 
- - 01/19 Thursday.  
-   - Random Variables, Markov, Chebyshev inequality.  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) notes: [Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451272/Calder.Probability.pdf)
-   - Proof of concentration of measure results. Hoeffding Ineq.  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) [Calder Concentration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10461076/Calder.Concentration.of.measure.pdf)
+ - 01/19 Thursday.  Reference:  Excerpt from [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) notes on Calculus of Variations 
+   - Random Variables, Markov, Chebyshev inequality [Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451272/Calder.Probability.pdf)
+   - Proof of concentration of measure results. Hoeffding Ineq. [Calder Concentration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10461076/Calder.Concentration.of.measure.pdf)
 
 Future Lectures:  
  - Rademacher Complexity. Reference: Chapter 3 of [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. 
