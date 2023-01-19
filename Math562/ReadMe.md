@@ -55,8 +55,11 @@ Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/ad
 
 Future Lectures:  
  - Rademacher Complexity. Reference: Chapter 3 of [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. 
- - High Dimensional Probability  Reference: Jeff Calder Notes: [Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451272/Calder.Probability.pdf)
- - Proof of concentration of measure results. Hoeffding Ineq.  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) notes: [Calder Concetration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451268/Calder.Concetration.of.measure.pdf)
+ - High Dimensional Probability  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) notes: 
+[Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451272/Calder.Probability.pdf)
+ - Proof of concentration of measure results. Hoeffding Ineq.  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) notes: [Calder (Full) Concentration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10460090/Calder.Full.Concentration.of.measure.pdf)
+
+
 
 
  
