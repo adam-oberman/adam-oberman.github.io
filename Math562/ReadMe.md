@@ -52,13 +52,14 @@ Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/ad
  - 01/05/2023 Zoom lecture, covered first day handout and projects.  Overview of Ch 2 of Bach: understanding "all you need is scale" vs. No Free Lunch Theorem.
  - 01/10/2023 In class.  Ch 2 Bach [Lecture 1 2023.01.10 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10386101/Lecture.1.2023.01.10.562.pdf)
  - 01/12/2023 Thursday.  Cheat Sheet for Measure Theory/Probability/ML Notation.  PAC Learning, reference: Mohri Ch2, SS 2.3.1 & Ch 3.  [Lecture 3 2022.01.12.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10438119/Lecture.3.2022.01.12.pdf)
+ - 01/17/2023 Tuesday. 
+ - 01/19 Thursday.  
+   - Random Variables, Markov, Chebyshev inequality.  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) notes: [Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451272/Calder.Probability.pdf)
+   - Proof of concentration of measure results. Hoeffding Ineq.  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) [Calder Concentration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10461076/Calder.Concentration.of.measure.pdf)
 
 Future Lectures:  
  - Rademacher Complexity. Reference: Chapter 3 of [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. 
- - High Dimensional Probability  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) notes: [Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10461074/Calder.Probability.pdf)
-
-[Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451272/Calder.Probability.pdf)
- - Proof of concentration of measure results. Hoeffding Ineq.  Reference: [Jeff Calder](https://www-users.cse.umn.edu/~jwcalder/) notes: [Calder (Full) Concentration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10460090/Calder.Full.Concentration.of.measure.pdf)[Calder Concentration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10461076/Calder.Concentration.of.measure.pdf)
+ - High Dimensional Probability  
 
 
 
