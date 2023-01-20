@@ -47,7 +47,7 @@ Use Shalev-Shwartz for introduction and definitions.  Use Mohri for the proofs, 
 Instructions [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354909/MathComp.562.Project.Description.pdf)
 Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354935/Suggested.Paper.Links.pdf)
 
-### Lectures
+### Lectures and Homework
 
  - 01/05/2023 Zoom lecture, covered first day handout and projects.  Overview of Ch 2 of Bach: understanding "all you need is scale" vs. No Free Lunch Theorem.
  - 01/10/2023 In class.  Ch 2 Bach [Lecture 1 2023.01.10 562.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10386101/Lecture.1.2023.01.10.562.pdf)
@@ -57,10 +57,11 @@ Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/ad
    - Random Variables, Markov, Chebyshev inequality [Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451272/Calder.Probability.pdf)
    - Proof of concentration of measure results. Hoeffding Ineq. [Calder Concentration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10461076/Calder.Concentration.of.measure.pdf)
 
+ - [Homework 1](https://github.com/adam-oberman/adam-oberman.github.io/files/10469725/Math562_HW_1.pdf)
+
 Future Lectures:  
  - Rademacher Complexity. Reference: Chapter 3 of [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. 
  - High Dimensional Probability  
-
 
 
 
