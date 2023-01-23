@@ -7,7 +7,7 @@ Teaching Assistant: Viet Nguyen baviet.nguyen@mail.mcgill.ca
 
 Class time: Tuesday and Thursday 2:35pm - 3:55 pm.  [Lea 14](https://maps.mcgill.ca/?cmp=1&txt=EN&id=Leacock)
 
-Office Hours: TBD, and by appointment.
+Office Hours: Tuesday and Thursday 1:05pm-1:30pm and 4:05pm-4:30pm. Wednesday 3:30-4:00pm (by appointment).  Occasionally family life interferes with my schedule, and I may miss the office hour.  An email in advance is appreciated, but is not necessary. 
 
 Lecture notes and assignments:  https://adam-oberman.github.io/  
 
