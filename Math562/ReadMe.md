@@ -57,7 +57,8 @@ Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/ad
    - Random Variables, Markov, Chebyshev inequality [Calder Probability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10451272/Calder.Probability.pdf)
    - Proof of concentration of measure results. Hoeffding Ineq. [Calder Concentration of measure.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10461076/Calder.Concentration.of.measure.pdf)
 
- - [Homework 1.v2](https://github.com/adam-oberman/adam-oberman.github.io/files/10470016/Math562_HW_1.pdf)
+ - [Math562_HW_1.pdf (Jan 24 revision)](https://github.com/adam-oberman/adam-oberman.github.io/files/10492948/Math562_HW_1.pdf)
+
 
 Future Lectures:  
  - Rademacher Complexity. Reference: Chapter 3 of [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. 
