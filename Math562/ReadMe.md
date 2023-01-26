@@ -64,8 +64,10 @@ Future Lectures:
  - High Dimensional Probability  
 
 
-### Example project papers
+### Example project papers (Early references)
 
-[John N Tsitsiklis and Benjamin Van Roy. Optimal stopping of markov processes: Hilbert space theory, approximation algorithms, and an application to pricing high-dimensional financial derivatives. .pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10513421/John.N.Tsitsiklis.and.Benjamin.Van.Roy.Optimal.stopping.of.markov.processes.Hilbert.space.theory.approximation.algorithms.and.an.application.to.pricing.high-dimensional.financial.derivatives.pdf)
+- [John N Tsitsiklis and Benjamin Van Roy. Optimal stopping of markov processes: Hilbert space theory, approximation algorithms, and an application to pricing high-dimensional financial derivatives. .pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10513421/John.N.Tsitsiklis.and.Benjamin.Van.Roy.Optimal.stopping.of.markov.processes.Hilbert.space.theory.approximation.algorithms.and.an.application.to.pricing.high-dimensional.financial.derivatives.pdf)
 
+- [Learning theory: stability is sufficient for generalization and necessary and sufficient for consistency of empirical risk minimization](https://link.springer.com/article/10.1007/s10444-004-7634-z)
+- 
  
