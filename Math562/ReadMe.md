@@ -72,6 +72,9 @@ Future Lectures:
 -  [Learning with differential privacy: Stability, learnability and the sufficiency and necessity of ERM principle](https://www.jmlr.org/papers/volume17/15-313/15-313.pdf)
 - [Robustness and generalization](https://link.springer.com/article/10.1007/s10994-011-5268-1)
 - [Representation learning: A review and new perspectives](https://ieeexplore.ieee.org/abstract/document/6472238/)
+- [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html)  (What do they say about features?)
+- [A survey on deep learning in medical image analysis](https://www.sciencedirect.com/science/article/pii/S1361841517301135)
+- [Learning Transferable Features with Deep Adaptation Networks](https://proceedings.mlr.press/v37/long15)
  
 ### Compare to highly cited recent papers 
 - [Steps Toward Deep Kernel Methods from Infinite Neural Networks](https://arxiv.org/abs/1508.05133)
