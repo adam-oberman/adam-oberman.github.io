@@ -69,5 +69,8 @@ Future Lectures:
 - [John N Tsitsiklis and Benjamin Van Roy. Optimal stopping of markov processes: Hilbert space theory, approximation algorithms, and an application to pricing high-dimensional financial derivatives. .pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10513421/John.N.Tsitsiklis.and.Benjamin.Van.Roy.Optimal.stopping.of.markov.processes.Hilbert.space.theory.approximation.algorithms.and.an.application.to.pricing.high-dimensional.financial.derivatives.pdf)
 
 - [Learning theory: stability is sufficient for generalization and necessary and sufficient for consistency of empirical risk minimization](https://link.springer.com/article/10.1007/s10444-004-7634-z)
-- 
+-  [Learning with differential privacy: Stability, learnability and the sufficiency and necessity of ERM principle](https://www.jmlr.org/papers/volume17/15-313/15-313.pdf)
+- [Robustness and generalization](https://link.springer.com/article/10.1007/s10994-011-5268-1)
  
+### Compare to recent papers 
+- [Steps Toward Deep Kernel Methods from Infinite Neural Networks](https://arxiv.org/abs/1508.05133)
