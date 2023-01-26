@@ -77,3 +77,4 @@ Future Lectures:
 - [Deep neural networks as gaussian processes](https://arxiv.org/abs/1711.00165)
 - [Neural tangent kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/file/5a4be1fa34e62bb8a6ec6b91d2462f5a-Paper.pdf)
 -[Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5)
+- [Train faster, generalize better: Stability of stochastic gradient descent](http://proceedings.mlr.press/v48/hardt16.html)
