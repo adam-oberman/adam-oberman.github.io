@@ -5,7 +5,7 @@ Professor: Adam Oberman
 
 Class: Monday, Wednesday, 10:05 am-11:25 am BURN 1214
 
-Office Hours: BURN 1106, MW 11:30-12:00, and by appointment. Additional office hours TBA.
+Office Hours Fall 2022: BURN 1106, MW 11:30-12:00, and by appointment. Additional office hours TBA.
 
 #### Audience: 
 
