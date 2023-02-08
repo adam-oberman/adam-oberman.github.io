@@ -61,6 +61,11 @@ Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/ad
 
 
   - 01/24 and 26/2023  Rademacher Complexity. Reference: Chapter 3 of [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. 
+  - Reference [Ch 14 Michael Mitzenmacher, Eli Upfa CH 14 Probability and Computing_ Randomization and Probabilistic Techniques in Algorithms and Data Analysis-C.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10689564/Ch.14.Michael.Mitzenmacher.Eli.Upfa.CH.14.Probability.and.Computing_.Randomization.and.Probabilistic.Techniques.in.Algorithms.and.Data.Analysis-C.pdf)
+
+ - 02/7/2023 and 02/09/2023: 
+ - Convex Learning Problems, Ch 12, S-S
+ - Stability theory and generalization Ch 12, S-S
 
 Future Lectures:  
  - High Dimensional Probability  
