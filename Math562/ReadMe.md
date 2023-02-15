@@ -72,21 +72,4 @@ Future Lectures:
 
 
 ### Project paper suggestions
-Be sure to discuss both an early reference, and track back references to early work, which may be more clear.
-#### Suggested project papers (Early references)
-- [John N Tsitsiklis and Benjamin Van Roy. Optimal stopping of markov processes: Hilbert space theory, approximation algorithms, and an application to pricing high-dimensional financial derivatives. .pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10513421/John.N.Tsitsiklis.and.Benjamin.Van.Roy.Optimal.stopping.of.markov.processes.Hilbert.space.theory.approximation.algorithms.and.an.application.to.pricing.high-dimensional.financial.derivatives.pdf)
-
-- [Learning theory: stability is sufficient for generalization and necessary and sufficient for consistency of empirical risk minimization](https://link.springer.com/article/10.1007/s10444-004-7634-z)
--  [Learning with differential privacy: Stability, learnability and the sufficiency and necessity of ERM principle](https://www.jmlr.org/papers/volume17/15-313/15-313.pdf)
-- [Robustness and generalization](https://link.springer.com/article/10.1007/s10994-011-5268-1)
-- [Representation learning: A review and new perspectives](https://ieeexplore.ieee.org/abstract/document/6472238/)
-- [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html)  (What do they say about features?)
-- [A survey on deep learning in medical image analysis](https://www.sciencedirect.com/science/article/pii/S1361841517301135)
-- [Learning Transferable Features with Deep Adaptation Networks](https://proceedings.mlr.press/v37/long15)
- 
-#### Suggested project papers (highly cited recent papers)
-- [Steps Toward Deep Kernel Methods from Infinite Neural Networks](https://arxiv.org/abs/1508.05133)
-- [Deep neural networks as gaussian processes](https://arxiv.org/abs/1711.00165)
-- [Neural tangent kernel: Convergence and generalization in neural networks](https://proceedings.neurips.cc/paper/2018/file/5a4be1fa34e62bb8a6ec6b91d2462f5a-Paper.pdf)
--[Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5)
-- [Train faster, generalize better: Stability of stochastic gradient descent](http://proceedings.mlr.press/v48/hardt16.html)
+Be sure to discuss both an early reference, and track back references to early work, which may be more clear.  Refer to [Project paper suggestions](https://docs.google.com/document/d/1XPO8v3ga8k2vnZqzIKlj-FrhLI0v94aCgy0d-xTO62o/edit?usp=sharing)
