@@ -60,13 +60,14 @@ Be sure to discuss both an early reference, and track back references to early w
    - [Math562_HW_1.pdf (Jan 26, with code link)](https://github.com/adam-oberman/adam-oberman.github.io/files/10512477/Math562_HW_1.pdf)
    - [Math562_HW_1.pdf Jan 31](https://github.com/adam-oberman/adam-oberman.github.io/files/10551015/Math562_HW_1.pdf)
 
-
   - 01/24 and 26/2023  Rademacher Complexity. Reference: Chapter 3 of [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) by Mohri, Rostamizadeh, Talwalkar. 
   - Reference [Ch 14 Michael Mitzenmacher, Eli Upfa CH 14 Probability and Computing_ Randomization and Probabilistic Techniques in Algorithms and Data Analysis-C.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10689564/Ch.14.Michael.Mitzenmacher.Eli.Upfa.CH.14.Probability.and.Computing_.Randomization.and.Probabilistic.Techniques.in.Algorithms.and.Data.Analysis-C.pdf)
 
  - 02/7/2023 and 02/09/2023: 
  - Convex Learning Problems, Ch 12, S-S
  - Stability theory and generalization Ch 12, S-S
+ 
+ - [Math562_HW_2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10748075/Math562_HW_2.pdf)
 
 Future Lectures:  
  - High Dimensional Probability  
