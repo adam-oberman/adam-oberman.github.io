@@ -43,9 +43,10 @@ Use Shalev-Shwartz for introduction and definitions.  Use Mohri for the proofs, 
 - [High dimensional statistics, a non-asymptotic viewpoint](https://people.eecs.berkeley.edu/~wainwrig/) by Martin J Wainwright. Advanced book on concentation of measure topics in machine learning.  The first chapters are a good source of advanced material on concentration of measure.  However, this material is covered in Bach Ch 1.  
 
 ### Project
-
-Instructions [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354909/MathComp.562.Project.Description.pdf)
-Suggested topics (old version) [Suggested Paper Links.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354935/Suggested.Paper.Links.pdf)
+Be sure to discuss both an early reference, and track back references to early work, which may be more clear. 
+- Instructions [MathComp 562 Project Description.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354909/MathComp.562.Project.Description.pdf)
+- Suggested topics (2022) [Suggested Paper Links.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10354935/Suggested.Paper.Links.pdf)
+- Suggested topics (2023)  [Project paper suggestions](https://docs.google.com/document/d/1XPO8v3ga8k2vnZqzIKlj-FrhLI0v94aCgy0d-xTO62o/edit?usp=sharing)
 
 ### Lectures and Homework
 
@@ -71,5 +72,3 @@ Future Lectures:
  - High Dimensional Probability  
 
 
-### Project paper suggestions
-Be sure to discuss both an early reference, and track back references to early work, which may be more clear.  Refer to [Project paper suggestions](https://docs.google.com/document/d/1XPO8v3ga8k2vnZqzIKlj-FrhLI0v94aCgy0d-xTO62o/edit?usp=sharing)
