@@ -66,10 +66,11 @@ Be sure to discuss both an early reference, and track back references to early w
  - 02/7/2023 and 02/09/2023: 
  - Convex Learning Problems, Ch 12, S-S
  - Stability theory and generalization Ch 12, S-S
- 
+ - 02/14 and 16: Stability, SS Thm 13.2, Mohri Thm 14.2
+
+
  - [Math562_HW_2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10748075/Math562_HW_2.pdf)
 
-Future Lectures:  
- - High Dimensional Probability  
+
 
 
