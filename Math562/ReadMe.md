@@ -67,7 +67,9 @@ Be sure to discuss both an early reference, and track back references to early w
  - Convex Learning Problems, Ch 12, S-S
  - Stability theory and generalization Ch 12, S-S
  - 02/14 and 16: Stability, SS Thm 13.2, Mohri Thm 14.2
- - 02/21 and 23: Convex upper bounds.  Classification: binary and multiclass losses.  Margin Loss.  Log Loss. 
+ - 02/21 and 23: 
+   - Convex upper bounds.  Classification: binary and multiclass losses.  Margin Loss.  Log Loss. 
+   - Random Variables.  Feature Maps. 
  - [Math562_HW_2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10748075/Math562_HW_2.pdf)
  - 2023/03/07 Lecture
 
