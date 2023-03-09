@@ -71,8 +71,12 @@ Be sure to discuss both an early reference, and track back references to early w
    - Convex upper bounds.  Classification: binary and multiclass losses.  Margin Loss.  Log Loss. 
    - Random Variables.  Feature Maps. 
  - [Math562_HW_2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10748075/Math562_HW_2.pdf)
- - 2023/03/07 Lecture
 
+### Generative Model Lectures.
+Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
+- 2023/03/07 and 09 Lecture Ch 14 and 15 [Unsupervised learning Generative Models.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10934574/Unsupervised.learning.Generative.Models.pdf)
+- [Unsupervised learning Generative Models.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10934963/Unsupervised.learning.Generative.Models.pdf)
+- [Ch 15 GANS.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10934965/Ch.15.GANS.pdf)
 
 
 
