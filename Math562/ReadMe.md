@@ -81,4 +81,5 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 - [Ch 18 Diffusion.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/10993678/Ch.18.Diffusion.pdf)
 
 ### Homework 3
-- [Math562_HW_3.pdf (Updated 11am Monday 20th)](https://github.com/adam-oberman/adam-oberman.github.io/files/11019727/Math562_HW_3.pdf)
+- [Mathd562_HW_3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11029299/Math562_HW_3.pdf)
+
