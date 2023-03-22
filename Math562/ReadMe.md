@@ -83,4 +83,13 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 ### Homework 3
 - [Math562_HW_3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11034829/Math562_HW_3.pdf)
 
+### Reinforcement Learning Lectures
+- References Learning Backgammon: 
+  - [Temporal Difference Learning and TD-Gammon  Tesauro](https://bkgm.com/articles/tesauro/tdl.html)
+  - Reference https://en.wikipedia.org/wiki/TD-Gammon 
+  - https://usbgf.org/backgammon-basics-how-to-play/
+- Bellman Equation  
+  - https://en.wikipedia.org/wiki/Bellman_equation
+- RL algorithms neural networks  
+  - https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
 
