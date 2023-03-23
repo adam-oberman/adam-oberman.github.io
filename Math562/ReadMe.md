@@ -93,6 +93,7 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 - RL algorithms neural networks  
   - https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
 
+### Lecture March 23 (Thursday) Markov Decision Process
 [Making Complex Decisions.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11054397/Making.Complex.Decisions.pdf)
 
 ## Homework 4 (on generative models)
