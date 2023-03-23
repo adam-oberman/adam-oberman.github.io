@@ -93,6 +93,8 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 - RL algorithms neural networks  
   - https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
 
+[Making Complex Decisions.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11054397/Making.Complex.Decisions.pdf)
+
 ## Homework 4 (on generative models)
 - will be posted next week with minimum 1 week to turn in.  Questions mainly taken from the textbook notes https://udlbook.github.io/udlbook/, Chapters 14-18, as well as a coding question
 
