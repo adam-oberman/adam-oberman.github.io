@@ -93,3 +93,17 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 - RL algorithms neural networks  
   - https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
 
+## Homework 4 (on generative models)
+- will be posted next week with minimum 1 week to turn in.  Questions mainly taken from the textbook notes https://udlbook.github.io/udlbook/, Chapters 14-18, as well as a coding question
+
+## Homework 5 (on RL and final lectures)
+- will be a shorter HW, not to be turned in, but as practice for the final
+
+
+## Final Exam
+- will be based on the HW problems from mainly HW 1-4 with a bit from HW 5. (So related proofs, but nothing which was not covered in some way on the HW). 
+- no need to study material from Generative Models/RL outside of the material on the HW
+
+
+
+
