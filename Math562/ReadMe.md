@@ -95,6 +95,9 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 
 ### Lecture March 23 (Thursday) Markov Decision Process
 [Making Complex Decisions.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11054397/Making.Complex.Decisions.pdf)
+### Lecture March 28 (Tuesday) Markov Decision Process II
+[Making Complex Decisions 2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11092887/Making.Complex.Decisions.2.pdf)
+
 
 ## Homework 4 (on generative models)
 - will be posted next week with minimum 1 week to turn in.  Questions mainly taken from the textbook notes https://udlbook.github.io/udlbook/, Chapters 14-18, as well as a coding question
