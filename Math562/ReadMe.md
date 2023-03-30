@@ -100,7 +100,8 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 
 
 ## Homework 4 (on generative models)
-- will be posted next week with minimum 1 week to turn in.  Questions mainly taken from the textbook notes https://udlbook.github.io/udlbook/, Chapters 14-18, as well as a coding question
+- [Math562_HW_4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11113900/Math562_HW_4.pdf)
+
 
 ## Homework 5 (on RL and final lectures)
 - will be a shorter HW, not to be turned in, but as practice for the final
