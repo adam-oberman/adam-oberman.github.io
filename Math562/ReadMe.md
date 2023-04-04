@@ -95,7 +95,8 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 ### Lecture March 23 (Thursday) Markov Decision Process
 [Making Complex Decisions.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11054397/Making.Complex.Decisions.pdf)
 ### Lecture March 28 (Tuesday) and March 30 (Thursday) Markov Decision Process II
-[Making Complex Decisions 2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11092887/Making.Complex.Decisions.2.pdf)
+- [Making Complex Decisions 2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11092887/Making.Complex.Decisions.2.pdf)
+- Example calculation of the policy on a linear graph (determinstic and stochastic versions)
 ### Lecture April 4 (Tuesday) and April 6 (Thursday)  Contractions for Bellman Equation and error estimates
 [MC_562_MDP.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11151656/MC_562_MDP.pdf)
 
