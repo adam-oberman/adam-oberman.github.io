@@ -83,7 +83,7 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 ### Homework 3
 - [Math562_HW_3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11034829/Math562_HW_3.pdf)
 
-### Reinforcement Learning Lectures
+### Reinforcement Learning Lecture March 21 (handwritten notes and references below)
 - References Learning Backgammon: 
   - [Temporal Difference Learning and TD-Gammon  Tesauro](https://bkgm.com/articles/tesauro/tdl.html)
   - Reference https://en.wikipedia.org/wiki/TD-Gammon 
@@ -92,12 +92,12 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
   - https://en.wikipedia.org/wiki/Bellman_equation
 - RL algorithms neural networks  
   - https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
-
 ### Lecture March 23 (Thursday) Markov Decision Process
 [Making Complex Decisions.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11054397/Making.Complex.Decisions.pdf)
-### Lecture March 28 (Tuesday) Markov Decision Process II
+### Lecture March 28 (Tuesday) and March 30 (Thursday) Markov Decision Process II
 [Making Complex Decisions 2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11092887/Making.Complex.Decisions.2.pdf)
-
+### Lecture April 4 (Tuesday) and April 6 (Thursday)  Contractions for Bellman Equation and error estimates
+[MC_562_MDP.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11151656/MC_562_MDP.pdf)
 
 ## Homework 4 (on generative models) (code link added)
 - [Math562_HW_4_v3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11151612/Math562_HW_4_v3.pdf)
