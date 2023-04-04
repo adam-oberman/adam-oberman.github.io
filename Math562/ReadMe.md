@@ -98,7 +98,8 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 - [Making Complex Decisions 2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11092887/Making.Complex.Decisions.2.pdf)
 - Example calculation of the policy on a linear graph (determinstic and stochastic versions)
 ### Lecture April 4 (Tuesday) and April 6 (Thursday)  Contractions for Bellman Equation and error estimates
-[MC_562_MDP.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11151656/MC_562_MDP.pdf)
+[MC_562_MDP.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11151795/MC_562_MDP.pdf)
+
 
 ## Homework 4 (on generative models) (code link added)
 - [Math562_HW_4_v3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11151612/Math562_HW_4_v3.pdf)
