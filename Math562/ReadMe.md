@@ -107,9 +107,7 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 - (not to be turned in, but practice for final) [Math562_HW_5.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11202850/Math562_HW_5.pdf)
 
 ## Final Exam
-- will be based on the HW problems from mainly HW 1-4 with a bit from HW 5. (So related proofs, but nothing which was not covered in some way on the HW). 
-- no need to study material from Generative Models/RL outside of the material on the HW
-
+- [Math562_Final_Study_Guide.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11202918/Math562_Final_Study_Guide.pdf)
 
 
 
