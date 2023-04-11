@@ -101,7 +101,8 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 [MC_562_MDP.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11174223/MC_562_MDP.pdf)
 
 ## Homework 4 (on generative models) (code link added)
-- [Math562_HW_4_v4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11185967/Math562_HW_4_v4.pdf)
+- (final version) [Math562_HW_4_v4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11185967/Math562_HW_4_v4.pdf)
+- (this version has extra hints for Problem 1).[Math562_HW_4_v4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11203293/Math562_HW_4_v4.pdf)
 
 ## Homework 5 (on RL and final lectures)
 - (not to be turned in, but practice for final) [Math562_HW_5.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11202850/Math562_HW_5.pdf)
