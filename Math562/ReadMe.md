@@ -104,8 +104,7 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 - [Math562_HW_4_v4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11185967/Math562_HW_4_v4.pdf)
 
 ## Homework 5 (on RL and final lectures)
-- will be a shorter HW, not to be turned in, but as practice for the final
-
+- (not to be turned in, but practice for final) [Math562_HW_5.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11202850/Math562_HW_5.pdf)
 
 ## Final Exam
 - will be based on the HW problems from mainly HW 1-4 with a bit from HW 5. (So related proofs, but nothing which was not covered in some way on the HW). 
