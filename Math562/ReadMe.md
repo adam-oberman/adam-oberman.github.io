@@ -109,6 +109,8 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 
 ## Final Exam
 - [Math562_Final_Study_Guide.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11202918/Math562_Final_Study_Guide.pdf)
+- Study notes on Rademacher Complexity [MC_562_Rademacher.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11214221/MC_562_Rademacher.pdf)
+
 
 
 
