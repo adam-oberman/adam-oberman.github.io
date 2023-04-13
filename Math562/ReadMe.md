@@ -105,10 +105,12 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 - (this version has extra hints for Problem 1).[Math562_HW_4_v4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11203293/Math562_HW_4_v4.pdf)
 
 ## Homework 5 (on RL and final lectures)
-- (not to be turned in, but practice for final) [Math562_HW_5.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11202850/Math562_HW_5.pdf)
+- (not to be turned in, but practice for final) [Math562_HW_5.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11225200/Math562_HW_5.pdf)
+
 
 ## Final Exam
-- [Math562_Final_Study_Guide.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11202918/Math562_Final_Study_Guide.pdf)
+- [Math562_Final_Study_Guide.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11225202/Math562_Final_Study_Guide.pdf)
+
 - Study notes on Rademacher Complexity [MC_562_Rademacher.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11214221/MC_562_Rademacher.pdf)
 - Study notes on Stability Generalization bounds [MC_562_Stability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11214972/MC_562_Stability.pdf)
 
