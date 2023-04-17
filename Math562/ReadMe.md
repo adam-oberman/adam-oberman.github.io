@@ -114,6 +114,8 @@ Reference  https://udlbook.github.io/udlbook/, Chapters 14-18
 - Study notes on Rademacher Complexity [MC_562_Rademacher.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11214221/MC_562_Rademacher.pdf)
 - Study notes on Stability Generalization bounds [MC_562_Stability.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/11214972/MC_562_Stability.pdf)
 
-
+## Project reviewer forms
+- [Review Guidelines](https://docs.google.com/document/d/11huBfNJS4uSOxq527vwKybfr69Ywz6m3Zyk0-EaOH04/edit?usp=sharing)
+- [Review Form](https://docs.google.com/document/d/1ICgxi_B5uFr3uCQWEMnl_jVoTXzDM04yS7GT-7TVKOQ/edit?usp=sharing)
 
 
