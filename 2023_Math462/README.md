@@ -13,8 +13,7 @@ Math and Stats Majors/Honours students, Computer Science students.
 
 - Course material:  https://adam-oberman.github.io/  
 - Assigment submission: https://mycourses2.mcgill.ca/ 
-- [Math 462 Fall 2023 First Day Handout.pdf]
-
+- [Math 462 Fall 2023 First Day Handout.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12423314/Math.462.Fall.2023.First.Day.Handout.pdf)
 
 #### Lectures
 
