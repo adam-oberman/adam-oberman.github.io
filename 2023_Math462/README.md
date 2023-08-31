@@ -17,5 +17,5 @@ Math and Stats Majors/Honours students, Computer Science students.
 <img width="1036" alt="Screen Shot 2023-05-22 at 2 39 17 PM" src="https://github.com/adam-oberman/adam-oberman.github.io/assets/26426190/e1ea042d-237f-4474-beb7-1409a9d71c3b">
 
 #### Lectures
-
-
+- Lecture 1, 08.31 Thursday.
+    - Decision Trees Example from Russell Norvig AI book [RN_Decision_trees.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12486803/RN_Decision_trees.pdf)
