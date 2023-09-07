@@ -25,7 +25,8 @@ Math and Stats Majors/Honours students, Computer Science students.
     - Review Notes
     - [Intro to Python](https://colab.research.google.com/drive/1i5JbthN7UX8N14IjYBMdBiPW5M44cQUt?usp=sharing)
     - [Intro to Numpy](https://colab.research.google.com/drive/17kradohn-30zmf_VvWHv2g0QguXeenIj?usp=sharing)
-    - [Code for decision trees](https://colab.research.google.com/drive/1lIeRfp8c_iB7V_ONwSJKLLdkUKtGrLLC?usp=sharing)
+    - [Code for entropy, gini index](https://colab.research.google.com/drive/1lIeRfp8c_iB7V_ONwSJKLLdkUKtGrLLC?usp=sharing)
+    - [Sample decision tree code](https://github.com/abbas-taher/decision-tree-algorithm-example)
     - Bayesian Models and Spam detection
     
     
