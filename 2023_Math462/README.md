@@ -18,6 +18,15 @@ Math and Stats Majors/Honours students, Computer Science students.
 #### Lectures
 - Lecture 1, 08.31 Thursday.
     - Decision Trees Example from Russell Norvig AI book [RN_Decision_trees.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12486803/RN_Decision_trees.pdf)
-- Lecture 1, 09.05 Tuesday.
+- Lecture 2, 09.05 Tuesday.
     - Decision Trees Theory.  Classification Losses/Gains.
+- Overleaf for Lecture 1 and 2 are available.  Link to notes posted on mycourses
+- Lecture 3, 09.07 Thursday.
+    - Review Notes
+    - [Intro to Python](https://colab.research.google.com/drive/1i5JbthN7UX8N14IjYBMdBiPW5M44cQUt?usp=sharing)
+    - [Intro to Numpy](https://colab.research.google.com/drive/17kradohn-30zmf_VvWHv2g0QguXeenIj?usp=sharing)
+    - [Code for decision trees](https://colab.research.google.com/drive/1lIeRfp8c_iB7V_ONwSJKLLdkUKtGrLLC?usp=sharing)
+    - Bayesian Models and Spam detection
+    
+    
     
