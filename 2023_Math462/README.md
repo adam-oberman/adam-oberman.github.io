@@ -29,7 +29,7 @@ Math and Stats Majors/Honours students, Computer Science students.
     - [Sample decision tree code](https://github.com/abbas-taher/decision-tree-algorithm-example)
     - Bayesian Models and Spam detection
 - Lecture 4, 09.12 Tuesday
-    - Deriving Losses
+    - [Notes Lecture 3 and 4](https://www.overleaf.com/read/pwtnggswvyfb) Deriving Losses
     - Coding     
     
     
