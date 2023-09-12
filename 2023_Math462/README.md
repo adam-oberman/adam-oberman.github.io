@@ -28,6 +28,8 @@ Math and Stats Majors/Honours students, Computer Science students.
     - [Code for entropy, gini index](https://colab.research.google.com/drive/1lIeRfp8c_iB7V_ONwSJKLLdkUKtGrLLC?usp=sharing)
     - [Sample decision tree code](https://github.com/abbas-taher/decision-tree-algorithm-example)
     - Bayesian Models and Spam detection
-    
+- Lecture 4, 09.12 Tuesday
+    - Deriving Losses
+    - Coding     
     
     
