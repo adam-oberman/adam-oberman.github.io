@@ -30,6 +30,9 @@ Math and Stats Majors/Honours students, Computer Science students.
     - Bayesian Models and Spam detection
 - Lecture 4, 09.12 Tuesday
     - [Notes Lecture 3 and 4](https://www.overleaf.com/read/pwtnggswvyfb) Deriving Losses
-    - Coding     
+    - Coding
+- Lecture 5, 09.14 Thursday
+    - [Outline and links to code and references](https://github.com/adam-oberman/adam-oberman.github.io/files/12609717/BayesCodeExplain.pdf)
+
     
     
