@@ -34,7 +34,12 @@ Math and Stats Majors/Honours students, Computer Science students.
     - Coding
 - Lecture 5, 09.14 Thursday
     - [Outline and links to code and references](https://github.com/adam-oberman/adam-oberman.github.io/files/12609717/BayesCodeExplain.pdf)
-    - (temporary files: ) [Machine_Learning_in_Action Ch Trees.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12610631/Machine_Learning_in_Action.Ch.Trees.pdf) [Machine_Learning_in_Action_CH_BAYES.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12610632/Machine_Learning_in_Action_CH_BAYES.pdf)
+    - (temporary files: ) [Machine_Learning_in_Action Ch Trees.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12610631/Machine_Learning_in_Action.Ch.Trees.pdf) and  [Machine_Learning_in_Action_CH_BAYES.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12610632/Machine_Learning_in_Action_CH_BAYES.pdf)
+
+- Lecture 6, 09.19 Tuesday: Neural Networks
+   - Notes taken from Sections 4.4, 4.5, 4.6 of (temporary link) [Mitchell Ch 4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12620895/Mitchell.Ch.4.pdf)
+   - Course notes on overleaf: link in mycourses
+  
 
     
     
