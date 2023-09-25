@@ -46,7 +46,7 @@ Math and Stats Majors/Honours students, Computer Science students.
 
 - HW 2
     - [Code for Bayes Classifier ](https://colab.research.google.com/drive/1P35Aut8NcjQ4BOYsq7tbmIc9h26jukby?usp=sharing)
-    - [Math462_HW_2.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12715999/Math462_HW_2.pdf)
+    - HW 2, see PDF in MyCourses
 
   
 
