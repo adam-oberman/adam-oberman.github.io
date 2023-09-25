@@ -43,7 +43,9 @@ Math and Stats Majors/Honours students, Computer Science students.
    - Notes and code also from https://towardsdatascience.com/how-neural-networks-solve-the-xor-problem-59763136bdd7
    - Course notes: [Math462_NN.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12686544/Math462_NN.pdf)
    - Code: [Perceptron Code](https://drive.google.com/file/d/1dKgyciUZgk_SDNrOvpOhyJ-2UOS6wJIh/view?usp=sharing)
-  
+
+- HW 2
+    - Files 
   
 
     
