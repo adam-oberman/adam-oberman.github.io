@@ -45,7 +45,8 @@ Math and Stats Majors/Honours students, Computer Science students.
    - Code: [Perceptron Code](https://drive.google.com/file/d/1dKgyciUZgk_SDNrOvpOhyJ-2UOS6wJIh/view?usp=sharing)
 
 - HW 2
-    - Files 
+    - [Code for Bayes Classifier ](https://colab.research.google.com/drive/1P35Aut8NcjQ4BOYsq7tbmIc9h26jukby?usp=sharing)
+    - 
   
 
     
