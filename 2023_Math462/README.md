@@ -47,8 +47,11 @@ Math and Stats Majors/Honours students, Computer Science students.
 - HW 2
     - [Code for Bayes Classifier ](https://colab.research.google.com/drive/1P35Aut8NcjQ4BOYsq7tbmIc9h26jukby?usp=sharing)
     - HW 2, see PDF in MyCourses
+- Lecture 8 09.26
+    - Vector Calc for ML [Math462_Lecture_Note_2_Calculus_Regression.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12729388/Math462_Lecture_Note_2_Calculus_Regression.pdf)
+   - Stochastic Optimization [Math462_Lecture_Note_SGD.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12729355/Math462_Lecture_Note_SGD.pdf)
 
-  
+
 
     
     
