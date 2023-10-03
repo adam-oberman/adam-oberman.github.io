@@ -50,7 +50,8 @@ Math and Stats Majors/Honours students, Computer Science students.
 - Lecture 8 09.26
     - Vector Calc for ML [Math462_Lecture_Note_2_Calculus_Regression.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12729388/Math462_Lecture_Note_2_Calculus_Regression.pdf)
    - Stochastic Optimization [Math462_Lecture_Note_SGD.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12729355/Math462_Lecture_Note_SGD.pdf)
-
+- Lecture 9, 09.28 (Cancelled)
+- Lecture 10, 10.03
 
 
     
