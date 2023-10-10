@@ -43,7 +43,6 @@ Math and Stats Majors/Honours students, Computer Science students.
    - Notes and code also from https://towardsdatascience.com/how-neural-networks-solve-the-xor-problem-59763136bdd7
    - Course notes: [Math462_NN.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12686544/Math462_NN.pdf)
    - Code: [Perceptron Code](https://drive.google.com/file/d/1dKgyciUZgk_SDNrOvpOhyJ-2UOS6wJIh/view?usp=sharing)
-
 - HW 2
     - [Code for Bayes Classifier ](https://colab.research.google.com/drive/1P35Aut8NcjQ4BOYsq7tbmIc9h26jukby?usp=sharing)
     - HW 2, see PDF in MyCourses
@@ -51,7 +50,7 @@ Math and Stats Majors/Honours students, Computer Science students.
     - Vector Calc for ML [Math462_Lecture_Note_2_Calculus_Regression.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12729388/Math462_Lecture_Note_2_Calculus_Regression.pdf)
    - Stochastic Optimization [Math462_Lecture_Note_SGD.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12729355/Math462_Lecture_Note_SGD.pdf)
 - Lecture 9, 09.28 (Cancelled)
-- Lecture 10, 10.03
+- Lecture 10 and 11, 10.03 and 10.05 Binary Classidfication and Multi-Class classification losses
 
 
     
