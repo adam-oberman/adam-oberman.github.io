@@ -48,9 +48,13 @@ Math and Stats Majors/Honours students, Computer Science students.
     - HW 2, see PDF in MyCourses
 - Lecture 8 09.26
     - Vector Calc for ML [Math462_Lecture_Note_2_Calculus_Regression.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12729388/Math462_Lecture_Note_2_Calculus_Regression.pdf)
-   - Stochastic Optimization [Math462_Lecture_Note_SGD.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12729355/Math462_Lecture_Note_SGD.pdf)
+   - Stochastic Optimization [(Updated Oct 10) Math462_Lecture_Note_SGD.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12861474/Math462_Lecture_Note_SGD.pdf)
 - Lecture 9, 09.28 (Cancelled)
-- Lecture 10 and 11, 10.03 and 10.05 Binary Classidfication and Multi-Class classification losses
+- Lecture 10 and 11, 10.03 and 10.05 Binary Classidfication  [Class_Binary.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12861475/Class_Binary.pdf) and Multi-Class classification losses [Class_Multi.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12861476/Class_Multi.pdf)
+- HW 3
+    - [HW3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12861484/HW3.pdf)
+
+
 
 
     
