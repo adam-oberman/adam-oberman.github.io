@@ -53,6 +53,9 @@ Math and Stats Majors/Honours students, Computer Science students.
 - Lecture 10 and 11, 10.03 and 10.05 Binary Classidfication  [Class_Binary.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12861475/Class_Binary.pdf) and Multi-Class classification losses [Class_Multi.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12861476/Class_Multi.pdf)
 - HW 3
     - [HW3.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12861484/HW3.pdf)
+- Oct 10, no lecture, thanksgiving break
+- Oct 12, guest lecture.
+- Lecture 12, Oct 17.[Math462_Lecture_Notes_Kmeans.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12931956/Math462_Lecture_Notes_Kmeans.pdf)
 
 
 
