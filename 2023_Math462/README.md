@@ -58,6 +58,7 @@ Math and Stats Majors/Honours students, Computer Science students.
 - Oct 12, guest lecture.
 - Lecture 12, Oct 17.[Math462_Lecture_Notes_Kmeans.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12931956/Math462_Lecture_Notes_Kmeans.pdf)
 - Lecture 13, Oct 24. [Math462_Inner_Products_Projections.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13121002/Math462_Inner_Products_Projections.pdf)
+- Lecture 15, PCA.  Additional Reference: [Jeff Calder Notes Ch 3](https://www-users.cse.umn.edu/~jwcalder/5467Notes.pdf)
 
 
 
