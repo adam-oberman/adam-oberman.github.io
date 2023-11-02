@@ -58,8 +58,11 @@ Math and Stats Majors/Honours students, Computer Science students.
 - Oct 12, guest lecture.
 - Lecture 12, Oct 17.[Math462_Lecture_Notes_Kmeans.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/12931956/Math462_Lecture_Notes_Kmeans.pdf)
 - Lecture 13, Oct 24. [Math462_Inner_Products_Projections.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13121002/Math462_Inner_Products_Projections.pdf)
-- Lecture 14, PCA.
+- Lecture 14, PCA, Oct 26
     - Additional Reference: [Jeff Calder Notes Ch 3](https://www-users.cse.umn.edu/~jwcalder/5467Notes.pdf)
+- Lectures 15 and 16, Oct 31, Nov 2.  Convex Learning problems.  Shalev-Shwartz Chapter 12.
+    - Temporary link:  [SS Ch 12 Convex Learning.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13240851/SS.Ch.12.Convex.Learning.pdf)
+
 
 
 
