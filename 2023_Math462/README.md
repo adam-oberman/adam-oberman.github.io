@@ -63,6 +63,10 @@ Math and Stats Majors/Honours students, Computer Science students.
 - Lectures 15 and 16, Oct 31, Nov 2.  Convex Learning problems.  Shalev-Shwartz Chapter 12.
     - Temporary link:  [SS Ch 12 Convex Learning.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13240851/SS.Ch.12.Convex.Learning.pdf)
 - HW 4 [HW4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13260149/HW4.pdf)
+- Lecture 17 and 18, Nov 7 and Nov 9.
+  - Introduction to generative models.  Autoencoders [Unsupervised learning Generative Models.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13328384/Unsupervised.learning.Generative.Models.pdf)
+
+  - Approximation Theory.  Temporary Link: [Approximation theory Burden Faires Numerical Analysis 9th Burden Faires.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13328375/Approximation.theory.Burden.Faires.Numerical.Analysis.9th.Burden.Faires.pdf)
 
 
 
