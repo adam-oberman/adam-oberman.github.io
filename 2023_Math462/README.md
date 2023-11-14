@@ -69,6 +69,9 @@ Math and Stats Majors/Honours students, Computer Science students.
 
   - Approximation Theory.  Temporary Link: [Approximation theory Burden Faires Numerical Analysis 9th Burden Faires.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13328375/Approximation.theory.Burden.Faires.Numerical.Analysis.9th.Burden.Faires.pdf)
 
+- Lecture 19 and 20, Nov 14 and 16,
+    - [Math462_Feature_Regression.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13351436/Math462_Feature_Regression.pdf)
+    - [Math462_Orthogonal_Function_Regression.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13351438/Math462_Orthogonal_Function_Regression.pdf)
 
 
 
