@@ -63,7 +63,7 @@ Math and Stats Majors/Honours students, Computer Science students.
     - Additional Reference: [Jeff Calder Notes Ch 3](https://www-users.cse.umn.edu/~jwcalder/5467Notes.pdf)
 - Lectures 15 and 16, Oct 31, Nov 2.  Convex Learning problems.  Shalev-Shwartz Chapter 12.
     - Temporary link:  [SS Ch 12 Convex Learning.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13240851/SS.Ch.12.Convex.Learning.pdf)
-- HW 4 [HW4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13260149/HW4.pdf)
+- HW 4 [HW4.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13350080/HW4.pdf)
 - Lecture 17 and 18, Nov 7 and Nov 9.
   - Introduction to generative models.  Autoencoders [Unsupervised learning Generative Models.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13328384/Unsupervised.learning.Generative.Models.pdf)
 
