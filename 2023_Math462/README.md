@@ -73,8 +73,7 @@ Math and Stats Majors/Honours students, Computer Science students.
 
 - Lecture 19 and 20, Nov 14 and 16,
     - [Math462_Feature_Regression.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13351436/Math462_Feature_Regression.pdf)
-    - [Math462_Orthogonal_Function_Regression.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13351438/Math462_Orthogonal_Function_Regression.pdf)
-
+    - [Math462_Orthogonal_Function_Regression.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13380038/Math462_Orthogonal_Function_Regression.pdf)
 
 
 
