@@ -76,6 +76,7 @@ Math and Stats Majors/Honours students, Computer Science students.
     - [Math462_Orthogonal_Function_Regression.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13380038/Math462_Orthogonal_Function_Regression.pdf)
 
 - [HW5.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13490957/HW5.pdf)
+- (Updated) [HW5.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13503129/HW5.pdf)
 
 - Nov 21, homework session, and project session. Nov 23, Review and project session
 - [HW_Combined.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13452031/HW_Combined.pdf)
