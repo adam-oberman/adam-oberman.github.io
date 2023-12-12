@@ -80,7 +80,7 @@ Math and Stats Majors/Honours students, Computer Science students.
 
 - Nov 21, homework session, and project session. Nov 23, Review and project session
 - [HW_Combined.pdf](https://github.com/adam-oberman/adam-oberman.github.io/files/13452031/HW_Combined.pdf)
-
+- updated HW Combined: 
 
 
 
