@@ -1,19 +1,5 @@
-theme: minima  # Change if you're using another theme
-title: "Adam Oberman Math and AI professor website"
-description: "My research and teaching"
-nav:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research
-  - title: "Teaching"
-    url: /teaching
-exclude:
-  - _includes
-  - _layouts
-  - _site
-  - node_modules
-  - vendor
+title: "Adam Oberman"
+markdown: kramdown
 exclude:
   - 23_Math462
   - Lectures
@@ -23,5 +9,3 @@ exclude:
   - pdfs
   - README.md
   - teaching2.md
-
-
