@@ -1,22 +1,7 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{  Adam Oberman teaching page</title> }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-	
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="https://www.adamoberman.net/">Adam Oberman Academic Page</a></li>
-	        		<li><a href="https://adam-oberman.github.io/">Adam Oberman Teaching Page</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<nav>
+    <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/research' | relative_url }}">Research</a></li>
+        <li><a href="{{ '/teaching' | relative_url }}">Teaching</a></li>
+    </ul>
+</nav>
