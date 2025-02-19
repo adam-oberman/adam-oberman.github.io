@@ -6,11 +6,8 @@ title: Home
 # Adam Oberman Professor Home Page
 
 ## Navigation  
-- [Research](/research)  
-- [Teaching](/teaching)
-- [Research](/docs/research)  
-- [Teaching](/docs/teaching)
-- - [Teaching](teaching.md)
+- [Research](research.md)  
+- [Teaching](teaching.md)
 
 ## About 
 
