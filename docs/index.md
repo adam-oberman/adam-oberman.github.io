@@ -6,5 +6,5 @@ title: Home
 # Welcome to My Website  
 
 ## Navigation  
-- [Research](research)  
-- [Teaching](teaching)  
+- [Research](/research)  
+- [Teaching](/teaching)  
