@@ -5,23 +5,17 @@ title: Home
 
 # Adam Oberman Professor Home Page
 
-## Navigation  
-- 
-
-# Machine Learning/AI Research Page
-- [Machine Learning/AI Research area](research.md)
-- [Applied Mathematics Research](research_older.md): numerical methods for nonlinear Partial Differential Equations and Optimal Transportation 
-
-  
-
+## Research Pages
+[Machine Learning/AI Research area](research.md)
 - ML for PDEs / learning PDE solvers
 - Generative models: Normalizing flows, diffusion models
 - Architectures: EuclidNets
 - Calibration
 - optimization of deep neural networks
 - adversarial robustness machine learning
+- [Applied Mathematics Research](research_older.md): numerical methods for nonlinear Partial Differential Equations and Optimal Transportation 
 
-
+## Teaching Pages
 - [Teaching](teaching.md)
 
 ## About 
