@@ -33,8 +33,8 @@ see also [Applied Mathematics Research](research_older.md)
 **2021**
 
 1. Stochastic Gradient Descent with Polyak's Learning Rate Mariana Prazeres, Adam Oberman *Journal of Scientific Computing* 89.1 (2021): 1-16. [arxiv](https://arxiv.org/abs/1903.08688)
-2. Learning normalizing flows from Entropy-Kantorovich potentials* Chris Finlay, Augusto Gerolin, Adam M Oberman, Aram-Alexandre Pooladian [arxiv](https://arxiv.org/abs/2006.06033) [INNF+ 2021 workshop](https://invertibleworkshop.github.io/accepted_papers/index.html) (2021)
-3. (Journal) *Scaleable input gradient regularization for adversarial robustness* Chris Finlay, Adam Oberman, Machine Learning with Applications (MLWA), 3 2021 [arxiv](https://arxiv.org/abs/1905.11468) [github](https://github.com/cfinlay/tulip)
+2. Learning normalizing flows from Entropy-Kantorovich potentials Chris Finlay, Augusto Gerolin, Adam M Oberman, Aram-Alexandre Pooladian [arxiv](https://arxiv.org/abs/2006.06033) [INNF+ 2021 workshop](https://invertibleworkshop.github.io/accepted_papers/index.html) (2021)
+3. (Journal) Scaleable input gradient regularization for adversarial robustness Chris Finlay, Adam Oberman, Machine Learning with Applications (MLWA), 3 2021 [arxiv](https://arxiv.org/abs/1905.11468) [github](https://github.com/cfinlay/tulip)
 4. "Methods and systems for computing an output of a neural network layer". US Patent application 17/317,833 (filed May 11, 2021)
 
 **2020**
