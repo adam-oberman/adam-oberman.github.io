@@ -14,7 +14,14 @@ exclude:
   - _site
   - node_modules
   - vendor
+exclude:
+  - 23_Math462
+  - Lectures
+  - Math462
+  - Math562
+  - old_files
+  - pdfs
   - README.md
-  - Gemfile
-  - Gemfile.lock
+  - teaching2.md
+
 
