@@ -15,7 +15,7 @@ see also [Applied Mathematics Research](research_older.md)
 
 **2023-2024**
 
-1. Harnessing small projectors and multiple views for efficient vision pretraining [poster](https://neurips.cc/virtual/2024/poster/94719) Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards NeurIPS 2024
+1. Harnessing small projectors and multiple views for efficient vision pretraining [NeurIPS 2024 poster](https://neurips.cc/virtual/2024/poster/94719) Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards 
 2.  Deep PDE solvers for Subgrid Modelling and Out-of-Distribution Generalization, Patrick Chatain, Adam Oberman [submitted](https://openreview.net/forum?id=bgwgrxBYOI&referrer=[Author Console](%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)) [workshop](https://neurips.cc/virtual/2023/75472)
 3. Multi-Resolution Continuous Normalizing Flows Vikram Voleti, Chris Finlay, Adam Oberman, Christopher Pal, Annals of Mathematics and Artificial Intelligence 2024, [journal](https://doi.org/10.1007/s10472-024-09939-5) [arxiv](https://arxiv.org/abs/2106.08462)
 4. EuclidNets: An Alternative Operation for Efficient Inference of Deep Learning  Models Xinlin Li and Mariana Parazeres and Adam M. Oberman and Alireza  Ghaffari and Masoud Asgharian and Vahid Partovi Nia, [SN Computer Science 2023](https://doi.org/10.1007/s42979-023-01921-y) [arXiv](https://arxiv.org/abs/2212.11803)
