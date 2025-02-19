@@ -1,18 +1,13 @@
 ---
 layout: default
-title: Older Research
+title: Research
 ---
 
-# Older Research Page
-
-
-
-Research page
-
+# Research Page
  **Research areas**
-
 - mathematics and optimization of deep neural networks
-- numerical methods for nonlinear Partial Differential Equations and Optimal Transportation
+- [Older research](research_older): numerical methods for nonlinear Partial Differential Equations and Optimal Transportation 
+
 
 **2023-2024**
 
