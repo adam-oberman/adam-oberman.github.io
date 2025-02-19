@@ -8,7 +8,6 @@ nav:
     url: /research
   - title: "Teaching"
     url: /teaching
-exclude: ["README.md", "Gemfile", "Gemfile.lock", "node_modules", "vendor"]
 exclude:
   - _includes
   - _layouts
