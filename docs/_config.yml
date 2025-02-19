@@ -1,13 +1,6 @@
 title: "Adam Oberman"
 markdown: kramdown
-exclude:
-  - 23_Math462
-  - Lectures
-  - Math462
-  - Math562
-  - old_files
-  - pdfs
-  - README.md
-  - teaching2.md
+theme: jekyll-theme-minimal # Optional: choose a theme if desired
+
 
   
