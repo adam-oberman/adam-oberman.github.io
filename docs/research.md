@@ -4,10 +4,8 @@ title: Research
 ---
 
 # Machine Learning/AI Research Page
-- [Applied Mathematics Research](research_older.md): numerical methods for nonlinear Partial Differential Equations and Optimal Transportation 
- ** Machine Learning/AI Research areas**
-  
 
+ ** Machine Learning/AI Research areas**
 - ML for PDEs / learning PDE solvers
 - Generative models: Normalizing flows, diffusion models
 - Architectures: EuclidNets
@@ -15,6 +13,7 @@ title: Research
 - optimization of deep neural networks
 - adversarial robustness machine learning
 
+- see also [Applied Mathematics Research](research_older.md): numerical methods for nonlinear Partial Differential Equations and Optimal Transportation 
 
 **2023-2024**
 
