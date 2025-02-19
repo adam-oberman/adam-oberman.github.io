@@ -3,10 +3,17 @@ layout: default
 title: Research
 ---
 
-# Research Page
- **Research areas**
-- mathematics and optimization of deep neural networks
-- [Older research](research_older.md): numerical methods for nonlinear Partial Differential Equations and Optimal Transportation 
+# Machine Learning/AI Research Page
+- [Applied Mathematics Research](research_older.md): numerical methods for nonlinear Partial Differential Equations and Optimal Transportation 
+ ** Machine Learning/AI Research areas**
+  
+
+- ML for PDEs / learning PDE solvers
+- Generative models: Normalizing flows, diffusion models
+- Architectures: EuclidNets
+- Calibration
+- optimization of deep neural networks
+- adversarial robustness machine learning
 
 
 **2023-2024**
@@ -42,17 +49,12 @@ title: Research
 5. (Journal and Conference) *No collision transportation maps,* Levon Nurbekyan, Alexander Iannantuono, Adam M. Oberman [NeurIPS 2019 OTML workshop](https://sites.google.com/view/otml2019/schedule) [Journal of Scientific Computing](https://doi.org/10.1007/s10915-020-01143-x) 2020 [arxiv](https://arxiv.org/abs/1912.02317)
 6. (Journal) *A regularization interpretation of the proximal point method for weakly convex functions* Tim Hoheisel, Maxime Laborde, Adam Oberman  [Journal of Dynamics and Games ](http://dx.doi.org/10.3934/jdg.2020005)2020
 7. (Conference) *Partial differential equation regularization for supervised machine learning,* Adam Oberman 75 Years of Mathematicas of Computation Symposium (2020) [AMS Contemporary Math](https://www.ams.org/books/conm/) [arxiv](http://arxiv.org/abs/1910.01612)
-8. (Journal) *A Partial Differential Equation Obstacle problem for the Level Set Approach to Visibility* Adam Oberman, Tiago Salvador; Journal Sci Computing (2020) [arxiv](https://arxiv.org/abs/1908.00578)
 
-**2019**
+**2019, 2018**
 
 1. (Conference) *The LogBarrier adversarial attack: making effective use of decision boundary information* Chris Finlay, Aram-Alexander Pooladian, Adam Oberman [ICCV](http://openaccess.thecvf.com/content_ICCV_2019/html/Finlay_The_LogBarrier_Adversarial_Attack_Making_Effective_Use_of_Decision_Boundary_ICCV_2019_paper.html) 2019 [arxiv](https://arxiv.org/abs/1903.10396)
-2. (Journal) *Improved accuracy of monotone finite difference schemes on point clouds and regular grids* Chris Finlay, Adam M. Oberman; SIAM SISC 2019 [arxiv](https://arxiv.org/abs/1807.05150)
-
-**2018**
-
-1. *Parle: parallelizing stochastic gradient descent* Pratik Chaudhari, Carlo Baldassi, Riccardo Zecchina, Stefano Soatto, Ameet Talwalkar, Adam Oberman [SysML](http://www.sysml.cc/)  2018 [arxiv](https://arxiv.org/abs/1707.00424)
-2. *Stochastic Backward Euler: An Implicit Gradient Descent Algorithm for k-means Clustering* Penghang Yin, Minh Pham, Adam Oberman, Stanley Osher; [Journal of Scientific Computing](https://doi.org/10.1007/s10915-018-0744-4) 2018 [arxiv](https://arxiv.org/abs/1710.07746)
-3. *Deep Relaxation: partial differential equations for optimizing deep neural networks* Pratik Chaudhari, Adam M. Oberman, Stanley Osher, Stefano Soatto, Guillame Carlier; [Research in Math Sciences](https://link.springer.com/article/10.1007/s40687-018-0148-y) 2018 [arxiv](https://arxiv.org/abs/1704.04932)
-4. *Approximate Homogenization of fully nonlinear elliptic PDEs* Chris Finlay and Adam M. Oberman; [Journal of Scientific Computing](https://link.springer.com/journal/10915) 2018, [arxiv ](https://arxiv.org/abs/1710.10311)
-5. *Approximate Homogenization of convex nonlinear elliptic PDEs* Chris Finlay and Adam M. Oberman; [Comm Math Sci](http://intlpress.com/site/pub/pages/journals/items/cms/_home/_main/) 2018, [arxiv ](https://arxiv.org/abs/1710.10309)
+2. *Parle: parallelizing stochastic gradient descent* Pratik Chaudhari, Carlo Baldassi, Riccardo Zecchina, Stefano Soatto, Ameet Talwalkar, Adam Oberman [SysML](http://www.sysml.cc/)  2018 [arxiv](https://arxiv.org/abs/1707.00424)
+3. *Stochastic Backward Euler: An Implicit Gradient Descent Algorithm for k-means Clustering* Penghang Yin, Minh Pham, Adam Oberman, Stanley Osher; [Journal of Scientific Computing](https://doi.org/10.1007/s10915-018-0744-4) 2018 [arxiv](https://arxiv.org/abs/1710.07746)
+4. *Deep Relaxation: partial differential equations for optimizing deep neural networks* Pratik Chaudhari, Adam M. Oberman, Stanley Osher, Stefano Soatto, Guillame Carlier; [Research in Math Sciences](https://link.springer.com/article/10.1007/s40687-018-0148-y) 2018 [arxiv](https://arxiv.org/abs/1704.04932)
+5. *Approximate Homogenization of fully nonlinear elliptic PDEs* Chris Finlay and Adam M. Oberman; [Journal of Scientific Computing](https://link.springer.com/journal/10915) 2018, [arxiv ](https://arxiv.org/abs/1710.10311)
+6. *Approximate Homogenization of convex nonlinear elliptic PDEs* Chris Finlay and Adam M. Oberman; [Comm Math Sci](http://intlpress.com/site/pub/pages/journals/items/cms/_home/_main/) 2018, [arxiv ](https://arxiv.org/abs/1710.10309)
