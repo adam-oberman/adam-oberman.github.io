@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Website  
+# Adam Oberman Professor Home Page
 
 ## Navigation  
 - [Research](/research)  
