@@ -3,17 +3,15 @@ layout: default
 title: Research
 ---
 
-# Machine Learning/AI Research Page
-
- ** Machine Learning/AI Research areas**
-- ML for PDEs / learning PDE solvers
+# Machine Learning/AI Research 
 - Generative models: Normalizing flows, diffusion models
 - Architectures: EuclidNets
 - Calibration
-- optimization of deep neural networks
+- ML for PDEs / learning PDE solvers
 - adversarial robustness machine learning
-
-- see also [Applied Mathematics Research](research_older.md): numerical methods for nonlinear Partial Differential Equations and Optimal Transportation 
+- optimization of deep neural networks
+  
+see also [Applied Mathematics Research](research_older.md)
 
 **2023-2024**
 
