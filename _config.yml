@@ -10,3 +10,13 @@ nav:
     url: /teaching
 include: [".htaccess"]
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "node_modules", "vendor"]
+exclude:
+  - _includes
+  - _layouts
+  - _site
+  - node_modules
+  - vendor
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
