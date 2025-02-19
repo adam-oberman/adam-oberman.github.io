@@ -7,7 +7,9 @@ title: Home
 
 ## Navigation  
 - [Research](/research)  
-- [Teaching](/teaching)  
+- [Teaching](/teaching)
+- - [Research](research)  
+- [Teaching](teaching)  
 
 ## About 
 
