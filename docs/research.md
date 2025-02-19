@@ -13,12 +13,10 @@ title: Research
   
 see also [Applied Mathematics Research](research_older.md)
 
-**2023-2024**
-
-1. Harnessing small projectors and multiple views for efficient vision pretraining [NeurIPS 2024 poster](https://neurips.cc/virtual/2024/poster/94719) Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards 
-2. 
-3. Multi-Resolution Continuous Normalizing Flows Vikram Voleti, Chris Finlay, Adam Oberman, Christopher Pal, Annals of Mathematics and Artificial Intelligence 2024, [journal](https://doi.org/10.1007/s10472-024-09939-5) [arxiv](https://arxiv.org/abs/2106.08462)
-4. Can Safety Fine-Tuning Be More Principled? Lessons Learned from Cybersecurity David Williams-King, Linh Le, Adam Oberman, Yoshua Bengio [Safe Generative AI Workshop @ NeurIPS 2024](https://safegenaiworkshop.github.io/) [open review](https://openreview.net/forum?id=QO7dF42YEb)
+**2024**
+- Harnessing small projectors and multiple views for efficient vision pretraining [NeurIPS 2024 poster](https://neurips.cc/virtual/2024/poster/94719) Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards  
+- Multi-Resolution Continuous Normalizing Flows Vikram Voleti, Chris Finlay, Adam Oberman, Christopher Pal, Annals of Mathematics and Artificial Intelligence 2024, [journal](https://doi.org/10.1007/s10472-024-09939-5) [arxiv](https://arxiv.org/abs/2106.08462)
+- Can Safety Fine-Tuning Be More Principled? Lessons Learned from Cybersecurity David Williams-King, Linh Le, Adam Oberman, Yoshua Bengio [Safe Generative AI Workshop @ NeurIPS 2024](https://safegenaiworkshop.github.io/) [open review](https://openreview.net/forum?id=QO7dF42YEb)
 
 **2023**
 -  Deep PDE solvers for Subgrid Modelling and Out-of-Distribution Generalization, Patrick Chatain, Adam Oberman [NeurIPS 2023 workshop](https://neurips.cc/virtual/2023/workshop/66538) [paper](https://neurips.cc/virtual/2023/75472)
