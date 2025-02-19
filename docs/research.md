@@ -17,16 +17,15 @@ title: Research
 
 **2023-2024**
 
-1. Harnessing small projectors and multiple views for efficient vision pretraining [poster](https://neurips.cc/virtual/2024/poster/94719) NeurIPS 2024 
-2. Addressing Sample Inefficiency in Multi-View Representation Learning Kumar Krishna Agrawal, Arna Ghosh, Adam Oberman, Blake Richards [arxiv](https://arxiv.org/abs/2312.10725)
-3. Deep PDE solvers for Subgrid Modelling and Out-of-Distribution Generalization, Patrick Chatain, Adam Oberman [submitted](https://openreview.net/forum?id=bgwgrxBYOI&referrer=[Author Console](%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)) [workshop](https://neurips.cc/virtual/2023/75472)
-4. Multi-Resolution Continuous Normalizing Flows Vikram Voleti, Chris Finlay, Adam Oberman, Christopher Pal, Annals of Mathematics and Artificial Intelligence 2024, [journal](https://doi.org/10.1007/s10472-024-09939-5) [arxiv](https://arxiv.org/abs/2106.08462)
-5. EuclidNets: An Alternative Operation for Efficient Inference of Deep Learning  Models Xinlin Li and Mariana Parazeres and Adam M. Oberman and Alireza  Ghaffari and Masoud Asgharian and Vahid Partovi Nia, [SN Computer Science 2023](https://doi.org/10.1007/s42979-023-01921-y) [arXiv](https://arxiv.org/abs/2212.11803)
+1. Harnessing small projectors and multiple views for efficient vision pretraining [poster](https://neurips.cc/virtual/2024/poster/94719) Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards NeurIPS 2024
+2.  Deep PDE solvers for Subgrid Modelling and Out-of-Distribution Generalization, Patrick Chatain, Adam Oberman [submitted](https://openreview.net/forum?id=bgwgrxBYOI&referrer=[Author Console](%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)) [workshop](https://neurips.cc/virtual/2023/75472)
+3. Multi-Resolution Continuous Normalizing Flows Vikram Voleti, Chris Finlay, Adam Oberman, Christopher Pal, Annals of Mathematics and Artificial Intelligence 2024, [journal](https://doi.org/10.1007/s10472-024-09939-5) [arxiv](https://arxiv.org/abs/2106.08462)
+4. EuclidNets: An Alternative Operation for Efficient Inference of Deep Learning  Models Xinlin Li and Mariana Parazeres and Adam M. Oberman and Alireza  Ghaffari and Masoud Asgharian and Vahid Partovi Nia, [SN Computer Science 2023](https://doi.org/10.1007/s42979-023-01921-y) [arXiv](https://arxiv.org/abs/2212.11803)
 
 **2022**
 
-1. On the Generalization of Representations in Reinforcement Learning.  Charline Le Lan, Stephen Tu, Adam Oberman, Rishabh Agarwal, Marc G.  Bellemare: AISTATS 2022: 4132-4157 https://arxiv.org/abs/2203.00543
-2. FairCal: Fairness Calibration for Face Verification. Tiago Salvador, Stephanie  Cairns, Vikram Voleti, Noah Marshall, Adam M. Oberman. ICLR 2022 https://arxiv.org/abs/2106.03761
+1. On the Generalization of Representations in Reinforcement Learning.  Charline Le Lan, Stephen Tu, Adam Oberman, Rishabh Agarwal, Marc G.  Bellemare: [AISTATS 2022: 4132-4157](https://aistats.org/aistats2022/accepted.html) [arxiv](https://arxiv.org/abs/2203.00543)
+2. FairCal: Fairness Calibration for Face Verification. Tiago Salvador, Stephanie  Cairns, Vikram Voleti, Noah Marshall, Adam M. Oberman. [ICLR 2022](https://openreview.net/forum?id=nRj0NcmSuxb)  [arxiv](https://arxiv.org/abs/2106.03761)
 3. EuclidNets: Combining Hardware and Architecture Design for Efficient Training and  Inference. Mariana Oliveira Prazeres, Xinlin Li, Adam M. Oberman, Vahid  Partovi Nia. ICPRAM 2022: 141-151 https://arxiv.org/abs/2212.11803
 4. A Reproducible and Realistic Evaluation of Partial Domain Adaptation  Methods. Tiago Salvador, Kilian Fatras, Ioannis Mitliagkas, and Adam  Oberman. NeurIPS Distribution Shifts Workshop, 2022 https://arxiv.org/abs/2210.01210
 5. ImageNet-Cartoon and ImageNet-Drawing: two domain shift datasets for ImageNet. Tiago  Salvador and Adam M. Oberman. ICML Shift Happens Workshop, 2022
@@ -35,8 +34,8 @@ title: Research
 
 **2021**
 
-1. *Stochastic Gradient Descent with Polyak's Learning Rate* Mariana Prazeres, Adam Oberman *Journal of Scientific Computing* 89.1 (2021): 1-16. [arxiv](https://arxiv.org/abs/1903.08688)
-2. *(*workshop*) Learning normalizing flows from Entropy-Kantorovich potentials* Chris Finlay, Augusto Gerolin, Adam M Oberman, Aram-Alexandre Pooladian [arxiv](https://arxiv.org/abs/2006.06033) [INNF+ 2021 workshop](https://invertibleworkshop.github.io/accepted_papers/index.html) (2021)
+1. Stochastic Gradient Descent with Polyak's Learning Rate Mariana Prazeres, Adam Oberman *Journal of Scientific Computing* 89.1 (2021): 1-16. [arxiv](https://arxiv.org/abs/1903.08688)
+2. Learning normalizing flows from Entropy-Kantorovich potentials* Chris Finlay, Augusto Gerolin, Adam M Oberman, Aram-Alexandre Pooladian [arxiv](https://arxiv.org/abs/2006.06033) [INNF+ 2021 workshop](https://invertibleworkshop.github.io/accepted_papers/index.html) (2021)
 3. (Journal) *Scaleable input gradient regularization for adversarial robustness* Chris Finlay, Adam Oberman, Machine Learning with Applications (MLWA), 3 2021 [arxiv](https://arxiv.org/abs/1905.11468) [github](https://github.com/cfinlay/tulip)
 4. "Methods and systems for computing an output of a neural network layer". US Patent application 17/317,833 (filed May 11, 2021)
 
