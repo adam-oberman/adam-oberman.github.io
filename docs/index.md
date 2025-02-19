@@ -8,8 +8,9 @@ title: Home
 ## Navigation  
 - [Research](/research)  
 - [Teaching](/teaching)
-- - [Research](research)  
-- [Teaching](teaching)  
+- [Research](/docs/research)  
+- [Teaching](/docs/teaching)
+- - [Teaching](teaching.md)
 
 ## About 
 
