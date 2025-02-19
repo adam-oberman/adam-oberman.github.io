@@ -2,5 +2,5 @@
 layout: default
 title: Home
 ---
-# Welcome to My Website
+# Adam Oberman math and AI professor
 Homepage for Adam Oberman math professor
