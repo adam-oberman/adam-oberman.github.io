@@ -5,7 +5,7 @@ title: Main
 # Adam Oberman McGill Professor
 
 ## Pages
-- [Machine Learning/AI Research area](research.md)
+- [Machine Learning/AI Research](research.md)
 - [Applied Mathematics Research](research_math.md)
 - [Teaching](teaching.md)
 
