@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Research on PDEs
+title: Applied Math Research
 ---
 
-# Applied Math Research Page
+# Applied Math Research
 ** Research areas**
 - Numerical methods for nonlinear Partial Differential Equations
 - Optimal Transportation
