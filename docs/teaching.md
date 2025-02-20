@@ -7,9 +7,9 @@ McGill University, Department of Mathematics and Statistics
 
 **Teaching Website : [adam-oberman.github.io/](https://adam-oberman.github.io/)** 
 
-- [Fall 2023, Math 462](https://adam-oberman.github.io/2023_Math462/)
-- Winter 2023: [Math/Comp 562 ](https://adam-oberman.github.io/Math562/)
-- Fall 2022:[ Math 462, Honours Math for Machine Learning](https://adam-oberman.github.io/Math462/) (undergraduate course)
+- [Fall 2023, Math 462](/2023_Math462/)
+- [Winter 2023, Math/Comp 562 ](/Math562/)
+- [Fall 2022, Math 462, Honours Math for Machine Learning](/Math462/) (undergraduate course)
 - Winter 2022: Math 562/Comp 562: Theory of Machine Learning (graduate course).
 - Fall 2021: Math 462, Honours Math for Machine Learning (undergraduate course)
 - Winter 2021: Math 579 Numerical PDEs (refer to mycourses webpage)
