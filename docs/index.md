@@ -6,28 +6,21 @@ title: Home
 # Adam Oberman McGill Professor Home Page
 
 ## Research Pages
-[Machine Learning/AI Research area](research.md)
-- [Applied Mathematics Research](research_older.md): numerical methods for nonlinear Partial Differential Equations and Optimal Transportation 
-- ML for PDEs / learning PDE solvers
-- Generative models: Normalizing flows, diffusion models
-- Architectures: EuclidNets
-- Calibration
-- optimization of deep neural networks
-- adversarial robustness machine learning
-
+- [Machine Learning/AI Research area](research.md)
+- [Applied Mathematics Research](research_older.md)
 
 ## Teaching Pages
 - [Teaching](teaching.md)
 
 ## About 
-
-| Adam Oberman. Canada CIFAR AI chair, associate member of [Mila ](https://mila.quebec/en/mila/team/), 2020 Full Professor 2017, faculty at McGill in 2012. Faculty at Simon Fraser  University from 2004 to 2012. Postdoc at the University of Texas, at  Austin from 2001-2004. Simons Fellowship at UCLA in 2017.  PhD from  the University of Chicago. | adam.oberman@mcgill.ca Dept of Mathematics and Statistics Burnside Hall, Room 1106 805 Sherbrooke St W Montreal Quebec H3A0B9 Canada |
+-  Canada CIFAR AI chair, associate member of [Mila ](https://mila.quebec/en/mila/team/), 2020
+-  Full Professor 2017, faculty at McGill in 2012.
+-  Simons Fellowship at UCLA in 2017. 
+-  Faculty at Simon Fraser  University from 2004 to 2012. Postdoc at the University of Texas, at  Austin from 2001-2004.  PhD from  the University of Chicago.
 
 ## News 
-
 **News:**
 - 2025, Open Philanthropy Grant for career transition to AI safety
-
 **Older News:**
 - Canada CIFAR AI chairs cohort announced: [cifar.ca/ai/canada-cifar-ai-chairs/](https://cifar.ca/ai/canada-cifar-ai-chairs/)
 - Medium Post by Mariana Prazeres on [Stochastic Gradient Descent](https://medium.com/oberman-lab/proof-for-stochastic-gradient-descent-335bdc8693d0)
