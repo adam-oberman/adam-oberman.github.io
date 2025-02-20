@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: ML/AI Research
 ---
 
 # Machine Learning/AI Research 
