@@ -14,14 +14,6 @@ title: ML/AI Research
 see also [Applied Mathematics Research](research_older.md)
 
 
-# Presentations
-- Accelerated SGD [slides](https://www.adamoberman.net/uploads/6/2/4/2/62426505/accelerate_sgd_new_slides_2020_05.pdf)
-- Mathematics applied to Deep Neural Networks (Nov 2018): [slides](https://www.adamoberman.net/uploads/6/2/4/2/62426505/math_comp_brown_11_02.pdf), [Video](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae9989ff-5e3e-4f28-9332-a98d012a4614)
-- Presentation on Generalization of Deep Neural Networks and Adversarial Robustness (Oct 2018) [slides](https://www.adamoberman.net/uploads/6/2/4/2/62426505/miml_oct_30.pdf)
-- Introductory (non research) [talk for undergraduates](https://www.adamoberman.net/uploads/6/2/4/2/62426505/seminar_1_introduction.pdf) on Math and Deep Neural Networks (Sept 2018), based on the [JASON report](https://fas.org/irp/agency/dod/jason/)
-- Deep Relaxation: [slides.pdf](https://www.adamoberman.net/uploads/6/2/4/2/62426505/2017_08_30_ipam.pdf) and [Video of Lecture](http://www.ipam.ucla.edu/programs/workshops/mean-field-games/?tab=schedule) at 2017 09 IPAM Conference on Mean Field Games
-
-
 # Publications 
 **2024**
 - Harnessing small projectors and multiple views for efficient vision pretraining [NeurIPS 2024 poster](https://neurips.cc/virtual/2024/poster/94719) Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards  
@@ -67,3 +59,13 @@ see also [Applied Mathematics Research](research_older.md)
 4. *Deep Relaxation: partial differential equations for optimizing deep neural networks* Pratik Chaudhari, Adam M. Oberman, Stanley Osher, Stefano Soatto, Guillame Carlier; [Research in Math Sciences](https://link.springer.com/article/10.1007/s40687-018-0148-y) 2018 [arxiv](https://arxiv.org/abs/1704.04932)
 5. *Approximate Homogenization of fully nonlinear elliptic PDEs* Chris Finlay and Adam M. Oberman; [Journal of Scientific Computing](https://link.springer.com/journal/10915) 2018, [arxiv ](https://arxiv.org/abs/1710.10311)
 6. *Approximate Homogenization of convex nonlinear elliptic PDEs* Chris Finlay and Adam M. Oberman; [Comm Math Sci](http://intlpress.com/site/pub/pages/journals/items/cms/_home/_main/) 2018, [arxiv ](https://arxiv.org/abs/1710.10309)
+
+
+
+# Presentations
+- Accelerated SGD [slides](https://www.adamoberman.net/uploads/6/2/4/2/62426505/accelerate_sgd_new_slides_2020_05.pdf)
+- Mathematics applied to Deep Neural Networks (Nov 2018): [slides](https://www.adamoberman.net/uploads/6/2/4/2/62426505/math_comp_brown_11_02.pdf), [Video](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae9989ff-5e3e-4f28-9332-a98d012a4614)
+- Presentation on Generalization of Deep Neural Networks and Adversarial Robustness (Oct 2018) [slides](https://www.adamoberman.net/uploads/6/2/4/2/62426505/miml_oct_30.pdf)
+- Introductory (non research) [talk for undergraduates](https://www.adamoberman.net/uploads/6/2/4/2/62426505/seminar_1_introduction.pdf) on Math and Deep Neural Networks (Sept 2018), based on the [JASON report](https://fas.org/irp/agency/dod/jason/)
+- Deep Relaxation: [slides.pdf](https://www.adamoberman.net/uploads/6/2/4/2/62426505/2017_08_30_ipam.pdf) and [Video of Lecture](http://www.ipam.ucla.edu/programs/workshops/mean-field-games/?tab=schedule) at 2017 09 IPAM Conference on Mean Field Games
+
