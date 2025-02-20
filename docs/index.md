@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Adam Oberman Professor Home Page
+# Adam Oberman McGill Professor Home Page
 
 ## Research Pages
 [Machine Learning/AI Research area](research.md)
