@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Oberman
+title: Main
 ---
 # Adam Oberman McGill Professor
 
-## Research Pages
+## Pages
 - [Machine Learning/AI Research area](research.md)
 - [Applied Mathematics Research](research_math.md)
-
-## Teaching Pages
 - [Teaching](teaching.md)
 
 ## About 
