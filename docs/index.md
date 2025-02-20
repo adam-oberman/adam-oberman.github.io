@@ -6,7 +6,7 @@ title: Oberman
 
 ## Research Pages
 - [Machine Learning/AI Research area](research.md)
-- [Applied Mathematics Research](research_older.md)
+- [Applied Mathematics Research](research_math.md)
 
 ## Teaching Pages
 - [Teaching](teaching.md)
