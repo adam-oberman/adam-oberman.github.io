@@ -4,11 +4,6 @@ title: Main
 ---
 # Adam Oberman McGill Professor
 
-## Pages
-- [Machine Learning/AI Research](research.md)
-- [Applied Mathematics Research](research_math.md)
-- [Teaching](teaching.md)
-
 ## About 
 - 2024 joined Safe AI for Humanity (SAIFH) at Mila
 - 2020 Canada CIFAR AI chair, associate member of [Mila](https://mila.quebec/en/mila/team/) 
@@ -20,3 +15,8 @@ title: Main
 **News:**
 - 2025, Open Philanthropy Grant for career transition to AI safety
 
+
+## Pages
+- [Machine Learning/AI Research](research.md)
+- [Applied Mathematics Research](research_math.md)
+- [Teaching](teaching.md)
