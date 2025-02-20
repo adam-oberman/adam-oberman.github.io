@@ -13,6 +13,16 @@ title: ML/AI Research
   
 see also [Applied Mathematics Research](research_older.md)
 
+
+# Presentations
+- Accelerated SGD [slides](https://www.adamoberman.net/uploads/6/2/4/2/62426505/accelerate_sgd_new_slides_2020_05.pdf)
+- Mathematics applied to Deep Neural Networks (Nov 2018): [slides](https://www.adamoberman.net/uploads/6/2/4/2/62426505/math_comp_brown_11_02.pdf), [Video](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae9989ff-5e3e-4f28-9332-a98d012a4614)
+- Presentation on Generalization of Deep Neural Networks and Adversarial Robustness (Oct 2018) [slides](https://www.adamoberman.net/uploads/6/2/4/2/62426505/miml_oct_30.pdf)
+- Introductory (non research) [talk for undergraduates](https://www.adamoberman.net/uploads/6/2/4/2/62426505/seminar_1_introduction.pdf) on Math and Deep Neural Networks (Sept 2018), based on the [JASON report](https://fas.org/irp/agency/dod/jason/)
+- Deep Relaxation: [slides.pdf](https://www.adamoberman.net/uploads/6/2/4/2/62426505/2017_08_30_ipam.pdf) and [Video of Lecture](http://www.ipam.ucla.edu/programs/workshops/mean-field-games/?tab=schedule) at 2017 09 IPAM Conference on Mean Field Games
+
+
+# Publications 
 **2024**
 - Harnessing small projectors and multiple views for efficient vision pretraining [NeurIPS 2024 poster](https://neurips.cc/virtual/2024/poster/94719) Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards  
 - Multi-Resolution Continuous Normalizing Flows Vikram Voleti, Chris Finlay, Adam Oberman, Christopher Pal, Annals of Mathematics and Artificial Intelligence 2024, [journal](https://doi.org/10.1007/s10472-024-09939-5) [arxiv](https://arxiv.org/abs/2106.08462)
