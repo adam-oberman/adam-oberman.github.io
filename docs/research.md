@@ -15,6 +15,10 @@ see also [Applied Mathematics Research](research_older.md)
 
 
 # Publications 
+**2025**
+- Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path? [arxiv](https://arxiv.org/abs/2502.15657)
+Yoshua Bengio, Michael Cohen, Damiano Fornasiere, Joumana Ghosn, Pietro Greiner, Matt MacDermott, Sören Mindermann, Adam Oberman, Jesse Richardson, Oliver Richardson, Marc-Antoine Rondeau, Pierre-Luc St-Charles, David Williams-King 
+
 **2024**
 - Harnessing small projectors and multiple views for efficient vision pretraining [NeurIPS 2024 poster](https://neurips.cc/virtual/2024/poster/94719) Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards  
 - Multi-Resolution Continuous Normalizing Flows Vikram Voleti, Chris Finlay, Adam Oberman, Christopher Pal, Annals of Mathematics and Artificial Intelligence 2024, [journal](https://doi.org/10.1007/s10472-024-09939-5) [arxiv](https://arxiv.org/abs/2106.08462)
