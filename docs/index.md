@@ -16,6 +16,7 @@ title: Main
 
 
 ## About 
+![Adam Oberman Photo]
 - 2024 joined Safe AI for Humanity (SAIFH) at Mila
 - 2020 Canada CIFAR AI chair, associate member of [Mila](https://mila.quebec/en/mila/team/) 
 - Full Professor 2017, faculty at McGill in 2012.
