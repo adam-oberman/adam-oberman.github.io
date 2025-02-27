@@ -16,7 +16,7 @@ title: Main
 
 
 ## About 
-<img src="obermanphoto.JPG" alt="Adam Oberman Photo" width="100"/>
+<img src="obermanphoto.JPG" alt="Adam Oberman Photo" width="50"/>
 
 - 2024 joined Safe AI for Humanity (SAIFH) at Mila
 - 2020 Canada CIFAR AI chair, associate member of [Mila](https://mila.quebec/en/mila/team/) 
