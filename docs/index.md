@@ -11,6 +11,7 @@ title: Main
 - [Teaching](teaching.md)
 
 ## News 
+- 2025 May, [LawZero](https://lawzero.org/en) has launched 
 - 2025, Open Philanthropy Grant for career transition to AI safety
 - 2024, working on AI Safety with [Yoshua Bengio](https://yoshuabengio.org/)
 
