@@ -27,7 +27,7 @@ Yoshua Bengio, Michael Cohen, Damiano Fornasiere, Joumana Ghosn, Pietro Greiner,
 
 **2023**
 -  Deep PDE solvers for Subgrid Modelling and Out-of-Distribution Generalization, Patrick Chatain, Adam Oberman [NeurIPS 2023 workshop](https://neurips.cc/virtual/2023/workshop/66538) [paper](https://neurips.cc/virtual/2023/75472)
--   EuclidNets: An Alternative Operation for Efficient Inference of Deep Learning  Models Xinlin Li and Mariana Parazeres and Adam M. Oberman and Alireza  Ghaffari and Masoud Asgharian and Vahid Partovi Nia, [SN Computer Science 2023](https://doi.org/10.1007/s42979-023-01921-y) [arXiv](https://arxiv.org/abs/2212.11803)
+-   EuclidNets: An Alternative Operation for Efficient Inference of Deep Learning  Models Xinlin Li and Mariana Prazeres and Adam M. Oberman and Alireza  Ghaffari and Masoud Asgharian and Vahid Partovi Nia, [SN Computer Science 2023](https://doi.org/10.1007/s42979-023-01921-y) [arXiv](https://arxiv.org/abs/2212.11803)
 
 **2022**
 
