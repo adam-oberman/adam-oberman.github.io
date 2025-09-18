@@ -16,9 +16,10 @@ see also [Applied Mathematics Research](research_older.md)
 
 # Publications 
 **2025**
+- *Beyond Scalar Rewards: An Axiomatic Framework for Lexicographic MDPs* [arxiv](https://arxiv.org/abs/2505.12049) **NeurIPS 2025 Spotlight** Mehran Shakerinava, Siamak Ravanbakhsh, Adam Oberman
 - *Numerical PDE solvers outperform neural PDE solvers* [arxiv](https://arxiv.org/abs/2507.21269) Patrick Chatain, Michael Rizvi‑Martel, Guillaume Rabusseau and Adam Oberman 
 - *Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?* [arxiv](https://arxiv.org/abs/2502.15657) Yoshua Bengio, Michael Cohen, Damiano Fornasiere, Joumana Ghosn, Pietro Greiner, Matt MacDermott, Sören Mindermann, Adam Oberman, Jesse Richardson, Oliver Richardson, Marc-Antoine Rondeau, Pierre-Luc St-Charles, David Williams-King
-- *Beyond Scalar Rewards: An Axiomatic Framework for Lexicographic MDPs* [arxiv](https://arxiv.org/abs/2505.12049) Mehran Shakerinava, Siamak Ravanbakhsh, Adam Oberman
+
 
 **2024**
 - Harnessing small projectors and multiple views for efficient vision pretraining [NeurIPS 2024 poster](https://neurips.cc/virtual/2024/poster/94719) Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards  
