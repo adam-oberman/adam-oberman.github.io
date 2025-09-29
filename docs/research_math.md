@@ -4,11 +4,11 @@ title: Applied Math Research
 ---
 
 # Applied Math Research
-** Research areas**
+**Research areas**
 - Numerical methods for nonlinear Partial Differential Equations
 - Optimal Transportation
 
-**2012 - 2020 **
+**2017 - 2020**
 - (Journal and Conference) *No collision transportation maps,* Levon Nurbekyan, Alexander Iannantuono, Adam M. Oberman [NeurIPS 2019 OTML workshop](https://sites.google.com/view/otml2019/schedule) [Journal of Scientific Computing](https://doi.org/10.1007/s10915-020-01143-x) 2020 [arxiv](https://arxiv.org/abs/1912.02317)
 - (Journal) *A regularization interpretation of the proximal point method for weakly convex functions* Tim Hoheisel, Maxime Laborde, Adam Oberman  [Journal of Dynamics and Games ](http://dx.doi.org/10.3934/jdg.2020005)2020
 -  (Conference) *Partial differential equation regularization for supervised machine learning,* Adam Oberman 75 Years of Mathematicas of Computation Symposium (2020) [AMS Contemporary Math](https://www.ams.org/books/conm/) [arxiv](http://arxiv.org/abs/1910.01612)
