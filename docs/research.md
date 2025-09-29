@@ -10,9 +10,6 @@ title: ML/AI Research
 - ML for PDEs / learning PDE solvers
 - adversarial robustness machine learning
 - optimization of deep neural networks
-  
-see also [Applied Mathematics Research](research_older.md)
-
 
 # Publications 
 **2025**
