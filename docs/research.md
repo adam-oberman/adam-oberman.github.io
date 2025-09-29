@@ -63,10 +63,6 @@ see also [Applied Mathematics Research](research_older.md)
 2. *Parle: parallelizing stochastic gradient descent* Pratik Chaudhari, Carlo Baldassi, Riccardo Zecchina, Stefano Soatto, Ameet Talwalkar, Adam Oberman [SysML](http://www.sysml.cc/)  2018 [arxiv](https://arxiv.org/abs/1707.00424)
 3. *Stochastic Backward Euler: An Implicit Gradient Descent Algorithm for k-means Clustering* Penghang Yin, Minh Pham, Adam Oberman, Stanley Osher; [Journal of Scientific Computing](https://doi.org/10.1007/s10915-018-0744-4) 2018 [arxiv](https://arxiv.org/abs/1710.07746)
 4. *Deep Relaxation: partial differential equations for optimizing deep neural networks* Pratik Chaudhari, Adam M. Oberman, Stanley Osher, Stefano Soatto, Guillame Carlier; [Research in Math Sciences](https://link.springer.com/article/10.1007/s40687-018-0148-y) 2018 [arxiv](https://arxiv.org/abs/1704.04932)
-5. *Approximate Homogenization of fully nonlinear elliptic PDEs* Chris Finlay and Adam M. Oberman; [Journal of Scientific Computing](https://link.springer.com/journal/10915) 2018, [arxiv ](https://arxiv.org/abs/1710.10311)
-6. *Approximate Homogenization of convex nonlinear elliptic PDEs* Chris Finlay and Adam M. Oberman; [Comm Math Sci](http://intlpress.com/site/pub/pages/journals/items/cms/_home/_main/) 2018, [arxiv ](https://arxiv.org/abs/1710.10309)
-
-
 
 # Presentations
 - Accelerated SGD [slides](https://www.adamoberman.net/uploads/6/2/4/2/62426505/accelerate_sgd_new_slides_2020_05.pdf)
