@@ -17,6 +17,7 @@ title: Main
 
 ## About 
 <img src="Adam3.jpeg" alt="Adam Oberman Photo" width="120"/>
+
 - 2020 Canada CIFAR AI chair, associate member of [Mila](https://mila.quebec/en/mila/team/) 
 - Full Professor 2017, faculty at McGill in 2012.
 - Simons Fellowship at UCLA in 2017. 
