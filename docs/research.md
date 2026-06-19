@@ -12,6 +12,8 @@ title: ML/AI Research
 - optimization of deep neural networks
 
 # Publications 
+**2026**
+- *Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms* [arxiv](https://arxiv.org/abs/2605.08496) Linh Le, David Williams-King, Mohamed Amine Merzouk, Aton Kamanda, Adam Oberman
 **2025**
 - *Beyond Scalar Rewards: An Axiomatic Framework for Lexicographic MDPs* [arxiv](https://arxiv.org/abs/2505.12049) **NeurIPS 2025 Spotlight** Mehran Shakerinava, Siamak Ravanbakhsh, Adam Oberman
 - *Numerical PDE solvers outperform neural PDE solvers* [arxiv](https://arxiv.org/abs/2507.21269) Patrick Chatain, Michael Rizvi‑Martel, Guillaume Rabusseau and Adam Oberman 
