@@ -13,6 +13,8 @@ title: ML/AI Research
 
 # Publications 
 **2026**
+- *Safety from Honesty in a Disinterested AI Predictor*
+Yoshua Bengio, Oliver Richardson, ... Adam Oberman, ..., Iulian Serban, Joumana Ghosn [arxiv](https://arxiv.org/abs/2606.29657)
 - *Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms* [arxiv](https://arxiv.org/abs/2605.08496) Linh Le, David Williams-King, Mohamed Amine Merzouk, Aton Kamanda, Adam Oberman
 **2025**
 - *Beyond Scalar Rewards: An Axiomatic Framework for Lexicographic MDPs* [arxiv](https://arxiv.org/abs/2505.12049) **NeurIPS 2025 Spotlight** Mehran Shakerinava, Siamak Ravanbakhsh, Adam Oberman
