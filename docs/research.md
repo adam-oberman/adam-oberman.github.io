@@ -13,6 +13,7 @@ title: ML/AI Research
 
 # Publications 
 **2026**
+- *How Much is Left? LLMs Linearly Encode Their Remaining Output Length* Mohamed Amine Merzouk, Dmitri Carpov, Mirko Bronzi, Damiano Fornasiere, Adam Oberman [arxiv](https://arxiv.org/abs/2607.05316)
 - *Safety from Honesty in a Disinterested AI Predictor*
 Yoshua Bengio, Oliver Richardson, ... Adam Oberman, ..., Iulian Serban, Joumana Ghosn [arxiv](https://arxiv.org/abs/2606.29657)
 
