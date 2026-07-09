@@ -16,6 +16,11 @@ title: ML/AI Research
 - *How Much is Left? LLMs Linearly Encode Their Remaining Output Length* Mohamed Amine Merzouk, Dmitri Carpov, Mirko Bronzi, Damiano Fornasiere, Adam Oberman [arxiv](https://arxiv.org/abs/2607.05316)
 - *Safety from Honesty in a Disinterested AI Predictor*
 Yoshua Bengio, Oliver Richardson, ... Adam Oberman, ..., Iulian Serban, Joumana Ghosn [arxiv](https://arxiv.org/abs/2606.29657)
+- *Efficient Safety Alignment of Language Models via Latent Personality
+ Traits* Mohamed Amine Merzouk, Nolan Smyth, Damiano Fornasiere, Linh Le, David
+ Williams-King, Adam Oberman Accepted at COLM 2026 [arxiv]()
+- *Avoiding unsafe sets when training with Langevin Dynamics* Adam M. Oberman [arxiv](https://arxiv.org/abs/2607.07538)
+- *Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization* Adam M. Oberman [arxiv](https://arxiv.org/abs/2607.07513)
 
 **2025**
 - *Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms* [arxiv](https://arxiv.org/abs/2605.08496) Linh Le, David Williams-King, Mohamed Amine Merzouk, Aton Kamanda, Adam Oberman
