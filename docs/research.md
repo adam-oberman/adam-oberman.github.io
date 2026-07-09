@@ -27,11 +27,11 @@ Yoshua Bengio, Oliver Richardson, ... Adam Oberman, ..., Iulian Serban, Joumana 
 **2025**
 - *Beyond Scalar Rewards: An Axiomatic Framework for Lexicographic MDPs* [arxiv](https://arxiv.org/abs/2505.12049) **NeurIPS 2025 Spotlight** Mehran Shakerinava, Siamak Ravanbakhsh, Adam Oberman
 - *Numerical PDE solvers outperform neural PDE solvers* [arxiv](https://arxiv.org/abs/2507.21269) Patrick Chatain, Michael Rizvi‑Martel, Guillaume Rabusseau and Adam Oberman 
-- *Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?* [arxiv](https://arxiv.org/abs/2502.15657) Yoshua Bengio, Michael Cohen, Damiano Fornasiere, Joumana Ghosn, Pietro Greiner, Matt MacDermott, Sören Mindermann, Adam Oberman, Jesse Richardson, Oliver Richardson, Marc-Antoine Rondeau, Pierre-Luc St-Charles, David Williams-King
+- *Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?* Yoshua Bengio, Michael Cohen, Damiano Fornasiere, Joumana Ghosn, Pietro Greiner, Matt MacDermott, Sören Mindermann, Adam Oberman, Jesse Richardson, Oliver Richardson, Marc-Antoine Rondeau, Pierre-Luc St-Charles, David Williams-King [arxiv](https://arxiv.org/abs/2502.15657) 
 
 
 **2024**
-- Harnessing small projectors and multiple views for efficient vision pretraining [NeurIPS 2024 poster](https://neurips.cc/virtual/2024/poster/94719) Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards  
+- Harnessing small projectors and multiple views for efficient vision pretraining  Arna Ghosh, Kumar Krishna Agrawal, Shagun Sodhani, Adam Oberman, Blake Richards [NeurIPS 2024 poster](https://neurips.cc/virtual/2024/poster/94719) 
 - Multi-Resolution Continuous Normalizing Flows Vikram Voleti, Chris Finlay, Adam Oberman, Christopher Pal, Annals of Mathematics and Artificial Intelligence 2024, [journal](https://doi.org/10.1007/s10472-024-09939-5) [arxiv](https://arxiv.org/abs/2106.08462)
 - Can Safety Fine-Tuning Be More Principled? Lessons Learned from Cybersecurity David Williams-King, Linh Le, Adam Oberman, Yoshua Bengio [Safe Generative AI Workshop @ NeurIPS 2024](https://safegenaiworkshop.github.io/) [open review](https://openreview.net/forum?id=QO7dF42YEb)
 
