@@ -18,7 +18,7 @@ title: ML/AI Research
 Yoshua Bengio, Oliver Richardson, ... Adam Oberman, ..., Iulian Serban, Joumana Ghosn [arxiv](https://arxiv.org/abs/2606.29657)
 - *Efficient Safety Alignment of Language Models via Latent Personality
  Traits* Mohamed Amine Merzouk, Nolan Smyth, Damiano Fornasiere, Linh Le, David
- Williams-King, Adam Oberman Accepted at COLM 2026 [arxiv]()
+ Williams-King, Adam Oberman Accepted at [COLM 2026](https://colmweb.org/) 
 - *Avoiding unsafe sets when training with Langevin Dynamics* Adam M. Oberman [arxiv](https://arxiv.org/abs/2607.07538)
 - *Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization* Adam M. Oberman [arxiv](https://arxiv.org/abs/2607.07513)
 
