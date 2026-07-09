@@ -23,7 +23,7 @@ Yoshua Bengio, Oliver Richardson, ... Adam Oberman, ..., Iulian Serban, Joumana 
 - *Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization* Adam M. Oberman [arxiv](https://arxiv.org/abs/2607.07513)
 
 **2025**
-- *Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms*  Linh Le, David Williams-King, Mohamed Amine Merzouk, Aton Kamanda, Adam Oberman [arxiv](https://arxiv.org/abs/2605.08496)
+- *Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms*  Linh Le, David Williams-King, Mohamed Amine Merzouk, Aton Kamanda, Adam Oberman [arxiv](https://arxiv.org/abs/2605.08496) Trustworthy AI Workshop, ICLR 2026
 - *Beyond Scalar Rewards: An Axiomatic Framework for Lexicographic MDPs*  Mehran Shakerinava, Siamak Ravanbakhsh, Adam Oberman [arxiv](https://arxiv.org/abs/2505.12049) **NeurIPS 2025 Spotlight**
 - *Numerical PDE solvers outperform neural PDE solvers* Patrick Chatain, Michael Rizvi‑Martel, Guillaume Rabusseau and Adam Oberman [arxiv](https://arxiv.org/abs/2507.21269) 
 - *Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?* Yoshua Bengio, Michael Cohen, Damiano Fornasiere, Joumana Ghosn, Pietro Greiner, Matt MacDermott, Sören Mindermann, Adam Oberman, Jesse Richardson, Oliver Richardson, Marc-Antoine Rondeau, Pierre-Luc St-Charles, David Williams-King [arxiv](https://arxiv.org/abs/2502.15657) 
