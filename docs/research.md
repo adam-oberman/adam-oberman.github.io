@@ -4,23 +4,17 @@ title: ML/AI Research
 ---
 
 # Machine Learning/AI Research 
-- Generative models: Normalizing flows, diffusion models
-- Architectures: EuclidNets
-- Calibration
-- ML for PDEs / learning PDE solvers
-- adversarial robustness machine learning
-- optimization of deep neural networks
 
 # Publications 
 **2026**
-- *How Much is Left? LLMs Linearly Encode Their Remaining Output Length* Mohamed Amine Merzouk, Dmitri Carpov, Mirko Bronzi, Damiano Fornasiere, Adam Oberman [arxiv](https://arxiv.org/abs/2607.05316)
-- *Safety from Honesty in a Disinterested AI Predictor*
-Yoshua Bengio, Oliver Richardson, ... Adam Oberman, ..., Iulian Serban, Joumana Ghosn [arxiv](https://arxiv.org/abs/2606.29657)
 - *Efficient Safety Alignment of Language Models via Latent Personality
  Traits* Mohamed Amine Merzouk, Nolan Smyth, Damiano Fornasiere, Linh Le, David
  Williams-King, Adam Oberman [arxiv](https://arxiv.org/abs/2607.07918) Accepted at [COLM 2026](https://colmweb.org/) 
+- *How Much is Left? LLMs Linearly Encode Their Remaining Output Length* Mohamed Amine Merzouk, Dmitri Carpov, Mirko Bronzi, Damiano Fornasiere, Adam Oberman [arxiv](https://arxiv.org/abs/2607.05316)
+- *Individual Disempowerment through an Advice Channel: Control Loss when Influence is Endogenous* Adam Oberman [arxiv](https://arxiv.org/abs/2608.14795)
 - *Avoiding unsafe sets when training with Langevin Dynamics* Adam M. Oberman [arxiv](https://arxiv.org/abs/2607.07538)
 - *Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization* Adam M. Oberman [arxiv](https://arxiv.org/abs/2607.07513)
+- *Safety from Honesty in a Disinterested AI Predictor* Yoshua Bengio, Oliver Richardson, ... Adam Oberman, ..., Iulian Serban, Joumana Ghosn [arxiv](https://arxiv.org/abs/2606.29657)
 
 **2025**
 - *Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms*  Linh Le, David Williams-King, Mohamed Amine Merzouk, Aton Kamanda, Adam Oberman [arxiv](https://arxiv.org/abs/2605.08496) Trustworthy AI Workshop, ICLR 2026
