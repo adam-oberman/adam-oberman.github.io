@@ -34,6 +34,37 @@ deep learning and on numerical methods for nonlinear PDEs and optimal transport.
 - **Jul 2025** — Open Philanthropy research grant for latent adversarial training.
 - [Older news](news.html)
 
+## Research Group
+**Postdocs and research staff**
+- Mohamed Amine Merzouk, Postdoctoral Fellow (2025–)
+- Miguel Ayala, Postdoctoral Fellow, co-supervised with Rustum Choksi (2026–)
+- Yann Pequignot, Research Associate (2026–)
+- Sarath Chingapurathu, Research Assistant (2026–)
+
+**MSc students**
+- Michael Alexander
+- Geoffrey Kelley (with Jean-Philippe Lessard)
+
+**Undergraduate researchers (2026)**
+- Maeve Côté · George Adamopoulos
+
+**Mila research collaborators**
+- Mehran Shakerinava (PhD McGill CS, advisor Siamak Ravanbakhsh)
+- Michael Rizvi-Martel (PhD, Université de Montréal, advisor Guillaume Rabusseau)
+- 
+
+**Alumni (selected placements)**
+- Brittany Froese Hamfeldt (PhD) → Professor, NJIT; NSF CAREER Award
+- Levon Nurbekyan (postdoc) → faculty, Emory
+- Yao Yao (postdoc) → faculty, Georgia Tech
+- Yanghong Huang (postdoc) → Lecturer, University of Manchester
+- Chris Finlay (PhD, postdoc) → Head Researcher, Deep Render
+- Kilian Fatras (postdoc) → Research Scientist, Dreamfold.ai
+- Linh Le (postdoc, AI Safety researcher at Lida Safety)
+- [Full list](group.html)
+
+**Prospective students and postdocs:** I'm looking for people interested in AI alignment and the mathematics of AI risk. Email me with a CV and a short statement of interest.
+
 
 ## About 
 <img src="Adam3.jpeg" alt="Adam Oberman Photo" width="120"/>
