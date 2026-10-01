@@ -71,11 +71,6 @@ deep learning and on numerical methods for nonlinear PDEs and optimal transport.
 
 
 ## About 
-<img src="Adam3.jpeg" alt="Adam Oberman Photo" width="120"/>
-
-- Canada CIFAR AI chair (2020-2206), associate member of [Mila](https://mila.quebec/en/mila/team/) 
-- Full Professor 2017, faculty at McGill in 2012.
-- Simons Fellowship at UCLA in 2017. 
-- Faculty at Simon Fraser  University from 2004 to 2012. Postdoc at the University of Texas, at  Austin from 2001-2004.  PhD from  the University of Chicago.
+<img src="Adam3.jpeg" alt="Adam Oberman Photo" width="240"/>
 
 
