@@ -2,7 +2,18 @@
 layout: default
 title: Main
 ---
-# Adam Oberman McGill Professor
+# Adam Oberman 
+
+Professor of Mathematics and Statistics, McGill University · Associate Member, Mila · Research Consultant, LawZero
+
+My research is on AI safety and alignment. Current projects study how to align language models
+through their latent representations (latent personality traits, latent adversarial training),
+safe-by-design AI systems (Scientist AI, with Yoshua Bengio), and mathematical models of AI risk,
+such as human disempowerment through AI advice. This builds on earlier work on the mathematics of
+deep learning and on numerical methods for nonlinear PDEs and optimal transport.
+
+[Google Scholar](https://scholar.google.com/citations?user=LPAZlL8AAAAJ) · [CV (PDF)](cv.pdf) · [arXiv](https://arxiv.org/a/oberman_a_1) · email
+
 
 ## Pages
 - [Machine Learning/AI Research](research.md)
@@ -10,7 +21,19 @@ title: Main
 - [google scholar](https://scholar.google.com/citations?user=LPAZlL8AAAAJ&hl=en)
 - [Teaching](teaching.md)
 
-## News 
+## News
+- **Sep 2026** — Group grows: welcome Miguel Ayala (postdoc, with Rustum Choksi), Yann Pequignot (research associate),
+  Sarath Chingapurathu (RA), and MSc students Michael Alexander and Geoffrey Kelley.
+- **2026** — *How Much is Left? LLMs Linearly Encode Their Remaining Output Length* accepted at **NeurIPS 2026** (Amine Merzouk et al.). [arXiv](https://arxiv.org/abs/2607.05316)
+- **2026** — *Efficient Safety Alignment of Language Models via Latent Personality Traits* accepted at **COLM 2026**. [arXiv](https://arxiv.org/abs/2607.07918)
+- **Aug 2026** — New preprint: *Individual Disempowerment through an Advice Channel*. [arXiv](https://arxiv.org/abs/2608.14795)
+- **Jul 2026** — Two new preprints: *Avoiding Unsafe Sets when Training with Langevin Dynamics* and *Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization*.
+- **Jun 2026** — *Safety from Honesty in a Disinterested AI Predictor* (with Yoshua Bengio and the LawZero team). [arXiv](https://arxiv.org/abs/2606.29657)
+- **2026** — Area Chair, NeurIPS 2026 and the AAAI 2027 AI Alignment Track.
+- **2025** — NeurIPS 2025 **Spotlight**: *Beyond Scalar Rewards: Lexicographic MDPs* (Mehran Shakerinava, Siamak Ravanbakhsh).
+- **Jul 2025** — Open Philanthropy research grant for latent adversarial training.
+- [Older news](news.html)
+
 - 2026, [LawZero blog posts](https://lawzero.org/en/blog) 
 - 2025, June, [AI Risks and Current Approaches to AI Safety Presentation](https://www.birs.ca/events/2025/5-day-workshops/25w5382/videos/watch/202506240901-Oberman.html)
 - 2025 May, [LawZero](https://lawzero.org/en) has launched 
