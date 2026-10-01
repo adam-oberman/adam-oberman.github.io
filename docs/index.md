@@ -64,7 +64,7 @@ deep learning and on numerical methods for nonlinear PDEs and optimal transport.
 - Chris Finlay (PhD, postdoc) → Head Researcher, Deep Render
 - Kilian Fatras (postdoc) → Research Scientist, Dreamfold.ai
 - Linh Le (postdoc, AI Safety researcher at Lida Safety)
-- [Full list](group.html)
+
 
 **Prospective students and postdocs:** I'm looking for people interested in AI alignment and the mathematics of AI risk. Email me with a CV and a short statement of interest.
 
