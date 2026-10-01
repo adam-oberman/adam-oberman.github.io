@@ -12,7 +12,8 @@ safe-by-design AI systems (Scientist AI, with Yoshua Bengio), and mathematical m
 such as human disempowerment through AI advice. This builds on earlier work on the mathematics of
 deep learning and on numerical methods for nonlinear PDEs and optimal transport.
 
-[Google Scholar](https://scholar.google.com/citations?user=LPAZlL8AAAAJ) · [CV (PDF)](cv.pdf) · [arXiv](https://arxiv.org/a/oberman_a_1) · email
+[Google Scholar](https://scholar.google.com/citations?user=LPAZlL8AAAAJ) · [arXiv](https://arxiv.org/search/?searchtype=author&query=Oberman%2C+A+M)) · email: adam.oberman@mcgill.ca
+
 
 
 ## Pages
