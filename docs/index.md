@@ -48,10 +48,13 @@ deep learning and on numerical methods for nonlinear PDEs and optimal transport.
 **Undergraduate researchers (2026)**
 - Maeve Côté · George Adamopoulos
 
-**Mila research collaborators**
-- Mehran Shakerinava (PhD McGill CS, advisor Siamak Ravanbakhsh)
-- Michael Rizvi-Martel (PhD, Université de Montréal, advisor Guillaume Rabusseau)
-- 
+**Research collaborators**
+- Mehran Shakerinava (Mila; PhD, McGill CS; advisor Siamak Ravanbakhsh)
+- Michael Rizvi-Martel (Mila; PhD, Université de Montréal; advisor Guillaume Rabusseau)
+- Jean-Pierre Falet (Mila, LawZero; PhD student, advisor Yoshua Bengio)
+- Oliver Richardson (Mila, LawZero; postdoc with Yoshua Bengio)
+
+
 
 **Alumni (selected placements)**
 - Brittany Froese Hamfeldt (PhD) → Professor, NJIT; NSF CAREER Award
