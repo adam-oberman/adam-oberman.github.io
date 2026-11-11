@@ -41,6 +41,7 @@ deep learning and on numerical methods for nonlinear PDEs and optimal transport.
 - Mohamed Amine Merzouk, Postdoctoral Fellow (2025–)
 - Miguel Ayala, Postdoctoral Fellow, co-supervised with Rustum Choksi (2026–)
 - Yann Pequignot, Research Associate (2026–)
+- Sarath Chingapurathu (RA 2026 Fall)
 
 **MSc students**
 - Michael Alexander
