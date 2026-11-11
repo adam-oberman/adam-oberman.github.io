@@ -23,6 +23,7 @@ deep learning and on numerical methods for nonlinear PDEs and optimal transport.
 - [Teaching](teaching.md)
 
 ## News
+- **Nov 2026** - Recruiting information: due to the costs of international tuition at McGill, I am not taking any international students for next year.
 - **Sep 2026** — Group grows: welcome Miguel Ayala (postdoc, with Rustum Choksi), Yann Pequignot (research associate),
   Sarath Chingapurathu (RA), and MSc students Michael Alexander and Geoffrey Kelley.
 - **2026** — *How Much is Left? LLMs Linearly Encode Their Remaining Output Length* accepted at **NeurIPS 2026** (Amine Merzouk et al.). [arXiv](https://arxiv.org/abs/2607.05316)
